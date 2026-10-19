@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "OD Can Jaume",
+    "slug": "od-can-jaume",
+    "location": "Ibiza"
+  },
+  "asset_base_path": "assets/proyectos/od-can-jaume/",
+  "cover_id": "od-can-jaume-exterior-escalera",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "od-can-jaume-exterior-escalera",
+      "od-can-jaume-camino-jardin",
+      "od-can-jaume-jardin-escalera",
+      "od-can-jaume-palmeras-muros",
+      "od-can-jaume-exterior-muros-bajos",
+      "od-can-jaume-terraza-banera",
+      "od-can-jaume-salon-chimenea",
+      "od-can-jaume-detalle-muros-palmera",
+      "od-can-jaume-detalle-exterior-sombras",
+      "od-can-jaume-detalle-volumenes"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "od-can-jaume-exterior-escalera",
+      "original_filename": "can_jaume_01.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Exterior de OD Can Jaume en Ibiza con volúmenes blancos, escalera curva y árboles frente a un muro bajo.",
+      "caption": "Exterior con escalera de OD Can Jaume.",
+      "description": "Vista horizontal del exterior de OD Can Jaume, en Ibiza, con volúmenes blancos, una escalera curva y árboles entre los que se ve un muro bajo de textura irregular.",
+      "src": "od-can-jaume-exterior-escalera-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 356432,
+      "srcset": "od-can-jaume-exterior-escalera-480.webp 480w, od-can-jaume-exterior-escalera-960.webp 960w, od-can-jaume-exterior-escalera-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-can-jaume-exterior-escalera-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 42726,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-exterior-escalera-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 111396,
+          "quality": 70
+        },
+        {
+          "src": "od-can-jaume-exterior-escalera-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 356432,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-can-jaume-camino-jardin",
+      "original_filename": "can_jaume_09.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Camino de grava de OD Can Jaume con palmeras, árboles y edificios claros tras un muro bajo.",
+      "caption": "Camino y jardín de OD Can Jaume.",
+      "description": "Vista del camino de grava de OD Can Jaume entre palmeras y árboles, con edificios claros al fondo y muros bajos de textura irregular junto al jardín.",
+      "src": "od-can-jaume-camino-jardin-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 413358,
+      "srcset": "od-can-jaume-camino-jardin-480.webp 480w, od-can-jaume-camino-jardin-960.webp 960w, od-can-jaume-camino-jardin-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-can-jaume-camino-jardin-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 32540,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-camino-jardin-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 106526,
+          "quality": 76
+        },
+        {
+          "src": "od-can-jaume-camino-jardin-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 413358,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-can-jaume-jardin-escalera",
+      "original_filename": "can_jaume_00.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Escalera curva de OD Can Jaume entre volúmenes blancos, con árboles y un camino de tierra en primer plano.",
+      "caption": "Escalera entre los árboles de OD Can Jaume.",
+      "description": "Vista vertical del exterior de OD Can Jaume, con una escalera curva entre volúmenes blancos, árboles a ambos lados y un camino de tierra en primer plano.",
+      "src": "od-can-jaume-jardin-escalera-1066.webp",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 265414,
+      "srcset": "od-can-jaume-jardin-escalera-480.webp 480w, od-can-jaume-jardin-escalera-768.webp 768w, od-can-jaume-jardin-escalera-1066.webp 1066w",
+      "variants": [
+        {
+          "src": "od-can-jaume-jardin-escalera-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 58620,
+          "quality": 70
+        },
+        {
+          "src": "od-can-jaume-jardin-escalera-768.webp",
+          "width": 768,
+          "height": 1153,
+          "bytes": 144820,
+          "quality": 70
+        },
+        {
+          "src": "od-can-jaume-jardin-escalera-1066.webp",
+          "width": 1066,
+          "height": 1600,
+          "bytes": 265414,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-can-jaume-palmeras-muros",
+      "original_filename": "can_jaume_03.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Exterior de OD Can Jaume con palmeras, árboles y muros blancos junto a un muro bajo de textura irregular.",
+      "caption": "Palmeras y muros de OD Can Jaume.",
+      "description": "Vista del jardín de OD Can Jaume, con palmeras y árboles junto a muros blancos, suelo de tierra y un muro bajo de textura irregular.",
+      "src": "od-can-jaume-palmeras-muros-1066.webp",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 211542,
+      "srcset": "od-can-jaume-palmeras-muros-480.webp 480w, od-can-jaume-palmeras-muros-768.webp 768w, od-can-jaume-palmeras-muros-1066.webp 1066w",
+      "variants": [
+        {
+          "src": "od-can-jaume-palmeras-muros-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 49930,
+          "quality": 73
+        },
+        {
+          "src": "od-can-jaume-palmeras-muros-768.webp",
+          "width": 768,
+          "height": 1153,
+          "bytes": 115876,
+          "quality": 70
+        },
+        {
+          "src": "od-can-jaume-palmeras-muros-1066.webp",
+          "width": 1066,
+          "height": 1600,
+          "bytes": 211542,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-can-jaume-exterior-muros-bajos",
+      "original_filename": "can_jaume_07.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Exterior de OD Can Jaume con edificios blancos y una zona de muros bajos delimitada por cuerdas en primer plano.",
+      "caption": "Vista general del exterior de OD Can Jaume.",
+      "description": "Vista general del exterior de OD Can Jaume, con edificios blancos y palmeras al fondo y una zona de muros bajos de textura irregular delimitada por postes y cuerdas en primer plano.",
+      "src": "od-can-jaume-exterior-muros-bajos-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 228120,
+      "srcset": "od-can-jaume-exterior-muros-bajos-480.webp 480w, od-can-jaume-exterior-muros-bajos-960.webp 960w, od-can-jaume-exterior-muros-bajos-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-can-jaume-exterior-muros-bajos-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 22188,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-exterior-muros-bajos-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 86734,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-exterior-muros-bajos-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 228120,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-can-jaume-terraza-banera",
+      "original_filename": "can_jaume_06.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Terraza de OD Can Jaume con bañera de hidromasaje, tumbonas y pavimento de lamas junto a muros blancos.",
+      "caption": "Terraza con bañera de OD Can Jaume.",
+      "description": "Vista desde arriba de una terraza de OD Can Jaume, con bañera de hidromasaje, tumbonas y pavimento de lamas, rodeada de muros blancos y vegetación.",
+      "src": "od-can-jaume-terraza-banera-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 217420,
+      "srcset": "od-can-jaume-terraza-banera-480.webp 480w, od-can-jaume-terraza-banera-960.webp 960w, od-can-jaume-terraza-banera-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-can-jaume-terraza-banera-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 18592,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-terraza-banera-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 64798,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-terraza-banera-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 217420,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "od-can-jaume-salon-chimenea",
+      "original_filename": "can_jaume_08.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Salón de OD Can Jaume con chimenea, dos sillones grises, mesa auxiliar y escritorio con ordenador.",
+      "caption": "Salón con chimenea de OD Can Jaume.",
+      "description": "Vista del salón de OD Can Jaume, con dos sillones grises y una mesa auxiliar ante una chimenea, cuadros sobre las paredes blancas y un escritorio con ordenador a un lado.",
+      "src": "od-can-jaume-salon-chimenea-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 175138,
+      "srcset": "od-can-jaume-salon-chimenea-480.webp 480w, od-can-jaume-salon-chimenea-960.webp 960w, od-can-jaume-salon-chimenea-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-can-jaume-salon-chimenea-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 14210,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-salon-chimenea-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 47658,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-salon-chimenea-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 175138,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "od-can-jaume-detalle-muros-palmera",
+      "original_filename": "can_jaume_04.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Detalle exterior de OD Can Jaume con muros blancos a distintas alturas y hojas de palmera contra el cielo.",
+      "caption": "Muros blancos y palmera de OD Can Jaume.",
+      "description": "Vista ascendente de un rincón exterior de OD Can Jaume, con muros blancos a distintas alturas, hojas de palmera y cielo azul.",
+      "src": "od-can-jaume-detalle-muros-palmera-1066.webp",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 75768,
+      "srcset": "od-can-jaume-detalle-muros-palmera-480.webp 480w, od-can-jaume-detalle-muros-palmera-768.webp 768w, od-can-jaume-detalle-muros-palmera-1066.webp 1066w",
+      "variants": [
+        {
+          "src": "od-can-jaume-detalle-muros-palmera-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 16880,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-detalle-muros-palmera-768.webp",
+          "width": 768,
+          "height": 1153,
+          "bytes": 42682,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-detalle-muros-palmera-1066.webp",
+          "width": 1066,
+          "height": 1600,
+          "bytes": 75768,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "od-can-jaume-detalle-exterior-sombras",
+      "original_filename": "can_jaume_02.webp",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Detalle de OD Can Jaume con muros blancos, sombras geométricas y un elemento circular sobre un brazo bajo el cielo azul.",
+      "caption": "Detalle exterior y sombras de OD Can Jaume.",
+      "description": "Vista ascendente de una zona exterior de OD Can Jaume, con muros blancos, sombras geométricas y un elemento circular sobre un brazo que sobresale del muro.",
+      "src": "od-can-jaume-detalle-exterior-sombras-1066.webp",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 39998,
+      "srcset": "od-can-jaume-detalle-exterior-sombras-480.webp 480w, od-can-jaume-detalle-exterior-sombras-768.webp 768w, od-can-jaume-detalle-exterior-sombras-1066.webp 1066w",
+      "variants": [
+        {
+          "src": "od-can-jaume-detalle-exterior-sombras-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 5234,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-detalle-exterior-sombras-768.webp",
+          "width": 768,
+          "height": 1153,
+          "bytes": 16998,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-detalle-exterior-sombras-1066.webp",
+          "width": 1066,
+          "height": 1600,
+          "bytes": 39998,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "od-can-jaume-detalle-volumenes",
+      "original_filename": "can_jaume_05.webp",
+      "order": 10,
+      "is_cover": false,
+      "alt": "Volúmenes blancos de OD Can Jaume con sombras diagonales y un elemento circular en la parte superior.",
+      "caption": "Volúmenes y sombras de OD Can Jaume.",
+      "description": "Detalle de los volúmenes blancos de OD Can Jaume, con planos a distintas alturas, sombras diagonales y un elemento circular sobre un brazo bajo el cielo azul.",
+      "src": "od-can-jaume-detalle-volumenes-1066.webp",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 19340,
+      "srcset": "od-can-jaume-detalle-volumenes-480.webp 480w, od-can-jaume-detalle-volumenes-768.webp 768w, od-can-jaume-detalle-volumenes-1066.webp 1066w",
+      "variants": [
+        {
+          "src": "od-can-jaume-detalle-volumenes-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 4274,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-detalle-volumenes-768.webp",
+          "width": 768,
+          "height": 1153,
+          "bytes": 9804,
+          "quality": 82
+        },
+        {
+          "src": "od-can-jaume-detalle-volumenes-1066.webp",
+          "width": 1066,
+          "height": 1600,
+          "bytes": 19340,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
