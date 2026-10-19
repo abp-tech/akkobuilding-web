@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Nesho",
+    "slug": "nesho-costa-den-blanes",
+    "location": "Costa d’en Blanes"
+  },
+  "asset_base_path": "assets/proyectos/nesho-costa-den-blanes/",
+  "cover_id": "nesho-costa-den-blanes-fachada-piscina",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "nesho-costa-den-blanes-fachada-piscina",
+      "nesho-costa-den-blanes-terraza-vistas",
+      "nesho-costa-den-blanes-salon-comedor-cocina",
+      "nesho-costa-den-blanes-porche-piscina",
+      "nesho-costa-den-blanes-terraza-superior"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "nesho-costa-den-blanes-fachada-piscina",
+      "original_filename": "nesho_04.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Fachada de Nesho en Costa d’en Blanes con dos plantas, terraza acristalada y piscina en primer plano.",
+      "caption": "Fachada y piscina de Nesho, Costa d’en Blanes.",
+      "description": "Vista exterior de Nesho en Costa d’en Blanes, con dos plantas, grandes ventanales, paneles oscuros, barandilla de vidrio y una piscina junto a la terraza amueblada.",
+      "src": "nesho-costa-den-blanes-fachada-piscina-1881.webp",
+      "width": 1881,
+      "height": 1600,
+      "bytes": 225124,
+      "srcset": "nesho-costa-den-blanes-fachada-piscina-480.webp 480w, nesho-costa-den-blanes-fachada-piscina-960.webp 960w, nesho-costa-den-blanes-fachada-piscina-1881.webp 1881w",
+      "variants": [
+        {
+          "src": "nesho-costa-den-blanes-fachada-piscina-480.webp",
+          "width": 480,
+          "height": 408,
+          "bytes": 28550,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-fachada-piscina-960.webp",
+          "width": 960,
+          "height": 817,
+          "bytes": 97368,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-fachada-piscina-1881.webp",
+          "width": 1881,
+          "height": 1600,
+          "bytes": 225124,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "nesho-costa-den-blanes-terraza-vistas",
+      "original_filename": "nesho_00.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Terraza de Nesho en Costa d’en Blanes con sofás claros, piscina curva y vistas hacia el mar entre los árboles.",
+      "caption": "Terraza con piscina y vistas de Nesho.",
+      "description": "Vista desde la terraza cubierta de Nesho en Costa d’en Blanes, con sofás claros, mesas bajas y una piscina de borde curvo que se abre hacia los árboles y el mar al fondo.",
+      "src": "nesho-costa-den-blanes-terraza-vistas-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 215248,
+      "srcset": "nesho-costa-den-blanes-terraza-vistas-480.webp 480w, nesho-costa-den-blanes-terraza-vistas-960.webp 960w, nesho-costa-den-blanes-terraza-vistas-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "nesho-costa-den-blanes-terraza-vistas-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 21378,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-terraza-vistas-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 76252,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-terraza-vistas-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 215248,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "nesho-costa-den-blanes-salon-comedor-cocina",
+      "original_filename": "nesho_02.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Interior de Nesho en Costa d’en Blanes con isla de cocina, mesa de comedor y sofá junto a grandes ventanales.",
+      "caption": "Cocina, comedor y salón de Nesho.",
+      "description": "Vista del espacio interior de Nesho en Costa d’en Blanes, con una isla de cocina y fregadero en primer plano, mesa de comedor, sofá y ventanales hacia la terraza y la piscina.",
+      "src": "nesho-costa-den-blanes-salon-comedor-cocina-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 187706,
+      "srcset": "nesho-costa-den-blanes-salon-comedor-cocina-480.webp 480w, nesho-costa-den-blanes-salon-comedor-cocina-960.webp 960w, nesho-costa-den-blanes-salon-comedor-cocina-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "nesho-costa-den-blanes-salon-comedor-cocina-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 21840,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-salon-comedor-cocina-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 74294,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-salon-comedor-cocina-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 187706,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "nesho-costa-den-blanes-porche-piscina",
+      "original_filename": "nesho_03.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Porche de Nesho en Costa d’en Blanes con sillones blancos, mesas bajas y piscina junto a la vegetación.",
+      "caption": "Porche amueblado junto a la piscina de Nesho.",
+      "description": "Vista a lo largo del porche de Nesho en Costa d’en Blanes, con sillones y sofás blancos, mesas bajas, pilares oscuros y una piscina junto a la vegetación del jardín.",
+      "src": "nesho-costa-den-blanes-porche-piscina-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 265156,
+      "srcset": "nesho-costa-den-blanes-porche-piscina-480.webp 480w, nesho-costa-den-blanes-porche-piscina-960.webp 960w, nesho-costa-den-blanes-porche-piscina-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "nesho-costa-den-blanes-porche-piscina-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 21538,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-porche-piscina-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 89402,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-porche-piscina-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 265156,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nesho-costa-den-blanes-terraza-superior",
+      "original_filename": "nesho_01.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Terraza superior de Nesho en Costa d’en Blanes con barandilla de vidrio, ventanales y paneles oscuros.",
+      "caption": "Terraza superior de Nesho.",
+      "description": "Vista de la terraza superior de Nesho en Costa d’en Blanes, con pavimento claro, barandilla de vidrio, grandes ventanales y paneles oscuros, con árboles y la piscina al fondo.",
+      "src": "nesho-costa-den-blanes-terraza-superior-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 222464,
+      "srcset": "nesho-costa-den-blanes-terraza-superior-480.webp 480w, nesho-costa-den-blanes-terraza-superior-960.webp 960w, nesho-costa-den-blanes-terraza-superior-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "nesho-costa-den-blanes-terraza-superior-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 22846,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-terraza-superior-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 80214,
+          "quality": 82
+        },
+        {
+          "src": "nesho-costa-den-blanes-terraza-superior-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 222464,
+          "quality": 76
+        }
+      ]
+    }
+  ]
+}
