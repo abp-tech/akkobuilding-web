@@ -1,0 +1,524 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "CONVENDUM Palma",
+    "slug": "convendum-palma",
+    "location": "Palma"
+  },
+  "asset_base_path": "assets/proyectos/convendum-palma/",
+  "cover_id": "convendum-palma-estar-escalera-arco",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "convendum-palma-estar-escalera-arco",
+      "convendum-palma-estar-doble-altura",
+      "convendum-palma-estar-vista-superior",
+      "convendum-palma-escalera-tramos",
+      "convendum-palma-escalera-detalle",
+      "convendum-palma-salon-marca",
+      "convendum-palma-detalle-marca",
+      "convendum-palma-barra-servicio",
+      "convendum-palma-trabajo-estar",
+      "convendum-palma-mesas-trabajo",
+      "convendum-palma-rincon-estar",
+      "convendum-palma-sala-reuniones",
+      "convendum-palma-acceso-reuniones"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "convendum-palma-estar-escalera-arco",
+      "original_filename": "convendum_10.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Zona de estar de CONVENDUM Palma con sillones verdes, sofá gris, escalera y un arco al fondo.",
+      "caption": "Zona de estar junto a la escalera de CONVENDUM Palma.",
+      "description": "Vista de la zona de estar de CONVENDUM Palma con sillones verdes, sofá gris y mesas bajas, junto a la escalera y un arco que enmarca el acceso al espacio contiguo.",
+      "src": "convendum-palma-estar-escalera-arco-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 153822,
+      "srcset": "convendum-palma-estar-escalera-arco-480.webp 480w, convendum-palma-estar-escalera-arco-960.webp 960w, convendum-palma-estar-escalera-arco-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "convendum-palma-estar-escalera-arco-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 17556,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-estar-escalera-arco-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 48898,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-estar-escalera-arco-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 153822,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-estar-doble-altura",
+      "original_filename": "convendum_09.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Zona de estar de CONVENDUM Palma con sillones verdes, mesas bajas y una escalera en el espacio de doble altura.",
+      "caption": "Zona de estar de doble altura en CONVENDUM Palma.",
+      "description": "Vista de la zona de estar de CONVENDUM Palma con sillones verdes, mesas bajas, pavimento con dibujo geométrico y una escalera que conecta las plantas.",
+      "src": "convendum-palma-estar-doble-altura-1067.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 136010,
+      "srcset": "convendum-palma-estar-doble-altura-480.webp 480w, convendum-palma-estar-doble-altura-768.webp 768w, convendum-palma-estar-doble-altura-1067.webp 1067w",
+      "variants": [
+        {
+          "src": "convendum-palma-estar-doble-altura-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 36970,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-estar-doble-altura-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 54528,
+          "quality": 70
+        },
+        {
+          "src": "convendum-palma-estar-doble-altura-1067.webp",
+          "width": 1067,
+          "height": 1600,
+          "bytes": 136010,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-estar-vista-superior",
+      "original_filename": "convendum_03.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Vista superior de la zona de estar de CONVENDUM Palma con sofá, sillones verdes y escalera.",
+      "caption": "La zona de estar de CONVENDUM Palma vista desde arriba.",
+      "description": "Vista desde la planta superior de CONVENDUM Palma hacia el sofá, los sillones verdes y las mesas bajas de la zona de estar, junto a la escalera y sus barandillas oscuras.",
+      "src": "convendum-palma-estar-vista-superior-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 215246,
+      "srcset": "convendum-palma-estar-vista-superior-480.webp 480w, convendum-palma-estar-vista-superior-960.webp 960w, convendum-palma-estar-vista-superior-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "convendum-palma-estar-vista-superior-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 22962,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-estar-vista-superior-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 66268,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-estar-vista-superior-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 215246,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-escalera-tramos",
+      "original_filename": "convendum_11.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Escalera de CONVENDUM Palma con peldaños claros, paredes blancas y barandilla oscura.",
+      "caption": "Escalera de CONVENDUM Palma.",
+      "description": "Vista ascendente de la escalera de CONVENDUM Palma, con peldaños claros, paredes blancas, iluminación mural y una barandilla oscura que acompaña los tramos.",
+      "src": "convendum-palma-escalera-tramos-1067.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 83492,
+      "srcset": "convendum-palma-escalera-tramos-480.webp 480w, convendum-palma-escalera-tramos-768.webp 768w, convendum-palma-escalera-tramos-1067.webp 1067w",
+      "variants": [
+        {
+          "src": "convendum-palma-escalera-tramos-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 25902,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-escalera-tramos-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 45382,
+          "quality": 79
+        },
+        {
+          "src": "convendum-palma-escalera-tramos-1067.webp",
+          "width": 1067,
+          "height": 1600,
+          "bytes": 83492,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-escalera-detalle",
+      "original_filename": "convendum_12.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Detalle de la escalera y barandilla de CONVENDUM Palma, con un arco y una puerta acristalada al fondo.",
+      "caption": "Detalle de escalera y barandilla en CONVENDUM Palma.",
+      "description": "Vista de los peldaños y la barandilla de la escalera de CONVENDUM Palma, junto a un arco que enmarca una puerta acristalada.",
+      "src": "convendum-palma-escalera-detalle-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 129488,
+      "srcset": "convendum-palma-escalera-detalle-480.webp 480w, convendum-palma-escalera-detalle-960.webp 960w, convendum-palma-escalera-detalle-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "convendum-palma-escalera-detalle-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16736,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-escalera-detalle-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 44232,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-escalera-detalle-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 129488,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-salon-marca",
+      "original_filename": "convendum_01.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Salón de CONVENDUM Palma con sofás, sillones verdes, grandes ventanas y el logotipo en la pared.",
+      "caption": "Salón de CONVENDUM Palma.",
+      "description": "Vista general del salón de CONVENDUM Palma con sofás, sillones verdes, mesas bajas y el logotipo visible entre las ventanas del fondo.",
+      "src": "convendum-palma-salon-marca-1919.webp",
+      "width": 1919,
+      "height": 1279,
+      "bytes": 199912,
+      "srcset": "convendum-palma-salon-marca-480.webp 480w, convendum-palma-salon-marca-960.webp 960w, convendum-palma-salon-marca-1919.webp 1919w",
+      "variants": [
+        {
+          "src": "convendum-palma-salon-marca-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 21896,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-salon-marca-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 64156,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-salon-marca-1919.webp",
+          "width": 1919,
+          "height": 1279,
+          "bytes": 199912,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-detalle-marca",
+      "original_filename": "convendum_00.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Logotipo de CONVENDUM Palma en la pared de una zona de estar con sofá, sillón verde y mesas bajas.",
+      "caption": "Identidad de CONVENDUM en la zona de estar de Palma.",
+      "description": "Detalle de la zona de estar de CONVENDUM Palma con el logotipo en la pared, mobiliario de asiento, mesas bajas y elementos vegetales.",
+      "src": "convendum-palma-detalle-marca-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 139708,
+      "srcset": "convendum-palma-detalle-marca-480.webp 480w, convendum-palma-detalle-marca-960.webp 960w, convendum-palma-detalle-marca-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "convendum-palma-detalle-marca-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 21320,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-detalle-marca-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 53584,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-detalle-marca-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 139708,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-barra-servicio",
+      "original_filename": "convendum_02.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Barra de servicio de CONVENDUM Palma con vasos, dispensador de bebidas y una zona de estar al fondo.",
+      "caption": "Barra de servicio de CONVENDUM Palma.",
+      "description": "Vista longitudinal de la barra de servicio de CONVENDUM Palma, con vasos y un dispensador de bebidas sobre el mostrador, y la zona de estar al fondo.",
+      "src": "convendum-palma-barra-servicio-1919.webp",
+      "width": 1919,
+      "height": 1279,
+      "bytes": 198126,
+      "srcset": "convendum-palma-barra-servicio-480.webp 480w, convendum-palma-barra-servicio-960.webp 960w, convendum-palma-barra-servicio-1919.webp 1919w",
+      "variants": [
+        {
+          "src": "convendum-palma-barra-servicio-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 21074,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-barra-servicio-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 65426,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-barra-servicio-1919.webp",
+          "width": 1919,
+          "height": 1279,
+          "bytes": 198126,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-trabajo-estar",
+      "original_filename": "convendum_06.webp",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Zona de CONVENDUM Palma con mesas altas, sillas y sillones, bajo un techo oscuro con instalaciones vistas.",
+      "caption": "Zonas de trabajo y estar de CONVENDUM Palma.",
+      "description": "Vista del interior de CONVENDUM Palma con mesas altas, sillas y sillones, iluminación dirigida y un techo oscuro con instalaciones vistas.",
+      "src": "convendum-palma-trabajo-estar-1919.webp",
+      "width": 1919,
+      "height": 1279,
+      "bytes": 158808,
+      "srcset": "convendum-palma-trabajo-estar-480.webp 480w, convendum-palma-trabajo-estar-960.webp 960w, convendum-palma-trabajo-estar-1919.webp 1919w",
+      "variants": [
+        {
+          "src": "convendum-palma-trabajo-estar-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 17640,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-trabajo-estar-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 51282,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-trabajo-estar-1919.webp",
+          "width": 1919,
+          "height": 1279,
+          "bytes": 158808,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-mesas-trabajo",
+      "original_filename": "convendum_04.webp",
+      "order": 10,
+      "is_cover": false,
+      "alt": "Mesas altas con sillas en CONVENDUM Palma, junto a cuadros iluminados y divisiones oscuras.",
+      "caption": "Mesas de trabajo de CONVENDUM Palma.",
+      "description": "Vista de las mesas altas y sillas de CONVENDUM Palma, con divisiones oscuras, cuadros iluminados y vegetación en el recorrido del fondo.",
+      "src": "convendum-palma-mesas-trabajo-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 201734,
+      "srcset": "convendum-palma-mesas-trabajo-480.webp 480w, convendum-palma-mesas-trabajo-960.webp 960w, convendum-palma-mesas-trabajo-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "convendum-palma-mesas-trabajo-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 18504,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-mesas-trabajo-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 56870,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-mesas-trabajo-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 201734,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-rincon-estar",
+      "original_filename": "convendum_05.webp",
+      "order": 11,
+      "is_cover": false,
+      "alt": "Rincón de estar de CONVENDUM Palma con asientos claros, mesa redonda y luz dirigida sobre la pared.",
+      "caption": "Rincón de estar de CONVENDUM Palma.",
+      "description": "Vista de un rincón de estar de CONVENDUM Palma con asientos claros, mesa redonda, alfombra y un foco que ilumina la pared del fondo.",
+      "src": "convendum-palma-rincon-estar-1067.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 152186,
+      "srcset": "convendum-palma-rincon-estar-480.webp 480w, convendum-palma-rincon-estar-768.webp 768w, convendum-palma-rincon-estar-1067.webp 1067w",
+      "variants": [
+        {
+          "src": "convendum-palma-rincon-estar-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 34188,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-rincon-estar-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 52280,
+          "quality": 70
+        },
+        {
+          "src": "convendum-palma-rincon-estar-1067.webp",
+          "width": 1067,
+          "height": 1600,
+          "bytes": 152186,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-sala-reuniones",
+      "original_filename": "convendum_08.webp",
+      "order": 12,
+      "is_cover": false,
+      "alt": "Sala de reuniones de CONVENDUM Palma con mesa alargada, sillas rojizas y cerramiento acristalado.",
+      "caption": "Sala de reuniones de CONVENDUM Palma.",
+      "description": "Vista interior de una sala de reuniones de CONVENDUM Palma, con mesa alargada, sillas rojizas, bandeja con agua y vasos, y un cerramiento acristalado.",
+      "src": "convendum-palma-sala-reuniones-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 189464,
+      "srcset": "convendum-palma-sala-reuniones-480.webp 480w, convendum-palma-sala-reuniones-960.webp 960w, convendum-palma-sala-reuniones-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "convendum-palma-sala-reuniones-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 20754,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-sala-reuniones-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 61106,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-sala-reuniones-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 189464,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "convendum-palma-acceso-reuniones",
+      "original_filename": "convendum_07.webp",
+      "order": 13,
+      "is_cover": false,
+      "alt": "Acceso acristalado a una sala de reuniones de CONVENDUM Palma, con mesa y sillas visibles en el interior.",
+      "caption": "Acceso a la sala de reuniones de CONVENDUM Palma.",
+      "description": "Vista desde el acceso de una sala de reuniones de CONVENDUM Palma, con cerramientos acristalados, una mesa de reuniones y sillas rojizas en el interior.",
+      "src": "convendum-palma-acceso-reuniones-1067.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 152204,
+      "srcset": "convendum-palma-acceso-reuniones-480.webp 480w, convendum-palma-acceso-reuniones-768.webp 768w, convendum-palma-acceso-reuniones-1067.webp 1067w",
+      "variants": [
+        {
+          "src": "convendum-palma-acceso-reuniones-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 39730,
+          "quality": 82
+        },
+        {
+          "src": "convendum-palma-acceso-reuniones-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 59592,
+          "quality": 70
+        },
+        {
+          "src": "convendum-palma-acceso-reuniones-1067.webp",
+          "width": 1067,
+          "height": 1600,
+          "bytes": 152204,
+          "quality": 79
+        }
+      ]
+    }
+  ]
+}
