@@ -1,0 +1,638 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Ocean Drive Talamanca",
+    "slug": "ocean-drive-talamanca",
+    "location": "Ibiza"
+  },
+  "asset_base_path": "assets/proyectos/ocean-drive-talamanca/",
+  "cover_id": "ocean-drive-talamanca-exterior-palmera",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "ocean-drive-talamanca-exterior-palmera",
+      "ocean-drive-talamanca-fachada-recorrido",
+      "ocean-drive-talamanca-edificio-volumenes",
+      "ocean-drive-talamanca-fachada-balcones",
+      "ocean-drive-talamanca-detalle-balcones",
+      "ocean-drive-talamanca-fachada-paneles",
+      "ocean-drive-talamanca-balcon-vistas",
+      "ocean-drive-talamanca-paso-cubierto",
+      "ocean-drive-talamanca-patio-pasarela",
+      "ocean-drive-talamanca-escalera-exterior",
+      "ocean-drive-talamanca-muro-huecos",
+      "ocean-drive-talamanca-fachada-ladrillo",
+      "ocean-drive-talamanca-detalle-curvas",
+      "ocean-drive-talamanca-acceso-jardin",
+      "ocean-drive-talamanca-interior-doble-altura",
+      "ocean-drive-talamanca-pasillo-interior"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "ocean-drive-talamanca-exterior-palmera",
+      "original_filename": "od talamanca_10.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Exterior de Ocean Drive Talamanca con volúmenes de ladrillo visto, una palmera y vegetación baja.",
+      "caption": "Exterior con palmera de Ocean Drive Talamanca.",
+      "description": "Vista exterior de Ocean Drive Talamanca, en Ibiza, con volúmenes de ladrillo visto de perfil curvo, una palmera y vegetación baja bajo el cielo azul.",
+      "src": "ocean-drive-talamanca-exterior-palmera-791.webp",
+      "width": 791,
+      "height": 680,
+      "bytes": 94634,
+      "srcset": "ocean-drive-talamanca-exterior-palmera-320.webp 320w, ocean-drive-talamanca-exterior-palmera-480.webp 480w, ocean-drive-talamanca-exterior-palmera-791.webp 791w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-exterior-palmera-320.webp",
+          "width": 320,
+          "height": 275,
+          "bytes": 20256,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-exterior-palmera-480.webp",
+          "width": 480,
+          "height": 413,
+          "bytes": 45458,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-exterior-palmera-791.webp",
+          "width": 791,
+          "height": 680,
+          "bytes": 94634,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-fachada-recorrido",
+      "original_filename": "od talamanca_04.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Fachada de Ocean Drive Talamanca con balcones, paneles de tono madera y un recorrido exterior junto al edificio.",
+      "caption": "Fachada y recorrido exterior de Ocean Drive Talamanca.",
+      "description": "Vista del recorrido exterior de Ocean Drive Talamanca, con balcones superpuestos, paneles de tono madera y un muro bajo junto al paso.",
+      "src": "ocean-drive-talamanca-fachada-recorrido-886.webp",
+      "width": 886,
+      "height": 1329,
+      "bytes": 82966,
+      "srcset": "ocean-drive-talamanca-fachada-recorrido-480.webp 480w, ocean-drive-talamanca-fachada-recorrido-768.webp 768w, ocean-drive-talamanca-fachada-recorrido-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-fachada-recorrido-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 41676,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-fachada-recorrido-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 62058,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-fachada-recorrido-886.webp",
+          "width": 886,
+          "height": 1329,
+          "bytes": 82966,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-edificio-volumenes",
+      "original_filename": "od talamanca_09.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Edificio de Ocean Drive Talamanca con balcones y paneles de tono madera, junto a muros de ladrillo visto.",
+      "caption": "Conjunto de volúmenes de Ocean Drive Talamanca.",
+      "description": "Vista en perspectiva de Ocean Drive Talamanca, con balcones en altura, paneles de tono madera, un volumen lateral claro y muros de ladrillo visto en primer plano.",
+      "src": "ocean-drive-talamanca-edificio-volumenes-886.webp",
+      "width": 886,
+      "height": 1329,
+      "bytes": 136448,
+      "srcset": "ocean-drive-talamanca-edificio-volumenes-480.webp 480w, ocean-drive-talamanca-edificio-volumenes-768.webp 768w, ocean-drive-talamanca-edificio-volumenes-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-edificio-volumenes-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 50258,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-edificio-volumenes-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 108166,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-edificio-volumenes-886.webp",
+          "width": 886,
+          "height": 1329,
+          "bytes": 136448,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-fachada-balcones",
+      "original_filename": "od talamanca_06.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Fachada de Ocean Drive Talamanca con una retícula de balcones blancos y vegetación en la terraza inferior.",
+      "caption": "Fachada de balcones claros de Ocean Drive Talamanca.",
+      "description": "Vista ascendente de la fachada de Ocean Drive Talamanca, con una retícula de balcones blancos, barandillas claras y una terraza inferior con vegetación.",
+      "src": "ocean-drive-talamanca-fachada-balcones-886.webp",
+      "width": 886,
+      "height": 1329,
+      "bytes": 134158,
+      "srcset": "ocean-drive-talamanca-fachada-balcones-480.webp 480w, ocean-drive-talamanca-fachada-balcones-768.webp 768w, ocean-drive-talamanca-fachada-balcones-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-fachada-balcones-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 49414,
+          "quality": 76
+        },
+        {
+          "src": "ocean-drive-talamanca-fachada-balcones-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 100836,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-fachada-balcones-886.webp",
+          "width": 886,
+          "height": 1329,
+          "bytes": 134158,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-detalle-balcones",
+      "original_filename": "od talamanca_07.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Balcones de Ocean Drive Talamanca con paneles de tono madera, barandillas blancas y pequeños voladizos.",
+      "caption": "Detalle de balcones y paneles de Ocean Drive Talamanca.",
+      "description": "Detalle de los balcones de Ocean Drive Talamanca, con paneles verticales de tono madera, barandillas blancas y voladizos que proyectan sombras sobre la fachada.",
+      "src": "ocean-drive-talamanca-detalle-balcones-886.webp",
+      "width": 886,
+      "height": 1516,
+      "bytes": 97302,
+      "srcset": "ocean-drive-talamanca-detalle-balcones-480.webp 480w, ocean-drive-talamanca-detalle-balcones-768.webp 768w, ocean-drive-talamanca-detalle-balcones-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-detalle-balcones-480.webp",
+          "width": 480,
+          "height": 821,
+          "bytes": 48262,
+          "quality": 79
+        },
+        {
+          "src": "ocean-drive-talamanca-detalle-balcones-768.webp",
+          "width": 768,
+          "height": 1314,
+          "bytes": 78638,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-detalle-balcones-886.webp",
+          "width": 886,
+          "height": 1516,
+          "bytes": 97302,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-fachada-paneles",
+      "original_filename": "od talamanca_05.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Fachada de Ocean Drive Talamanca con paneles verticales de tono madera y una planta baja acristalada.",
+      "caption": "Fachada con paneles verticales de Ocean Drive Talamanca.",
+      "description": "Vista frontal de una zona de Ocean Drive Talamanca, con paneles verticales de tono madera en las plantas superiores y una planta baja acristalada detrás de un muro de textura irregular.",
+      "src": "ocean-drive-talamanca-fachada-paneles-886.webp",
+      "width": 886,
+      "height": 1164,
+      "bytes": 116586,
+      "srcset": "ocean-drive-talamanca-fachada-paneles-480.webp 480w, ocean-drive-talamanca-fachada-paneles-768.webp 768w, ocean-drive-talamanca-fachada-paneles-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-fachada-paneles-480.webp",
+          "width": 480,
+          "height": 631,
+          "bytes": 50140,
+          "quality": 79
+        },
+        {
+          "src": "ocean-drive-talamanca-fachada-paneles-768.webp",
+          "width": 768,
+          "height": 1009,
+          "bytes": 90580,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-fachada-paneles-886.webp",
+          "width": 886,
+          "height": 1164,
+          "bytes": 116586,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-balcon-vistas",
+      "original_filename": "od talamanca_00.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Balcón de Ocean Drive Talamanca con barandilla blanca y vistas hacia la vegetación y el mar.",
+      "caption": "Balcón con vistas de Ocean Drive Talamanca.",
+      "description": "Vista desde un balcón de Ocean Drive Talamanca, con paredes claras, barandilla blanca y una cubierta de tono madera, abierta hacia la vegetación y el mar al fondo.",
+      "src": "ocean-drive-talamanca-balcon-vistas-886.webp",
+      "width": 886,
+      "height": 1291,
+      "bytes": 64904,
+      "srcset": "ocean-drive-talamanca-balcon-vistas-480.webp 480w, ocean-drive-talamanca-balcon-vistas-768.webp 768w, ocean-drive-talamanca-balcon-vistas-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-balcon-vistas-480.webp",
+          "width": 480,
+          "height": 699,
+          "bytes": 34654,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-balcon-vistas-768.webp",
+          "width": 768,
+          "height": 1119,
+          "bytes": 49828,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-balcon-vistas-886.webp",
+          "width": 886,
+          "height": 1291,
+          "bytes": 64904,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-paso-cubierto",
+      "original_filename": "od talamanca_01.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Paso cubierto de Ocean Drive Talamanca entre muros de textura irregular, pilares y barandillas blancas.",
+      "caption": "Paso exterior cubierto de Ocean Drive Talamanca.",
+      "description": "Vista de un paso exterior cubierto de Ocean Drive Talamanca, con muros de textura irregular, pilares, barandillas blancas y pavimento de tono madera junto a un espacio ajardinado.",
+      "src": "ocean-drive-talamanca-paso-cubierto-886.webp",
+      "width": 886,
+      "height": 591,
+      "bytes": 71716,
+      "srcset": "ocean-drive-talamanca-paso-cubierto-480.webp 480w, ocean-drive-talamanca-paso-cubierto-768.webp 768w, ocean-drive-talamanca-paso-cubierto-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-paso-cubierto-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 35170,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-paso-cubierto-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 53864,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-paso-cubierto-886.webp",
+          "width": 886,
+          "height": 591,
+          "bytes": 71716,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-patio-pasarela",
+      "original_filename": "od talamanca_02.webp",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Patio de Ocean Drive Talamanca con pasarela cubierta, pilares inclinados y barandillas blancas.",
+      "caption": "Patio y pasarela de Ocean Drive Talamanca.",
+      "description": "Vista del patio de Ocean Drive Talamanca, con una pasarela cubierta, pilares inclinados, barandillas blancas y vegetación junto a los muros bajos.",
+      "src": "ocean-drive-talamanca-patio-pasarela-886.webp",
+      "width": 886,
+      "height": 1418,
+      "bytes": 110120,
+      "srcset": "ocean-drive-talamanca-patio-pasarela-480.webp 480w, ocean-drive-talamanca-patio-pasarela-768.webp 768w, ocean-drive-talamanca-patio-pasarela-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-patio-pasarela-480.webp",
+          "width": 480,
+          "height": 768,
+          "bytes": 49542,
+          "quality": 79
+        },
+        {
+          "src": "ocean-drive-talamanca-patio-pasarela-768.webp",
+          "width": 768,
+          "height": 1229,
+          "bytes": 85014,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-patio-pasarela-886.webp",
+          "width": 886,
+          "height": 1418,
+          "bytes": 110120,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-escalera-exterior",
+      "original_filename": "od talamanca_03.webp",
+      "order": 10,
+      "is_cover": false,
+      "alt": "Escalera exterior de Ocean Drive Talamanca con pasamanos, muro de textura irregular y balcones al fondo.",
+      "caption": "Escalera exterior de Ocean Drive Talamanca.",
+      "description": "Vista de una escalera exterior de Ocean Drive Talamanca, con peldaños claros y pasamanos junto a un muro de textura irregular, con barandillas y balcones al fondo.",
+      "src": "ocean-drive-talamanca-escalera-exterior-886.webp",
+      "width": 886,
+      "height": 1351,
+      "bytes": 137594,
+      "srcset": "ocean-drive-talamanca-escalera-exterior-480.webp 480w, ocean-drive-talamanca-escalera-exterior-768.webp 768w, ocean-drive-talamanca-escalera-exterior-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-escalera-exterior-480.webp",
+          "width": 480,
+          "height": 732,
+          "bytes": 51688,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-escalera-exterior-768.webp",
+          "width": 768,
+          "height": 1171,
+          "bytes": 108658,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-escalera-exterior-886.webp",
+          "width": 886,
+          "height": 1351,
+          "bytes": 137594,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-muro-huecos",
+      "original_filename": "od talamanca_08.webp",
+      "order": 11,
+      "is_cover": false,
+      "alt": "Muro claro de Ocean Drive Talamanca con pequeños huecos azules de formas circulares y semicirculares.",
+      "caption": "Muro con huecos geométricos de Ocean Drive Talamanca.",
+      "description": "Detalle de un muro claro de Ocean Drive Talamanca, con una composición de pequeños huecos de tono azul, circulares y semicirculares, dispuestos en varias filas.",
+      "src": "ocean-drive-talamanca-muro-huecos-886.webp",
+      "width": 886,
+      "height": 1064,
+      "bytes": 37568,
+      "srcset": "ocean-drive-talamanca-muro-huecos-480.webp 480w, ocean-drive-talamanca-muro-huecos-768.webp 768w, ocean-drive-talamanca-muro-huecos-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-muro-huecos-480.webp",
+          "width": 480,
+          "height": 576,
+          "bytes": 7944,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-muro-huecos-768.webp",
+          "width": 768,
+          "height": 922,
+          "bytes": 20748,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-muro-huecos-886.webp",
+          "width": 886,
+          "height": 1064,
+          "bytes": 37568,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-fachada-ladrillo",
+      "original_filename": "od talamanca_11.webp",
+      "order": 12,
+      "is_cover": false,
+      "alt": "Fachada de Ocean Drive Talamanca con ladrillo visto, superficies curvas y un cerramiento blanco en primer plano.",
+      "caption": "Detalle horizontal de fachada de Ocean Drive Talamanca.",
+      "description": "Detalle horizontal de la fachada de Ocean Drive Talamanca, con superficies de ladrillo visto que generan entrantes y curvas, junto a un cerramiento blanco de pequeños huecos.",
+      "src": "ocean-drive-talamanca-fachada-ladrillo-886.webp",
+      "width": 886,
+      "height": 591,
+      "bytes": 148916,
+      "srcset": "ocean-drive-talamanca-fachada-ladrillo-480.webp 480w, ocean-drive-talamanca-fachada-ladrillo-768.webp 768w, ocean-drive-talamanca-fachada-ladrillo-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-fachada-ladrillo-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 42150,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-fachada-ladrillo-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 101924,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-fachada-ladrillo-886.webp",
+          "width": 886,
+          "height": 591,
+          "bytes": 148916,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-detalle-curvas",
+      "original_filename": "od talamanca_12.webp",
+      "order": 13,
+      "is_cover": false,
+      "alt": "Detalle de Ocean Drive Talamanca con muros curvos de ladrillo visto y juntas claras.",
+      "caption": "Detalle de superficies curvas de Ocean Drive Talamanca.",
+      "description": "Vista cercana de los muros curvos de Ocean Drive Talamanca, con ladrillo visto y juntas claras que destacan el relieve y los cambios de plano de la fachada.",
+      "src": "ocean-drive-talamanca-detalle-curvas-886.webp",
+      "width": 886,
+      "height": 1329,
+      "bytes": 455702,
+      "srcset": "ocean-drive-talamanca-detalle-curvas-480.webp 480w, ocean-drive-talamanca-detalle-curvas-768.webp 768w, ocean-drive-talamanca-detalle-curvas-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-detalle-curvas-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 137004,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-detalle-curvas-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 351226,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-detalle-curvas-886.webp",
+          "width": 886,
+          "height": 1329,
+          "bytes": 455702,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-acceso-jardin",
+      "original_filename": "od talamanca_15.webp",
+      "order": 14,
+      "is_cover": false,
+      "alt": "Acceso de Ocean Drive Talamanca bajo una fachada de ladrillo visto, junto a vegetación y un cerramiento blanco.",
+      "caption": "Acceso junto al jardín de Ocean Drive Talamanca.",
+      "description": "Vista del acceso de Ocean Drive Talamanca, con puertas acristaladas, vegetación y un cerramiento blanco bajo una fachada de ladrillo visto.",
+      "src": "ocean-drive-talamanca-acceso-jardin-886.webp",
+      "width": 886,
+      "height": 1329,
+      "bytes": 203390,
+      "srcset": "ocean-drive-talamanca-acceso-jardin-480.webp 480w, ocean-drive-talamanca-acceso-jardin-768.webp 768w, ocean-drive-talamanca-acceso-jardin-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-acceso-jardin-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 64028,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-acceso-jardin-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 150002,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-talamanca-acceso-jardin-886.webp",
+          "width": 886,
+          "height": 1329,
+          "bytes": 203390,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-interior-doble-altura",
+      "original_filename": "od talamanca_13.webp",
+      "order": 15,
+      "is_cover": false,
+      "alt": "Interior de Ocean Drive Talamanca con paredes de tono dorado, luminarias suspendidas y un espacio de doble altura.",
+      "caption": "Interior de doble altura de Ocean Drive Talamanca.",
+      "description": "Vista desde una planta superior hacia un espacio de doble altura de Ocean Drive Talamanca, con paredes de tono dorado, luminarias suspendidas y mobiliario en la planta inferior.",
+      "src": "ocean-drive-talamanca-interior-doble-altura-886.webp",
+      "width": 886,
+      "height": 1329,
+      "bytes": 44940,
+      "srcset": "ocean-drive-talamanca-interior-doble-altura-480.webp 480w, ocean-drive-talamanca-interior-doble-altura-768.webp 768w, ocean-drive-talamanca-interior-doble-altura-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-interior-doble-altura-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 21222,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-interior-doble-altura-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 45522,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-interior-doble-altura-886.webp",
+          "width": 886,
+          "height": 1329,
+          "bytes": 44940,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-talamanca-pasillo-interior",
+      "original_filename": "od talamanca_14.webp",
+      "order": 16,
+      "is_cover": false,
+      "alt": "Pasillo de Ocean Drive Talamanca con paredes de tonos cálidos, cambios de altura e iluminación lineal en el techo.",
+      "caption": "Pasillo interior de Ocean Drive Talamanca.",
+      "description": "Vista longitudinal de un pasillo interior de Ocean Drive Talamanca, con paredes de tonos cálidos, techo de distintos niveles e iluminación lineal sobre el recorrido.",
+      "src": "ocean-drive-talamanca-pasillo-interior-886.webp",
+      "width": 886,
+      "height": 1329,
+      "bytes": 48772,
+      "srcset": "ocean-drive-talamanca-pasillo-interior-480.webp 480w, ocean-drive-talamanca-pasillo-interior-768.webp 768w, ocean-drive-talamanca-pasillo-interior-886.webp 886w",
+      "variants": [
+        {
+          "src": "ocean-drive-talamanca-pasillo-interior-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 16976,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-pasillo-interior-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 34718,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-talamanca-pasillo-interior-886.webp",
+          "width": 886,
+          "height": 1329,
+          "bytes": 48772,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
