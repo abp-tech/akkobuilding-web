@@ -1,0 +1,790 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Nobis Hotel Palma",
+    "slug": "nobis-hotel-palma",
+    "location": "Palma"
+  },
+  "asset_base_path": "assets/proyectos/nobis-hotel-palma/",
+  "cover_id": "nobis-hotel-palma-patio-arcos",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "nobis-hotel-palma-patio-arcos",
+      "nobis-hotel-palma-fachada-calle",
+      "nobis-hotel-palma-entrada-fachada",
+      "nobis-hotel-palma-patio-vegetacion",
+      "nobis-hotel-palma-patio-cielo",
+      "nobis-hotel-palma-galeria-arcos",
+      "nobis-hotel-palma-pasillo-escalera",
+      "nobis-hotel-palma-escalera-barandillas",
+      "nobis-hotel-palma-salon-lampara",
+      "nobis-hotel-palma-barra-taburetes",
+      "nobis-hotel-palma-restaurante-frontal",
+      "nobis-hotel-palma-restaurante-mesas",
+      "nobis-hotel-palma-piscina-arcos",
+      "nobis-hotel-palma-piscina-lucernario",
+      "nobis-hotel-palma-terraza-tumbonas",
+      "nobis-hotel-palma-habitacion-cama",
+      "nobis-hotel-palma-habitacion-estar",
+      "nobis-hotel-palma-suite-salon",
+      "nobis-hotel-palma-habitacion-ventanales",
+      "nobis-hotel-palma-habitacion-buhardilla"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "nobis-hotel-palma-patio-arcos",
+      "original_filename": "NobisPalma_13.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Patio de Nobis Hotel Palma con arcos, escalera, plantas y una pieza circular en el centro.",
+      "caption": "Patio con arcos y vegetación de Nobis Hotel Palma.",
+      "description": "Vista horizontal del patio de Nobis Hotel Palma, con arcos apoyados sobre columnas, una escalera al fondo, vegetación en macetas y una pieza circular en primer plano.",
+      "src": "nobis-hotel-palma-patio-arcos-1200.webp",
+      "width": 1200,
+      "height": 630,
+      "bytes": 139864,
+      "srcset": "nobis-hotel-palma-patio-arcos-480.webp 480w, nobis-hotel-palma-patio-arcos-768.webp 768w, nobis-hotel-palma-patio-arcos-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-patio-arcos-480.webp",
+          "width": 480,
+          "height": 252,
+          "bytes": 28134,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-patio-arcos-768.webp",
+          "width": 768,
+          "height": 403,
+          "bytes": 48814,
+          "quality": 76
+        },
+        {
+          "src": "nobis-hotel-palma-patio-arcos-1200.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 139864,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-fachada-calle",
+      "original_filename": "NobisPalma_00.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Fachada de Nobis Hotel Palma junto a una calle estrecha, con ventanas iluminadas y un gran arco superior.",
+      "caption": "Fachada desde la calle de Nobis Hotel Palma.",
+      "description": "Vista de la fachada de Nobis Hotel Palma desde una calle estrecha, con textura irregular en los muros, ventanas iluminadas y un gran arco en la parte superior.",
+      "src": "nobis-hotel-palma-fachada-calle-1236.webp",
+      "width": 1236,
+      "height": 1600,
+      "bytes": 318536,
+      "srcset": "nobis-hotel-palma-fachada-calle-480.webp 480w, nobis-hotel-palma-fachada-calle-768.webp 768w, nobis-hotel-palma-fachada-calle-1236.webp 1236w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-fachada-calle-480.webp",
+          "width": 480,
+          "height": 621,
+          "bytes": 50274,
+          "quality": 73
+        },
+        {
+          "src": "nobis-hotel-palma-fachada-calle-768.webp",
+          "width": 768,
+          "height": 994,
+          "bytes": 133584,
+          "quality": 70
+        },
+        {
+          "src": "nobis-hotel-palma-fachada-calle-1236.webp",
+          "width": 1236,
+          "height": 1600,
+          "bytes": 318536,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-entrada-fachada",
+      "original_filename": "NobisPalma_01.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Entrada de Nobis Hotel Palma con puerta y ventana bajo arcos, sobre una fachada de textura irregular.",
+      "caption": "Acceso principal de Nobis Hotel Palma.",
+      "description": "Vista frontal del acceso de Nobis Hotel Palma, con una puerta acristalada y una ventana bajo arcos, iluminación cálida interior y una balaustrada en la parte superior.",
+      "src": "nobis-hotel-palma-entrada-fachada-1440.webp",
+      "width": 1440,
+      "height": 1219,
+      "bytes": 421384,
+      "srcset": "nobis-hotel-palma-entrada-fachada-480.webp 480w, nobis-hotel-palma-entrada-fachada-960.webp 960w, nobis-hotel-palma-entrada-fachada-1440.webp 1440w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-entrada-fachada-480.webp",
+          "width": 480,
+          "height": 406,
+          "bytes": 48210,
+          "quality": 73
+        },
+        {
+          "src": "nobis-hotel-palma-entrada-fachada-960.webp",
+          "width": 960,
+          "height": 813,
+          "bytes": 193094,
+          "quality": 70
+        },
+        {
+          "src": "nobis-hotel-palma-entrada-fachada-1440.webp",
+          "width": 1440,
+          "height": 1219,
+          "bytes": 421384,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-patio-vegetacion",
+      "original_filename": "NobisPalma_02.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Patio de Nobis Hotel Palma con arcos, columnas y plantas bajo un techo de vigas oscuras.",
+      "caption": "Recorrido del patio de Nobis Hotel Palma.",
+      "description": "Vista del recorrido del patio de Nobis Hotel Palma, con columnas, arcos sucesivos, plantas en macetas y un techo de vigas oscuras en primer plano.",
+      "src": "nobis-hotel-palma-patio-vegetacion-1667.webp",
+      "width": 1667,
+      "height": 1600,
+      "bytes": 264198,
+      "srcset": "nobis-hotel-palma-patio-vegetacion-480.webp 480w, nobis-hotel-palma-patio-vegetacion-960.webp 960w, nobis-hotel-palma-patio-vegetacion-1667.webp 1667w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-patio-vegetacion-480.webp",
+          "width": 480,
+          "height": 461,
+          "bytes": 41170,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-patio-vegetacion-960.webp",
+          "width": 960,
+          "height": 921,
+          "bytes": 108842,
+          "quality": 73
+        },
+        {
+          "src": "nobis-hotel-palma-patio-vegetacion-1667.webp",
+          "width": 1667,
+          "height": 1600,
+          "bytes": 264198,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-patio-cielo",
+      "original_filename": "NobisPalma_03.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Vista ascendente del patio de Nobis Hotel Palma, con luz cenital, muros claros y arcos.",
+      "caption": "Vista ascendente del patio de Nobis Hotel Palma.",
+      "description": "Vista ascendente desde el patio de Nobis Hotel Palma, con luz cenital, muros claros de textura irregular, ventanas y arcos en las plantas inferiores.",
+      "src": "nobis-hotel-palma-patio-cielo-1419.webp",
+      "width": 1419,
+      "height": 1600,
+      "bytes": 302558,
+      "srcset": "nobis-hotel-palma-patio-cielo-480.webp 480w, nobis-hotel-palma-patio-cielo-960.webp 960w, nobis-hotel-palma-patio-cielo-1419.webp 1419w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-patio-cielo-480.webp",
+          "width": 480,
+          "height": 541,
+          "bytes": 45174,
+          "quality": 79
+        },
+        {
+          "src": "nobis-hotel-palma-patio-cielo-960.webp",
+          "width": 960,
+          "height": 1082,
+          "bytes": 148286,
+          "quality": 70
+        },
+        {
+          "src": "nobis-hotel-palma-patio-cielo-1419.webp",
+          "width": 1419,
+          "height": 1600,
+          "bytes": 302558,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-galeria-arcos",
+      "original_filename": "NobisPalma_04.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Galería de Nobis Hotel Palma con columnas, arcos y una balaustrada frente a los muros del patio.",
+      "caption": "Galería superior con arcos de Nobis Hotel Palma.",
+      "description": "Vista de la galería superior de Nobis Hotel Palma, con columnas, arcos, techo oscuro y una balaustrada ante los muros claros del patio.",
+      "src": "nobis-hotel-palma-galeria-arcos-1564.webp",
+      "width": 1564,
+      "height": 1600,
+      "bytes": 239552,
+      "srcset": "nobis-hotel-palma-galeria-arcos-480.webp 480w, nobis-hotel-palma-galeria-arcos-960.webp 960w, nobis-hotel-palma-galeria-arcos-1564.webp 1564w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-galeria-arcos-480.webp",
+          "width": 480,
+          "height": 491,
+          "bytes": 41384,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-galeria-arcos-960.webp",
+          "width": 960,
+          "height": 982,
+          "bytes": 109096,
+          "quality": 73
+        },
+        {
+          "src": "nobis-hotel-palma-galeria-arcos-1564.webp",
+          "width": 1564,
+          "height": 1600,
+          "bytes": 239552,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-pasillo-escalera",
+      "original_filename": "NobisPalma_05.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Pasillo de Nobis Hotel Palma con techo de vigas, cortinas claras y una escalera tras un cerramiento acristalado.",
+      "caption": "Pasillo junto a la escalera de Nobis Hotel Palma.",
+      "description": "Vista del pasillo de Nobis Hotel Palma, con muros de textura irregular, vigas oscuras, cortinas claras y una escalera junto a un cerramiento acristalado.",
+      "src": "nobis-hotel-palma-pasillo-escalera-1056.webp",
+      "width": 1056,
+      "height": 1600,
+      "bytes": 157020,
+      "srcset": "nobis-hotel-palma-pasillo-escalera-480.webp 480w, nobis-hotel-palma-pasillo-escalera-768.webp 768w, nobis-hotel-palma-pasillo-escalera-1056.webp 1056w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-pasillo-escalera-480.webp",
+          "width": 480,
+          "height": 727,
+          "bytes": 45432,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-pasillo-escalera-768.webp",
+          "width": 768,
+          "height": 1164,
+          "bytes": 68080,
+          "quality": 70
+        },
+        {
+          "src": "nobis-hotel-palma-pasillo-escalera-1056.webp",
+          "width": 1056,
+          "height": 1600,
+          "bytes": 157020,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-escalera-barandillas",
+      "original_filename": "NobisPalma_10.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Escalera de Nobis Hotel Palma con tramos superpuestos, peldaños claros y barandillas oscuras.",
+      "caption": "Escalera y barandillas de Nobis Hotel Palma.",
+      "description": "Vista de los tramos de escalera de Nobis Hotel Palma, con peldaños claros, barandillas oscuras de líneas verticales y muros de textura irregular.",
+      "src": "nobis-hotel-palma-escalera-barandillas-1117.webp",
+      "width": 1117,
+      "height": 1600,
+      "bytes": 214274,
+      "srcset": "nobis-hotel-palma-escalera-barandillas-480.webp 480w, nobis-hotel-palma-escalera-barandillas-768.webp 768w, nobis-hotel-palma-escalera-barandillas-1117.webp 1117w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-escalera-barandillas-480.webp",
+          "width": 480,
+          "height": 688,
+          "bytes": 46914,
+          "quality": 76
+        },
+        {
+          "src": "nobis-hotel-palma-escalera-barandillas-768.webp",
+          "width": 768,
+          "height": 1100,
+          "bytes": 102264,
+          "quality": 70
+        },
+        {
+          "src": "nobis-hotel-palma-escalera-barandillas-1117.webp",
+          "width": 1117,
+          "height": 1600,
+          "bytes": 214274,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-salon-lampara",
+      "original_filename": "NobisPalma_11.webp",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Salón de Nobis Hotel Palma con sofás de varios colores y una gran lámpara clara bajo un techo de vigas.",
+      "caption": "Salón con lámpara suspendida de Nobis Hotel Palma.",
+      "description": "Vista del salón de Nobis Hotel Palma, con sofás y sillones de varios colores, mesas bajas, una gran lámpara suspendida y un techo de vigas oscuras.",
+      "src": "nobis-hotel-palma-salon-lampara-1193.webp",
+      "width": 1193,
+      "height": 1600,
+      "bytes": 188896,
+      "srcset": "nobis-hotel-palma-salon-lampara-480.webp 480w, nobis-hotel-palma-salon-lampara-768.webp 768w, nobis-hotel-palma-salon-lampara-1193.webp 1193w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-salon-lampara-480.webp",
+          "width": 480,
+          "height": 644,
+          "bytes": 46050,
+          "quality": 79
+        },
+        {
+          "src": "nobis-hotel-palma-salon-lampara-768.webp",
+          "width": 768,
+          "height": 1030,
+          "bytes": 82636,
+          "quality": 70
+        },
+        {
+          "src": "nobis-hotel-palma-salon-lampara-1193.webp",
+          "width": 1193,
+          "height": 1600,
+          "bytes": 188896,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-barra-taburetes",
+      "original_filename": "NobisPalma_06.webp",
+      "order": 10,
+      "is_cover": false,
+      "alt": "Barra de Nobis Hotel Palma con taburetes altos, muros de textura irregular y cortinas junto a una ventana.",
+      "caption": "Barra y taburetes de Nobis Hotel Palma.",
+      "description": "Vista de una barra de Nobis Hotel Palma, con taburetes altos, una luminaria horizontal, techo oscuro y cortinas claras junto a una ventana.",
+      "src": "nobis-hotel-palma-barra-taburetes-1663.webp",
+      "width": 1663,
+      "height": 1600,
+      "bytes": 366488,
+      "srcset": "nobis-hotel-palma-barra-taburetes-480.webp 480w, nobis-hotel-palma-barra-taburetes-960.webp 960w, nobis-hotel-palma-barra-taburetes-1663.webp 1663w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-barra-taburetes-480.webp",
+          "width": 480,
+          "height": 462,
+          "bytes": 47896,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-barra-taburetes-960.webp",
+          "width": 960,
+          "height": 924,
+          "bytes": 136460,
+          "quality": 70
+        },
+        {
+          "src": "nobis-hotel-palma-barra-taburetes-1663.webp",
+          "width": 1663,
+          "height": 1600,
+          "bytes": 366488,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-restaurante-frontal",
+      "original_filename": "NobisPalma_09.webp",
+      "order": 11,
+      "is_cover": false,
+      "alt": "Restaurante de Nobis Hotel Palma con mesas preparadas, bancos y un techo de superficies curvas.",
+      "caption": "Vista frontal del restaurante de Nobis Hotel Palma.",
+      "description": "Vista frontal del restaurante de Nobis Hotel Palma, con mesas preparadas, bancos, sillas y un techo de superficies curvas con luminarias suspendidas.",
+      "src": "nobis-hotel-palma-restaurante-frontal-1650.webp",
+      "width": 1650,
+      "height": 1600,
+      "bytes": 220020,
+      "srcset": "nobis-hotel-palma-restaurante-frontal-480.webp 480w, nobis-hotel-palma-restaurante-frontal-960.webp 960w, nobis-hotel-palma-restaurante-frontal-1650.webp 1650w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-restaurante-frontal-480.webp",
+          "width": 480,
+          "height": 465,
+          "bytes": 35994,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-restaurante-frontal-960.webp",
+          "width": 960,
+          "height": 931,
+          "bytes": 101550,
+          "quality": 79
+        },
+        {
+          "src": "nobis-hotel-palma-restaurante-frontal-1650.webp",
+          "width": 1650,
+          "height": 1600,
+          "bytes": 220020,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-restaurante-mesas",
+      "original_filename": "NobisPalma_14.webp",
+      "order": 12,
+      "is_cover": false,
+      "alt": "Restaurante de Nobis Hotel Palma con mesas redondas, sillas verdes y grandes ventanales con arcos.",
+      "caption": "Mesas del restaurante de Nobis Hotel Palma.",
+      "description": "Vista del restaurante de Nobis Hotel Palma, con mesas redondas preparadas, sillas verdes, bancos, vegetación y ventanales con arcos bajo un techo de superficies curvas.",
+      "src": "nobis-hotel-palma-restaurante-mesas-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 241312,
+      "srcset": "nobis-hotel-palma-restaurante-mesas-480.webp 480w, nobis-hotel-palma-restaurante-mesas-960.webp 960w, nobis-hotel-palma-restaurante-mesas-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-restaurante-mesas-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 33342,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-restaurante-mesas-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 105612,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-restaurante-mesas-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 241312,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-piscina-arcos",
+      "original_filename": "NobisPalma_07.webp",
+      "order": 13,
+      "is_cover": false,
+      "alt": "Piscina de Nobis Hotel Palma junto a columnas, arcos y una escalera lateral iluminados por el sol.",
+      "caption": "Piscina bajo los arcos de Nobis Hotel Palma.",
+      "description": "Vista de la piscina de Nobis Hotel Palma, con agua de tono verde azulado, columnas, arcos y una escalera lateral sobre la que incide la luz del sol.",
+      "src": "nobis-hotel-palma-piscina-arcos-1604.webp",
+      "width": 1604,
+      "height": 1600,
+      "bytes": 176778,
+      "srcset": "nobis-hotel-palma-piscina-arcos-480.webp 480w, nobis-hotel-palma-piscina-arcos-960.webp 960w, nobis-hotel-palma-piscina-arcos-1604.webp 1604w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-piscina-arcos-480.webp",
+          "width": 480,
+          "height": 479,
+          "bytes": 29334,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-piscina-arcos-960.webp",
+          "width": 960,
+          "height": 958,
+          "bytes": 87694,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-piscina-arcos-1604.webp",
+          "width": 1604,
+          "height": 1600,
+          "bytes": 176778,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-piscina-lucernario",
+      "original_filename": "NobisPalma_15.webp",
+      "order": 14,
+      "is_cover": false,
+      "alt": "Piscina interior de Nobis Hotel Palma con escalones, paredes claras y luz desde un lucernario.",
+      "caption": "Piscina con luz cenital de Nobis Hotel Palma.",
+      "description": "Vista de una piscina interior de Nobis Hotel Palma, con escalones de acceso al agua, paredes claras, un hueco en arco al fondo y luz cenital desde un lucernario.",
+      "src": "nobis-hotel-palma-piscina-lucernario-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 53962,
+      "srcset": "nobis-hotel-palma-piscina-lucernario-480.webp 480w, nobis-hotel-palma-piscina-lucernario-960.webp 960w, nobis-hotel-palma-piscina-lucernario-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-piscina-lucernario-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 6128,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-piscina-lucernario-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 16598,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-piscina-lucernario-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 53962,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-terraza-tumbonas",
+      "original_filename": "NobisPalma_08.webp",
+      "order": 15,
+      "is_cover": false,
+      "alt": "Terraza de Nobis Hotel Palma con tumbonas, sombrillas y edificios claros alrededor.",
+      "caption": "Terraza con tumbonas de Nobis Hotel Palma.",
+      "description": "Vista de la terraza de Nobis Hotel Palma, con filas de tumbonas, sombrillas y pavimento claro entre las fachadas de los edificios que la rodean.",
+      "src": "nobis-hotel-palma-terraza-tumbonas-1199.webp",
+      "width": 1199,
+      "height": 1600,
+      "bytes": 156990,
+      "srcset": "nobis-hotel-palma-terraza-tumbonas-480.webp 480w, nobis-hotel-palma-terraza-tumbonas-768.webp 768w, nobis-hotel-palma-terraza-tumbonas-1199.webp 1199w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-terraza-tumbonas-480.webp",
+          "width": 480,
+          "height": 641,
+          "bytes": 42994,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-terraza-tumbonas-768.webp",
+          "width": 768,
+          "height": 1025,
+          "bytes": 70910,
+          "quality": 70
+        },
+        {
+          "src": "nobis-hotel-palma-terraza-tumbonas-1199.webp",
+          "width": 1199,
+          "height": 1600,
+          "bytes": 156990,
+          "quality": 73
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-habitacion-cama",
+      "original_filename": "NobisPalma_12.webp",
+      "order": 16,
+      "is_cover": false,
+      "alt": "Habitación de Nobis Hotel Palma con cama doble, pared de textura irregular y vigas en el techo.",
+      "caption": "Habitación con cama doble de Nobis Hotel Palma.",
+      "description": "Vista de una habitación de Nobis Hotel Palma, con cama doble, mesas auxiliares, un escritorio junto a la ventana, pared de textura irregular y vigas oscuras en el techo.",
+      "src": "nobis-hotel-palma-habitacion-cama-1500.webp",
+      "width": 1500,
+      "height": 1000,
+      "bytes": 148488,
+      "srcset": "nobis-hotel-palma-habitacion-cama-480.webp 480w, nobis-hotel-palma-habitacion-cama-960.webp 960w, nobis-hotel-palma-habitacion-cama-1500.webp 1500w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-habitacion-cama-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16848,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-habitacion-cama-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 66090,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-habitacion-cama-1500.webp",
+          "width": 1500,
+          "height": 1000,
+          "bytes": 148488,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-habitacion-estar",
+      "original_filename": "NobisPalma_16.webp",
+      "order": 17,
+      "is_cover": false,
+      "alt": "Zona de estar de Nobis Hotel Palma con sillones, mesa y cortinas junto a dos ventanas bajo un techo de vigas.",
+      "caption": "Zona de estar junto a las ventanas de Nobis Hotel Palma.",
+      "description": "Vista de una zona de estar de Nobis Hotel Palma, con sillones, mesas, cortinas claras, dos ventanas y un techo de vigas oscuras.",
+      "src": "nobis-hotel-palma-habitacion-estar-1200.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 155084,
+      "srcset": "nobis-hotel-palma-habitacion-estar-480.webp 480w, nobis-hotel-palma-habitacion-estar-768.webp 768w, nobis-hotel-palma-habitacion-estar-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-habitacion-estar-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 28616,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-habitacion-estar-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 50074,
+          "quality": 73
+        },
+        {
+          "src": "nobis-hotel-palma-habitacion-estar-1200.webp",
+          "width": 1200,
+          "height": 800,
+          "bytes": 155084,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-suite-salon",
+      "original_filename": "NobisPalma_17.webp",
+      "order": 18,
+      "is_cover": false,
+      "alt": "Salón de Nobis Hotel Palma con sofá, sillones, mesa baja y un espejo junto a una puerta abierta.",
+      "caption": "Salón de una habitación de Nobis Hotel Palma.",
+      "description": "Vista del salón de una habitación de Nobis Hotel Palma, con sofá, sillones, mesa baja, un espejo apoyado junto a una puerta y muros de textura irregular.",
+      "src": "nobis-hotel-palma-suite-salon-1920.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 204144,
+      "srcset": "nobis-hotel-palma-suite-salon-480.webp 480w, nobis-hotel-palma-suite-salon-960.webp 960w, nobis-hotel-palma-suite-salon-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-suite-salon-480.webp",
+          "width": 480,
+          "height": 270,
+          "bytes": 22454,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-suite-salon-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 69602,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-suite-salon-1920.webp",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 204144,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-habitacion-ventanales",
+      "original_filename": "NobisPalma_18.webp",
+      "order": 19,
+      "is_cover": false,
+      "alt": "Habitación de Nobis Hotel Palma con cama, sillones y mesa baja junto a grandes ventanales con cortinas.",
+      "caption": "Habitación con grandes ventanales de Nobis Hotel Palma.",
+      "description": "Vista de una habitación de Nobis Hotel Palma, con cama al fondo, sillones y mesa baja en primer plano, grandes ventanales y cortinas claras bajo vigas oscuras.",
+      "src": "nobis-hotel-palma-habitacion-ventanales-1200.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 159392,
+      "srcset": "nobis-hotel-palma-habitacion-ventanales-480.webp 480w, nobis-hotel-palma-habitacion-ventanales-768.webp 768w, nobis-hotel-palma-habitacion-ventanales-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-habitacion-ventanales-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 29226,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-habitacion-ventanales-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 50620,
+          "quality": 73
+        },
+        {
+          "src": "nobis-hotel-palma-habitacion-ventanales-1200.webp",
+          "width": 1200,
+          "height": 800,
+          "bytes": 159392,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "nobis-hotel-palma-habitacion-buhardilla",
+      "original_filename": "NobisPalma_19.webp",
+      "order": 20,
+      "is_cover": false,
+      "alt": "Habitación de Nobis Hotel Palma bajo una cubierta inclinada de vigas vistas, con cama y bañera.",
+      "caption": "Habitación bajo cubierta de Nobis Hotel Palma.",
+      "description": "Vista de una habitación de Nobis Hotel Palma bajo una cubierta inclinada de vigas vistas, con cama, bañera, mamparas de vidrio y mobiliario oscuro.",
+      "src": "nobis-hotel-palma-habitacion-buhardilla-1200.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 120860,
+      "srcset": "nobis-hotel-palma-habitacion-buhardilla-480.webp 480w, nobis-hotel-palma-habitacion-buhardilla-768.webp 768w, nobis-hotel-palma-habitacion-buhardilla-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "nobis-hotel-palma-habitacion-buhardilla-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 25044,
+          "quality": 82
+        },
+        {
+          "src": "nobis-hotel-palma-habitacion-buhardilla-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 45102,
+          "quality": 79
+        },
+        {
+          "src": "nobis-hotel-palma-habitacion-buhardilla-1200.webp",
+          "width": 1200,
+          "height": 800,
+          "bytes": 120860,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
