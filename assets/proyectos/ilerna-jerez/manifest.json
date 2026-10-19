@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "ILERNA Jerez",
+    "slug": "ilerna-jerez",
+    "location": "Jerez"
+  },
+  "asset_base_path": "assets/proyectos/ilerna-jerez/",
+  "cover_id": "ilerna-jerez-fachada-frontal",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "ilerna-jerez-fachada-frontal",
+      "ilerna-jerez-fachada-patio",
+      "ilerna-jerez-escalera-distribuidor",
+      "ilerna-jerez-pasillo-lamas-luz",
+      "ilerna-jerez-aula-techo-visto",
+      "ilerna-jerez-cerramiento-aula",
+      "ilerna-jerez-ventana-interior",
+      "ilerna-jerez-entorno-exterior"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "ilerna-jerez-fachada-frontal",
+      "original_filename": "ilerna jerez_06.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Fachada blanca de ILERNA Jerez con ventanas, balcones de tono madera y una pequeña buhardilla.",
+      "caption": "Fachada principal de ILERNA Jerez.",
+      "description": "Vista frontal del edificio de ILERNA Jerez, con fachada blanca, ventanas en dos plantas, balcones de tono madera y una pequeña buhardilla sobre la cubierta.",
+      "src": "ilerna-jerez-fachada-frontal-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 211114,
+      "srcset": "ilerna-jerez-fachada-frontal-480.webp 480w, ilerna-jerez-fachada-frontal-960.webp 960w, ilerna-jerez-fachada-frontal-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ilerna-jerez-fachada-frontal-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 18434,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-fachada-frontal-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 62844,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-fachada-frontal-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 211114,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-jerez-fachada-patio",
+      "original_filename": "ilerna jerez_07.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Exterior de ILERNA Jerez con fachada blanca, balcones de tono madera y una palmera junto al patio.",
+      "caption": "Fachada y patio de ILERNA Jerez.",
+      "description": "Vista en perspectiva del exterior de ILERNA Jerez, con ventanas enmarcadas, balcones de tono madera, farolas y una palmera junto al patio.",
+      "src": "ilerna-jerez-fachada-patio-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 217096,
+      "srcset": "ilerna-jerez-fachada-patio-480.webp 480w, ilerna-jerez-fachada-patio-960.webp 960w, ilerna-jerez-fachada-patio-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ilerna-jerez-fachada-patio-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 27348,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-fachada-patio-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 90032,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-fachada-patio-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 217096,
+          "quality": 73
+        }
+      ]
+    },
+    {
+      "id": "ilerna-jerez-escalera-distribuidor",
+      "original_filename": "ilerna jerez_02.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Escalera de ILERNA Jerez con peldaños grises, laterales de tono madera y un distribuidor entre plantas.",
+      "caption": "Escalera y distribuidor de ILERNA Jerez.",
+      "description": "Vista desde la escalera de ILERNA Jerez hacia el distribuidor, con peldaños grises, pasamanos oscuros, laterales de tono madera y paredes blancas.",
+      "src": "ilerna-jerez-escalera-distribuidor-1855.webp",
+      "width": 1855,
+      "height": 1600,
+      "bytes": 191756,
+      "srcset": "ilerna-jerez-escalera-distribuidor-480.webp 480w, ilerna-jerez-escalera-distribuidor-960.webp 960w, ilerna-jerez-escalera-distribuidor-1855.webp 1855w",
+      "variants": [
+        {
+          "src": "ilerna-jerez-escalera-distribuidor-480.webp",
+          "width": 480,
+          "height": 414,
+          "bytes": 16486,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-escalera-distribuidor-960.webp",
+          "width": 960,
+          "height": 828,
+          "bytes": 59202,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-escalera-distribuidor-1855.webp",
+          "width": 1855,
+          "height": 1600,
+          "bytes": 191756,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "ilerna-jerez-pasillo-lamas-luz",
+      "original_filename": "ilerna jerez_03.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Pasillo de ILERNA Jerez con paredes de lamas de tono madera y líneas de luz en el techo y la pared.",
+      "caption": "Pasillo con lamas e iluminación lineal de ILERNA Jerez.",
+      "description": "Vista interior de un pasillo de ILERNA Jerez revestido con lamas de tono madera, con líneas de luz que recorren el techo y descienden por una pared.",
+      "src": "ilerna-jerez-pasillo-lamas-luz-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 144606,
+      "srcset": "ilerna-jerez-pasillo-lamas-luz-480.webp 480w, ilerna-jerez-pasillo-lamas-luz-768.webp 768w, ilerna-jerez-pasillo-lamas-luz-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ilerna-jerez-pasillo-lamas-luz-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 27260,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-pasillo-lamas-luz-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 50418,
+          "quality": 73
+        },
+        {
+          "src": "ilerna-jerez-pasillo-lamas-luz-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 144606,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "ilerna-jerez-aula-techo-visto",
+      "original_filename": "ilerna jerez_00.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Aula de ILERNA Jerez con mesas y sillas blancas, techo visto y focos negros sobre un carril.",
+      "caption": "Aula con techo visto de ILERNA Jerez.",
+      "description": "Vista del aula de ILERNA Jerez, con mesas y sillas blancas, paredes claras y una línea de focos negros bajo el techo visto.",
+      "src": "ilerna-jerez-aula-techo-visto-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 160072,
+      "srcset": "ilerna-jerez-aula-techo-visto-480.webp 480w, ilerna-jerez-aula-techo-visto-768.webp 768w, ilerna-jerez-aula-techo-visto-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ilerna-jerez-aula-techo-visto-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 35156,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-aula-techo-visto-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 56962,
+          "quality": 70
+        },
+        {
+          "src": "ilerna-jerez-aula-techo-visto-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 160072,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "ilerna-jerez-cerramiento-aula",
+      "original_filename": "ilerna jerez_01.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Cerramiento acristalado de un aula de ILERNA Jerez junto a un pilar visto y un panel inferior de tono madera.",
+      "caption": "Cerramiento acristalado de ILERNA Jerez.",
+      "description": "Detalle del cerramiento de un aula de ILERNA Jerez, con vidrio sobre un panel inferior de tono madera, un pilar visto y sillas colocadas sobre las mesas al fondo.",
+      "src": "ilerna-jerez-cerramiento-aula-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 122882,
+      "srcset": "ilerna-jerez-cerramiento-aula-480.webp 480w, ilerna-jerez-cerramiento-aula-768.webp 768w, ilerna-jerez-cerramiento-aula-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ilerna-jerez-cerramiento-aula-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 27574,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-cerramiento-aula-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 44290,
+          "quality": 76
+        },
+        {
+          "src": "ilerna-jerez-cerramiento-aula-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 122882,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-jerez-ventana-interior",
+      "original_filename": "ilerna jerez_04.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Ventana de ILERNA Jerez con marco blanco y una vista del interior revestido en tonos madera.",
+      "caption": "Ventana hacia el interior de ILERNA Jerez.",
+      "description": "Vista de una ventana de ILERNA Jerez, con marco blanco, pavimento exterior en primer plano y un espacio interior en tonos madera tras el vidrio.",
+      "src": "ilerna-jerez-ventana-interior-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 124498,
+      "srcset": "ilerna-jerez-ventana-interior-480.webp 480w, ilerna-jerez-ventana-interior-768.webp 768w, ilerna-jerez-ventana-interior-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ilerna-jerez-ventana-interior-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 24324,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-ventana-interior-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 47836,
+          "quality": 79
+        },
+        {
+          "src": "ilerna-jerez-ventana-interior-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 124498,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-jerez-entorno-exterior",
+      "original_filename": "ilerna jerez_05.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Entorno exterior de ILERNA Jerez con una valla oscura, vegetación y una cubierta de tejas al fondo.",
+      "caption": "Vista del entorno exterior de ILERNA Jerez.",
+      "description": "Vista desde el entorno exterior de ILERNA Jerez hacia una valla de barrotes oscuros, vegetación y un edificio con cubierta de tejas al fondo.",
+      "src": "ilerna-jerez-entorno-exterior-1920.webp",
+      "width": 1920,
+      "height": 1439,
+      "bytes": 376726,
+      "srcset": "ilerna-jerez-entorno-exterior-480.webp 480w, ilerna-jerez-entorno-exterior-960.webp 960w, ilerna-jerez-entorno-exterior-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ilerna-jerez-entorno-exterior-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 39272,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-jerez-entorno-exterior-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 110864,
+          "quality": 70
+        },
+        {
+          "src": "ilerna-jerez-entorno-exterior-1920.webp",
+          "width": 1920,
+          "height": 1439,
+          "bytes": 376726,
+          "quality": 70
+        }
+      ]
+    }
+  ]
+}
