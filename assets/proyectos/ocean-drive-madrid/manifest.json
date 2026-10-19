@@ -1,0 +1,372 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Ocean Drive Madrid",
+    "slug": "ocean-drive-madrid",
+    "location": "Madrid"
+  },
+  "asset_base_path": "assets/proyectos/ocean-drive-madrid/",
+  "cover_id": "ocean-drive-madrid-fachada-principal",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "ocean-drive-madrid-fachada-principal",
+      "ocean-drive-madrid-salon-barra",
+      "ocean-drive-madrid-restaurante-general",
+      "ocean-drive-madrid-restaurante-banco",
+      "ocean-drive-madrid-restaurante-paso",
+      "ocean-drive-madrid-mesas-junto-patio",
+      "ocean-drive-madrid-patio-acristalado",
+      "ocean-drive-madrid-patio-bancos",
+      "ocean-drive-madrid-habitacion-lavabo"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "ocean-drive-madrid-fachada-principal",
+      "original_filename": "od madrid_02.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Fachada de Ocean Drive Madrid con ventanas verticales, rótulo en la parte superior y planta baja acristalada.",
+      "caption": "Fachada principal de Ocean Drive Madrid.",
+      "description": "Vista frontal de Ocean Drive Madrid desde la calle, con fachada clara, filas de ventanas verticales, el rótulo del hotel en la parte superior y una planta baja acristalada.",
+      "src": "ocean-drive-madrid-fachada-principal-1920.webp",
+      "width": 1920,
+      "height": 1212,
+      "bytes": 203590,
+      "srcset": "ocean-drive-madrid-fachada-principal-480.webp 480w, ocean-drive-madrid-fachada-principal-960.webp 960w, ocean-drive-madrid-fachada-principal-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ocean-drive-madrid-fachada-principal-480.webp",
+          "width": 480,
+          "height": 303,
+          "bytes": 24574,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-madrid-fachada-principal-960.webp",
+          "width": 960,
+          "height": 606,
+          "bytes": 75260,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-madrid-fachada-principal-1920.webp",
+          "width": 1920,
+          "height": 1212,
+          "bytes": 203590,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-madrid-salon-barra",
+      "original_filename": "od madrid_03.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Salón de Ocean Drive Madrid con sofá, mesas bajas y una barra verde bajo un techo de lamas claras.",
+      "caption": "Salón y barra de Ocean Drive Madrid.",
+      "description": "Vista del salón de Ocean Drive Madrid, con sofá, mesas bajas, un asiento azul y una barra verde bajo un techo de lamas claras y franjas oscuras.",
+      "src": "ocean-drive-madrid-salon-barra-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 195830,
+      "srcset": "ocean-drive-madrid-salon-barra-480.webp 480w, ocean-drive-madrid-salon-barra-768.webp 768w, ocean-drive-madrid-salon-barra-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ocean-drive-madrid-salon-barra-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 50886,
+          "quality": 76
+        },
+        {
+          "src": "ocean-drive-madrid-salon-barra-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 98300,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-madrid-salon-barra-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 195830,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-madrid-restaurante-general",
+      "original_filename": "od madrid_07.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Restaurante de Ocean Drive Madrid con mesas, sillas y un banco verde ante una pared iluminada con relieves.",
+      "caption": "Vista general del restaurante de Ocean Drive Madrid.",
+      "description": "Vista general del restaurante de Ocean Drive Madrid, con mesas, sillas, luminarias suspendidas y un banco verde al fondo ante una pared iluminada con relieves.",
+      "src": "ocean-drive-madrid-restaurante-general-1231.webp",
+      "width": 1231,
+      "height": 1600,
+      "bytes": 153016,
+      "srcset": "ocean-drive-madrid-restaurante-general-480.webp 480w, ocean-drive-madrid-restaurante-general-768.webp 768w, ocean-drive-madrid-restaurante-general-1231.webp 1231w",
+      "variants": [
+        {
+          "src": "ocean-drive-madrid-restaurante-general-480.webp",
+          "width": 480,
+          "height": 624,
+          "bytes": 40178,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-madrid-restaurante-general-768.webp",
+          "width": 768,
+          "height": 998,
+          "bytes": 57178,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-madrid-restaurante-general-1231.webp",
+          "width": 1231,
+          "height": 1600,
+          "bytes": 153016,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-madrid-restaurante-banco",
+      "original_filename": "od madrid_04.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Restaurante de Ocean Drive Madrid con banco verde, mesas y una pared de relieves iluminada en tonos cálidos.",
+      "caption": "Banco y mesas del restaurante de Ocean Drive Madrid.",
+      "description": "Vista de una zona del restaurante de Ocean Drive Madrid, con banco verde, mesas y sillas junto a una pared de relieves iluminada, con ventanales a un lado.",
+      "src": "ocean-drive-madrid-restaurante-banco-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 139384,
+      "srcset": "ocean-drive-madrid-restaurante-banco-480.webp 480w, ocean-drive-madrid-restaurante-banco-768.webp 768w, ocean-drive-madrid-restaurante-banco-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ocean-drive-madrid-restaurante-banco-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 41390,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-madrid-restaurante-banco-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 56852,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-madrid-restaurante-banco-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 139384,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-madrid-restaurante-paso",
+      "original_filename": "od madrid_05.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Interior de Ocean Drive Madrid con pavimento claro, armarios de tono madera y mesas al fondo.",
+      "caption": "Zona de paso del restaurante de Ocean Drive Madrid.",
+      "description": "Vista de una zona de paso de Ocean Drive Madrid, con pavimento claro, un mueble de tono madera con puertas acristaladas iluminadas y mesas al fondo.",
+      "src": "ocean-drive-madrid-restaurante-paso-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 161132,
+      "srcset": "ocean-drive-madrid-restaurante-paso-480.webp 480w, ocean-drive-madrid-restaurante-paso-768.webp 768w, ocean-drive-madrid-restaurante-paso-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ocean-drive-madrid-restaurante-paso-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 43852,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-madrid-restaurante-paso-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 69064,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-madrid-restaurante-paso-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 161132,
+          "quality": 73
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-madrid-mesas-junto-patio",
+      "original_filename": "od madrid_00.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Mesas y sillas de Ocean Drive Madrid junto a un cerramiento de vidrio que conecta visualmente con el patio.",
+      "caption": "Mesas junto al patio de Ocean Drive Madrid.",
+      "description": "Vista desde el interior de Ocean Drive Madrid hacia el patio, con mesas, sillas y lámparas suspendidas junto a un cerramiento de vidrio.",
+      "src": "ocean-drive-madrid-mesas-junto-patio-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 190028,
+      "srcset": "ocean-drive-madrid-mesas-junto-patio-480.webp 480w, ocean-drive-madrid-mesas-junto-patio-768.webp 768w, ocean-drive-madrid-mesas-junto-patio-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ocean-drive-madrid-mesas-junto-patio-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 46746,
+          "quality": 76
+        },
+        {
+          "src": "ocean-drive-madrid-mesas-junto-patio-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 93314,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-madrid-mesas-junto-patio-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 190028,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-madrid-patio-acristalado",
+      "original_filename": "od madrid_06.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Patio de Ocean Drive Madrid con mesas, sillas y lámparas oscuras entre fachadas de lamas verticales.",
+      "caption": "Patio entre fachadas de Ocean Drive Madrid.",
+      "description": "Vista del patio de Ocean Drive Madrid desde un cerramiento acristalado, con mesas, sillas y lámparas oscuras entre fachadas de lamas verticales.",
+      "src": "ocean-drive-madrid-patio-acristalado-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 234094,
+      "srcset": "ocean-drive-madrid-patio-acristalado-480.webp 480w, ocean-drive-madrid-patio-acristalado-768.webp 768w, ocean-drive-madrid-patio-acristalado-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ocean-drive-madrid-patio-acristalado-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 50486,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-madrid-patio-acristalado-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 117156,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-madrid-patio-acristalado-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 234094,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-madrid-patio-bancos",
+      "original_filename": "od madrid_08.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Patio de Ocean Drive Madrid con mesas, bancos claros, jardineras y lámparas de pie oscuras.",
+      "caption": "Mesas y bancos del patio de Ocean Drive Madrid.",
+      "description": "Vista del patio de Ocean Drive Madrid, con mesas y sillas, bancos claros, jardineras con vegetación y lámparas de pie oscuras frente a una fachada de lamas.",
+      "src": "ocean-drive-madrid-patio-bancos-1920.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 199974,
+      "srcset": "ocean-drive-madrid-patio-bancos-480.webp 480w, ocean-drive-madrid-patio-bancos-960.webp 960w, ocean-drive-madrid-patio-bancos-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ocean-drive-madrid-patio-bancos-480.webp",
+          "width": 480,
+          "height": 270,
+          "bytes": 26668,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-madrid-patio-bancos-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 73510,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-madrid-patio-bancos-1920.webp",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 199974,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-madrid-habitacion-lavabo",
+      "original_filename": "od madrid_01.webp",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Habitación de Ocean Drive Madrid con cama, cojines azules y lavabo sobre una encimera en primer plano.",
+      "caption": "Habitación de Ocean Drive Madrid.",
+      "description": "Vista de una habitación de Ocean Drive Madrid, con cama y cojines azules, televisión y escritorio a un lado, cortinas ante los ventanales y lavabo sobre una encimera en primer plano.",
+      "src": "ocean-drive-madrid-habitacion-lavabo-1920.webp",
+      "width": 1920,
+      "height": 1479,
+      "bytes": 133092,
+      "srcset": "ocean-drive-madrid-habitacion-lavabo-480.webp 480w, ocean-drive-madrid-habitacion-lavabo-960.webp 960w, ocean-drive-madrid-habitacion-lavabo-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ocean-drive-madrid-habitacion-lavabo-480.webp",
+          "width": 480,
+          "height": 370,
+          "bytes": 17462,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-madrid-habitacion-lavabo-960.webp",
+          "width": 960,
+          "height": 740,
+          "bytes": 45214,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-madrid-habitacion-lavabo-1920.webp",
+          "width": 1920,
+          "height": 1479,
+          "bytes": 133092,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
