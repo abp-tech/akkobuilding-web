@@ -1,0 +1,524 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "OD Port Portals",
+    "slug": "od-port-portals",
+    "location": "Mallorca"
+  },
+  "asset_base_path": "assets/proyectos/od-port-portals/",
+  "cover_id": "od-port-portals-fachada-piscina",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "od-port-portals-fachada-piscina",
+      "od-port-portals-terraza-nocturna",
+      "od-port-portals-fachada-paneles",
+      "od-port-portals-detalle-fachada",
+      "od-port-portals-rotulo-exterior",
+      "od-port-portals-salon-barra",
+      "od-port-portals-salon-vista-lateral",
+      "od-port-portals-salon-doble-altura",
+      "od-port-portals-galeria-salon",
+      "od-port-portals-restaurante-ventanales",
+      "od-port-portals-restaurante-detalle",
+      "od-port-portals-pasillo-galeria",
+      "od-port-portals-habitacion-estar"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "od-port-portals-fachada-piscina",
+      "original_filename": "od_port_portals_10.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Fachada de OD Port Portals con iluminación cálida, piscina y tumbonas al anochecer.",
+      "caption": "Fachada y piscina de OD Port Portals.",
+      "description": "Vista de OD Port Portals, en Mallorca, al anochecer, con la fachada iluminada, paneles verticales de distintos colores y la piscina junto a las tumbonas en primer plano.",
+      "src": "od-port-portals-fachada-piscina-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 256170,
+      "srcset": "od-port-portals-fachada-piscina-480.webp 480w, od-port-portals-fachada-piscina-960.webp 960w, od-port-portals-fachada-piscina-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-fachada-piscina-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 36122,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-fachada-piscina-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 111100,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-fachada-piscina-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 256170,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-terraza-nocturna",
+      "original_filename": "od_port_portals_11.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Terraza de OD Port Portals al anochecer con mesas, fachada iluminada y jardín junto al edificio.",
+      "caption": "Terraza al anochecer de OD Port Portals.",
+      "description": "Vista longitudinal de la terraza de OD Port Portals al anochecer, con mesas y sillas junto a la fachada iluminada, pavimento claro y una zona de césped.",
+      "src": "od-port-portals-terraza-nocturna-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 220672,
+      "srcset": "od-port-portals-terraza-nocturna-480.webp 480w, od-port-portals-terraza-nocturna-960.webp 960w, od-port-portals-terraza-nocturna-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-terraza-nocturna-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 29670,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-terraza-nocturna-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 103080,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-terraza-nocturna-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 220672,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-fachada-paneles",
+      "original_filename": "od_port_portals_05.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Fachada de OD Port Portals con una retícula de huecos y paneles perforados blancos, amarillos y rojos.",
+      "caption": "Fachada de paneles de OD Port Portals.",
+      "description": "Vista frontal de la fachada de OD Port Portals, con una retícula de huecos acristalados y paneles perforados blancos combinados con piezas amarillas y rojas.",
+      "src": "od-port-portals-fachada-paneles-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 310942,
+      "srcset": "od-port-portals-fachada-paneles-480.webp 480w, od-port-portals-fachada-paneles-960.webp 960w, od-port-portals-fachada-paneles-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-fachada-paneles-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 43970,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-fachada-paneles-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 110410,
+          "quality": 73
+        },
+        {
+          "src": "od-port-portals-fachada-paneles-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 310942,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-detalle-fachada",
+      "original_filename": "od_port_portals_09.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Detalle de la fachada de OD Port Portals con paneles perforados y lamas superiores que proyectan sombras.",
+      "caption": "Detalle de fachada de OD Port Portals.",
+      "description": "Vista ascendente de la fachada de OD Port Portals, con paneles perforados blancos y de colores bajo unas lamas que proyectan sombras sobre el conjunto.",
+      "src": "od-port-portals-detalle-fachada-1066.webp",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 239806,
+      "srcset": "od-port-portals-detalle-fachada-480.webp 480w, od-port-portals-detalle-fachada-768.webp 768w, od-port-portals-detalle-fachada-1066.webp 1066w",
+      "variants": [
+        {
+          "src": "od-port-portals-detalle-fachada-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 84540,
+          "quality": 70
+        },
+        {
+          "src": "od-port-portals-detalle-fachada-768.webp",
+          "width": 768,
+          "height": 1153,
+          "bytes": 161152,
+          "quality": 70
+        },
+        {
+          "src": "od-port-portals-detalle-fachada-1066.webp",
+          "width": 1066,
+          "height": 1600,
+          "bytes": 239806,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-rotulo-exterior",
+      "original_filename": "od_port_portals_07.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Rótulo de OD Port Portals sobre una fachada clara bajo el cielo azul.",
+      "caption": "Rótulo exterior de OD Port Portals.",
+      "description": "Detalle del rótulo de OD Port Portals sobre una fachada clara, con pequeñas ventanas en la parte inferior y cielo azul al fondo.",
+      "src": "od-port-portals-rotulo-exterior-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 169724,
+      "srcset": "od-port-portals-rotulo-exterior-480.webp 480w, od-port-portals-rotulo-exterior-960.webp 960w, od-port-portals-rotulo-exterior-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-rotulo-exterior-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 12866,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-rotulo-exterior-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 46178,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-rotulo-exterior-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 169724,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-salon-barra",
+      "original_filename": "od_port_portals_12.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Salón de OD Port Portals con sillones de varillas, mesas bajas, asientos de colores y barra iluminada.",
+      "caption": "Salón y barra de OD Port Portals.",
+      "description": "Vista del salón de OD Port Portals, con sillones de varillas, mesas bajas, asientos de colores y una barra iluminada junto a una pared azul y grandes ventanales.",
+      "src": "od-port-portals-salon-barra-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 290286,
+      "srcset": "od-port-portals-salon-barra-480.webp 480w, od-port-portals-salon-barra-960.webp 960w, od-port-portals-salon-barra-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-salon-barra-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 37888,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-salon-barra-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 109258,
+          "quality": 79
+        },
+        {
+          "src": "od-port-portals-salon-barra-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 290286,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-salon-vista-lateral",
+      "original_filename": "od_port_portals_02.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Zona de estar de OD Port Portals con sillones, mesas bajas y separadores blancos de huecos circulares.",
+      "caption": "Vista lateral del salón de OD Port Portals.",
+      "description": "Vista lateral de la zona de estar de OD Port Portals, con sillones de varillas, mesas bajas, asientos de colores y separadores blancos con huecos circulares junto a la barra.",
+      "src": "od-port-portals-salon-vista-lateral-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 295228,
+      "srcset": "od-port-portals-salon-vista-lateral-480.webp 480w, od-port-portals-salon-vista-lateral-960.webp 960w, od-port-portals-salon-vista-lateral-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-salon-vista-lateral-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 37158,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-salon-vista-lateral-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 110582,
+          "quality": 79
+        },
+        {
+          "src": "od-port-portals-salon-vista-lateral-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 295228,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-salon-doble-altura",
+      "original_filename": "od_port_portals_03.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Salón de OD Port Portals con sillones, separadores blancos y un espacio de doble altura con galería superior.",
+      "caption": "Salón de doble altura de OD Port Portals.",
+      "description": "Vista del salón de OD Port Portals, con sillones de varillas, mesas bajas, separadores blancos perforados y una galería superior sobre un espacio de doble altura.",
+      "src": "od-port-portals-salon-doble-altura-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 219130,
+      "srcset": "od-port-portals-salon-doble-altura-480.webp 480w, od-port-portals-salon-doble-altura-960.webp 960w, od-port-portals-salon-doble-altura-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-salon-doble-altura-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 32196,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-salon-doble-altura-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 103676,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-salon-doble-altura-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 219130,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-galeria-salon",
+      "original_filename": "od_port_portals_08.webp",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Vista del salón de OD Port Portals desde la galería superior, con mesas, sillas y una pared azul al fondo.",
+      "caption": "Salón desde la galería de OD Port Portals.",
+      "description": "Vista desde la galería superior hacia el salón de OD Port Portals, con mesas, sillas, separadores perforados y luminarias suspendidas ante una pared azul.",
+      "src": "od-port-portals-galeria-salon-1067.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 158456,
+      "srcset": "od-port-portals-galeria-salon-480.webp 480w, od-port-portals-galeria-salon-768.webp 768w, od-port-portals-galeria-salon-1067.webp 1067w",
+      "variants": [
+        {
+          "src": "od-port-portals-galeria-salon-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 48354,
+          "quality": 79
+        },
+        {
+          "src": "od-port-portals-galeria-salon-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 79024,
+          "quality": 70
+        },
+        {
+          "src": "od-port-portals-galeria-salon-1067.webp",
+          "width": 1067,
+          "height": 1600,
+          "bytes": 158456,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-restaurante-ventanales",
+      "original_filename": "od_port_portals_01.webp",
+      "order": 10,
+      "is_cover": false,
+      "alt": "Restaurante de OD Port Portals con mesas preparadas, sillas y grandes ventanales hacia la piscina.",
+      "caption": "Restaurante con ventanales de OD Port Portals.",
+      "description": "Vista del restaurante de OD Port Portals, con mesas preparadas, sillas de tono madera, pilares y grandes ventanales que abren la vista hacia la piscina.",
+      "src": "od-port-portals-restaurante-ventanales-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 265162,
+      "srcset": "od-port-portals-restaurante-ventanales-480.webp 480w, od-port-portals-restaurante-ventanales-960.webp 960w, od-port-portals-restaurante-ventanales-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-restaurante-ventanales-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 40668,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-restaurante-ventanales-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 102496,
+          "quality": 76
+        },
+        {
+          "src": "od-port-portals-restaurante-ventanales-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 265162,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-restaurante-detalle",
+      "original_filename": "od_port_portals_04.webp",
+      "order": 11,
+      "is_cover": false,
+      "alt": "Restaurante de OD Port Portals con mesas, sillas y separadores blancos de huecos circulares ante una pared azul.",
+      "caption": "Detalle del restaurante de OD Port Portals.",
+      "description": "Detalle de una zona del restaurante de OD Port Portals, con mesas, sillas y separadores blancos de huecos circulares bajo la luz que entra junto a una pared azul.",
+      "src": "od-port-portals-restaurante-detalle-1067.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 136374,
+      "srcset": "od-port-portals-restaurante-detalle-480.webp 480w, od-port-portals-restaurante-detalle-768.webp 768w, od-port-portals-restaurante-detalle-1067.webp 1067w",
+      "variants": [
+        {
+          "src": "od-port-portals-restaurante-detalle-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 46632,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-restaurante-detalle-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 62848,
+          "quality": 70
+        },
+        {
+          "src": "od-port-portals-restaurante-detalle-1067.webp",
+          "width": 1067,
+          "height": 1600,
+          "bytes": 136374,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-pasillo-galeria",
+      "original_filename": "od_port_portals_06.webp",
+      "order": 12,
+      "is_cover": false,
+      "alt": "Pasillo de OD Port Portals con pilares, barandillas blancas y lamas verticales junto a las ventanas.",
+      "caption": "Pasillo de la galería de OD Port Portals.",
+      "description": "Vista longitudinal del pasillo de OD Port Portals, con pilares, barandillas blancas y lamas verticales junto a las ventanas, bajo un techo de tono madera.",
+      "src": "od-port-portals-pasillo-galeria-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 163522,
+      "srcset": "od-port-portals-pasillo-galeria-480.webp 480w, od-port-portals-pasillo-galeria-960.webp 960w, od-port-portals-pasillo-galeria-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-pasillo-galeria-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 18856,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-pasillo-galeria-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 55374,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-pasillo-galeria-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 163522,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "od-port-portals-habitacion-estar",
+      "original_filename": "od_port_portals_00.webp",
+      "order": 13,
+      "is_cover": false,
+      "alt": "Habitación de OD Port Portals con sillones marrones, mesas blancas y ventanales con vistas al mar.",
+      "caption": "Habitación y zona de estar de OD Port Portals.",
+      "description": "Vista de la zona de estar de una habitación de OD Port Portals, con sillones marrones, mesas blancas, televisión, acceso al baño y ventanales con vistas al mar al fondo.",
+      "src": "od-port-portals-habitacion-estar-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 129948,
+      "srcset": "od-port-portals-habitacion-estar-480.webp 480w, od-port-portals-habitacion-estar-960.webp 960w, od-port-portals-habitacion-estar-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "od-port-portals-habitacion-estar-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 17302,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-habitacion-estar-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 46872,
+          "quality": 82
+        },
+        {
+          "src": "od-port-portals-habitacion-estar-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 129948,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
