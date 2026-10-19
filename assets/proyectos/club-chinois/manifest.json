@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Club Chinois",
+    "slug": "club-chinois",
+    "location": null
+  },
+  "asset_base_path": "assets/proyectos/club-chinois/",
+  "cover_id": "club-chinois-salon",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "club-chinois-salon",
+      "club-chinois-pista",
+      "club-chinois-vista-general",
+      "club-chinois-sala-y-barra",
+      "club-chinois-barra",
+      "club-chinois-columnas"
+    ]
+  },
+  "images": [
+    {
+      "id": "club-chinois-salon",
+      "original_filename": "Club_Chinois_03.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Salón de Club Chinois con asientos rojos, lámparas de mesa y techo curvo con detalles dorados.",
+      "caption": "Salón de Club Chinois.",
+      "description": "Vista panorámica del salón de Club Chinois, con asientos y paredes en tonos rojos, lámparas de mesa y un techo curvo con detalles dorados.",
+      "src": "club-chinois-salon-1920.webp",
+      "width": 1920,
+      "height": 935,
+      "bytes": 218388,
+      "srcset": "club-chinois-salon-480.webp 480w, club-chinois-salon-960.webp 960w, club-chinois-salon-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "club-chinois-salon-480.webp",
+          "width": 480,
+          "height": 234,
+          "bytes": 23570,
+          "quality": 82
+        },
+        {
+          "src": "club-chinois-salon-960.webp",
+          "width": 960,
+          "height": 468,
+          "bytes": 76230,
+          "quality": 82
+        },
+        {
+          "src": "club-chinois-salon-1920.webp",
+          "width": 1920,
+          "height": 935,
+          "bytes": 218388,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "club-chinois-pista",
+      "original_filename": "Club_Chinois_00.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Pista de Club Chinois con público, haces de luz y una estructura circular iluminada sobre la sala.",
+      "caption": "La pista de Club Chinois en actividad.",
+      "description": "Vista de la pista de Club Chinois con público, haces de luz, una esfera reflectante y una gran estructura circular iluminada sobre el centro de la sala.",
+      "src": "club-chinois-pista-1799.webp",
+      "width": 1799,
+      "height": 1200,
+      "bytes": 202362,
+      "srcset": "club-chinois-pista-480.webp 480w, club-chinois-pista-960.webp 960w, club-chinois-pista-1799.webp 1799w",
+      "variants": [
+        {
+          "src": "club-chinois-pista-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 23310,
+          "quality": 82
+        },
+        {
+          "src": "club-chinois-pista-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 68776,
+          "quality": 82
+        },
+        {
+          "src": "club-chinois-pista-1799.webp",
+          "width": 1799,
+          "height": 1200,
+          "bytes": 202362,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "club-chinois-vista-general",
+      "original_filename": "Club_Chinois_07.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Vista general del interior de Club Chinois con barras, columnas decoradas y pavimento oscuro.",
+      "caption": "Vista general de Club Chinois.",
+      "description": "Vista amplia de Club Chinois que muestra las barras, las columnas decoradas, el pavimento oscuro y los equipos e instalaciones visibles en el techo.",
+      "src": "club-chinois-vista-general-1024.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 92040,
+      "srcset": "club-chinois-vista-general-480.webp 480w, club-chinois-vista-general-768.webp 768w, club-chinois-vista-general-1024.webp 1024w",
+      "variants": [
+        {
+          "src": "club-chinois-vista-general-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 23094,
+          "quality": 82
+        },
+        {
+          "src": "club-chinois-vista-general-768.webp",
+          "width": 768,
+          "height": 576,
+          "bytes": 45958,
+          "quality": 79
+        },
+        {
+          "src": "club-chinois-vista-general-1024.webp",
+          "width": 1024,
+          "height": 768,
+          "bytes": 92040,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "club-chinois-sala-y-barra",
+      "original_filename": "Club_Chinois_06.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Sala de Club Chinois con columnas de acabado dorado, una zona de pavimento claro y barra al fondo.",
+      "caption": "Sala y barra de Club Chinois.",
+      "description": "Vista de la sala de Club Chinois con columnas decoradas, una zona de pavimento claro y una barra al fondo con lámparas rojas suspendidas.",
+      "src": "club-chinois-sala-y-barra-1024.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 140894,
+      "srcset": "club-chinois-sala-y-barra-480.webp 480w, club-chinois-sala-y-barra-768.webp 768w, club-chinois-sala-y-barra-1024.webp 1024w",
+      "variants": [
+        {
+          "src": "club-chinois-sala-y-barra-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 33832,
+          "quality": 82
+        },
+        {
+          "src": "club-chinois-sala-y-barra-768.webp",
+          "width": 768,
+          "height": 576,
+          "bytes": 57008,
+          "quality": 70
+        },
+        {
+          "src": "club-chinois-sala-y-barra-1024.webp",
+          "width": 1024,
+          "height": 768,
+          "bytes": 140894,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "club-chinois-barra",
+      "original_filename": "Club_Chinois_05.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Barra de Club Chinois con frente dorado, botellas al fondo y cuatro lámparas rojas.",
+      "caption": "Barra de Club Chinois.",
+      "description": "Vista frontal de una barra de Club Chinois, con un frente de acabado dorado, estanterías con botellas y cuatro lámparas rojas suspendidas.",
+      "src": "club-chinois-barra-1024.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 112484,
+      "srcset": "club-chinois-barra-480.webp 480w, club-chinois-barra-768.webp 768w, club-chinois-barra-1024.webp 1024w",
+      "variants": [
+        {
+          "src": "club-chinois-barra-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 35138,
+          "quality": 82
+        },
+        {
+          "src": "club-chinois-barra-768.webp",
+          "width": 768,
+          "height": 576,
+          "bytes": 52844,
+          "quality": 70
+        },
+        {
+          "src": "club-chinois-barra-1024.webp",
+          "width": 1024,
+          "height": 768,
+          "bytes": 112484,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "club-chinois-columnas",
+      "original_filename": "Club_Chinois_04.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Columnas decoradas de acabado dorado en Club Chinois, con una barra al fondo y pavimento oscuro.",
+      "caption": "Detalle de las columnas de Club Chinois.",
+      "description": "Vista interior de Club Chinois centrada en las columnas decoradas de acabado dorado, con una barra al fondo y reflejos sobre el pavimento oscuro.",
+      "src": "club-chinois-columnas-1024.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 93322,
+      "srcset": "club-chinois-columnas-480.webp 480w, club-chinois-columnas-768.webp 768w, club-chinois-columnas-1024.webp 1024w",
+      "variants": [
+        {
+          "src": "club-chinois-columnas-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 28122,
+          "quality": 82
+        },
+        {
+          "src": "club-chinois-columnas-768.webp",
+          "width": 768,
+          "height": 576,
+          "bytes": 50312,
+          "quality": 79
+        },
+        {
+          "src": "club-chinois-columnas-1024.webp",
+          "width": 1024,
+          "height": 768,
+          "bytes": 93322,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
