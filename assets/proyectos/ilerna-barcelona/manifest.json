@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "ILERNA Barcelona",
+    "slug": "ilerna-barcelona",
+    "location": "Barcelona"
+  },
+  "asset_base_path": "assets/proyectos/ilerna-barcelona/",
+  "cover_id": "ilerna-barcelona-mostrador-escalera",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "ilerna-barcelona-mostrador-escalera",
+      "ilerna-barcelona-pasillo-acceso",
+      "ilerna-barcelona-escalera-frontal",
+      "ilerna-barcelona-detalle-techo",
+      "ilerna-barcelona-espacio-columnas",
+      "ilerna-barcelona-sala-sillones",
+      "ilerna-barcelona-sala-espera"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "ilerna-barcelona-mostrador-escalera",
+      "original_filename": "ilerna_barcelona_05.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Zona de acceso de ILERNA Barcelona con mostrador, escalera de laterales claros y una planta junto al pilar.",
+      "caption": "Mostrador y escalera de ILERNA Barcelona.",
+      "description": "Vista horizontal de la zona de acceso de ILERNA Barcelona, con un mostrador, una escalera de laterales claros, un pilar blanco y una planta junto al recorrido.",
+      "src": "ilerna-barcelona-mostrador-escalera-1600.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 105030,
+      "srcset": "ilerna-barcelona-mostrador-escalera-480.webp 480w, ilerna-barcelona-mostrador-escalera-960.webp 960w, ilerna-barcelona-mostrador-escalera-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "ilerna-barcelona-mostrador-escalera-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 16026,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-mostrador-escalera-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 45124,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-mostrador-escalera-1600.webp",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 105030,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-barcelona-pasillo-acceso",
+      "original_filename": "ilerna_barcelona_06.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Pasillo de ILERNA Barcelona con pavimento gris, pared blanca señalizada y un cerramiento de lamas al fondo.",
+      "caption": "Pasillo de acceso de ILERNA Barcelona.",
+      "description": "Vista del pasillo de acceso de ILERNA Barcelona, con pavimento gris, iluminación mural, señalización en la pared y un cerramiento de lamas al fondo.",
+      "src": "ilerna-barcelona-pasillo-acceso-1600.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 94536,
+      "srcset": "ilerna-barcelona-pasillo-acceso-480.webp 480w, ilerna-barcelona-pasillo-acceso-960.webp 960w, ilerna-barcelona-pasillo-acceso-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "ilerna-barcelona-pasillo-acceso-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 13576,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-pasillo-acceso-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 41050,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-pasillo-acceso-1600.webp",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 94536,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-barcelona-escalera-frontal",
+      "original_filename": "ilerna_barcelona_04.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Escalera de ILERNA Barcelona con peldaños grises, laterales de tono madera y luz natural desde la planta superior.",
+      "caption": "Vista frontal de la escalera de ILERNA Barcelona.",
+      "description": "Vista ascendente de la escalera de ILERNA Barcelona, con peldaños grises, laterales de tono madera y luz natural que entra desde la planta superior.",
+      "src": "ilerna-barcelona-escalera-frontal-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 152296,
+      "srcset": "ilerna-barcelona-escalera-frontal-480.webp 480w, ilerna-barcelona-escalera-frontal-768.webp 768w, ilerna-barcelona-escalera-frontal-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ilerna-barcelona-escalera-frontal-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 37296,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-escalera-frontal-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 55432,
+          "quality": 70
+        },
+        {
+          "src": "ilerna-barcelona-escalera-frontal-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 152296,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "ilerna-barcelona-detalle-techo",
+      "original_filename": "ilerna_barcelona_03.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Detalle del techo de ILERNA Barcelona con vigas claras y entrada de luz desde una ventana.",
+      "caption": "Detalle del techo de ILERNA Barcelona.",
+      "description": "Vista ascendente del techo de ILERNA Barcelona, con vigas y elementos estructurales claros, paredes blancas y luz natural junto a una ventana.",
+      "src": "ilerna-barcelona-detalle-techo-900.webp",
+      "width": 900,
+      "height": 1600,
+      "bytes": 74710,
+      "srcset": "ilerna-barcelona-detalle-techo-480.webp 480w, ilerna-barcelona-detalle-techo-768.webp 768w, ilerna-barcelona-detalle-techo-900.webp 900w",
+      "variants": [
+        {
+          "src": "ilerna-barcelona-detalle-techo-480.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 26862,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-detalle-techo-768.webp",
+          "width": 768,
+          "height": 1365,
+          "bytes": 49702,
+          "quality": 79
+        },
+        {
+          "src": "ilerna-barcelona-detalle-techo-900.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 74710,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-barcelona-espacio-columnas",
+      "original_filename": "ilerna_barcelona_02.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Espacio interior de ILERNA Barcelona con columnas blancas, puertas claras y luminarias suspendidas.",
+      "caption": "Espacio de distribución de ILERNA Barcelona.",
+      "description": "Vista del espacio de distribución de ILERNA Barcelona, con columnas y paredes blancas, puertas claras, pavimento gris y luminarias suspendidas bajo el techo.",
+      "src": "ilerna-barcelona-espacio-columnas-1200.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 108552,
+      "srcset": "ilerna-barcelona-espacio-columnas-480.webp 480w, ilerna-barcelona-espacio-columnas-768.webp 768w, ilerna-barcelona-espacio-columnas-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "ilerna-barcelona-espacio-columnas-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 21378,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-espacio-columnas-768.webp",
+          "width": 768,
+          "height": 576,
+          "bytes": 48500,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-espacio-columnas-1200.webp",
+          "width": 1200,
+          "height": 900,
+          "bytes": 108552,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-barcelona-sala-sillones",
+      "original_filename": "ilerna_barcelona_00.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Sala de ILERNA Barcelona con sillones oscuros, una planta y grandes huecos acristalados.",
+      "caption": "Sala con sillones de ILERNA Barcelona.",
+      "description": "Vista de una sala de ILERNA Barcelona con sillones oscuros, una planta, una mesa en primer plano y grandes huecos acristalados que aportan luz.",
+      "src": "ilerna-barcelona-sala-sillones-1600.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 115102,
+      "srcset": "ilerna-barcelona-sala-sillones-480.webp 480w, ilerna-barcelona-sala-sillones-960.webp 960w, ilerna-barcelona-sala-sillones-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "ilerna-barcelona-sala-sillones-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 14532,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-sala-sillones-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 48026,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-sala-sillones-1600.webp",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 115102,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-barcelona-sala-espera",
+      "original_filename": "ilerna_barcelona_01.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Sala de ILERNA Barcelona con sillas oscuras, una puerta clara y una planta al fondo.",
+      "caption": "Sala de espera de ILERNA Barcelona.",
+      "description": "Vista de una sala de espera de ILERNA Barcelona, con sillas oscuras junto a la pared, una puerta clara, una planta y pavimento gris.",
+      "src": "ilerna-barcelona-sala-espera-944.webp",
+      "width": 944,
+      "height": 1259,
+      "bytes": 53312,
+      "srcset": "ilerna-barcelona-sala-espera-480.webp 480w, ilerna-barcelona-sala-espera-768.webp 768w, ilerna-barcelona-sala-espera-944.webp 944w",
+      "variants": [
+        {
+          "src": "ilerna-barcelona-sala-espera-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 17814,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-sala-espera-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 35858,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-barcelona-sala-espera-944.webp",
+          "width": 944,
+          "height": 1259,
+          "bytes": 53312,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
