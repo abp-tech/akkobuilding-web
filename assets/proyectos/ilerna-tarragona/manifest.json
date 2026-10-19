@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "ILERNA Tarragona",
+    "slug": "ilerna-tarragona",
+    "location": "Tarragona"
+  },
+  "asset_base_path": "assets/proyectos/ilerna-tarragona/",
+  "cover_id": "ilerna-tarragona-aula-ventanales",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "ilerna-tarragona-aula-ventanales",
+      "ilerna-tarragona-escalera-vista-superior",
+      "ilerna-tarragona-sala-ventanal-fregadero",
+      "ilerna-tarragona-aula-frontal",
+      "ilerna-tarragona-techo-luminarias",
+      "ilerna-tarragona-conducto-ventanales",
+      "ilerna-tarragona-detalle-luminaria"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "ilerna-tarragona-aula-ventanales",
+      "original_filename": "ilerna tarragona_03.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Aula de ILERNA Tarragona con mesas y sillas blancas, pilares claros y grandes ventanales.",
+      "caption": "Aula con ventanales de ILERNA Tarragona.",
+      "description": "Vista del aula de ILERNA Tarragona, con mesas y sillas blancas, pilares claros, pavimento gris y grandes ventanales bajo un techo visto con luminarias suspendidas.",
+      "src": "ilerna-tarragona-aula-ventanales-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 218118,
+      "srcset": "ilerna-tarragona-aula-ventanales-480.webp 480w, ilerna-tarragona-aula-ventanales-960.webp 960w, ilerna-tarragona-aula-ventanales-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ilerna-tarragona-aula-ventanales-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 18848,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-aula-ventanales-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 61142,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-aula-ventanales-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 218118,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-tarragona-escalera-vista-superior",
+      "original_filename": "ilerna tarragona_00.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Escalera de ILERNA Tarragona vista desde arriba, con peldaños grises, paredes blancas y pasamanos negros.",
+      "caption": "Vista superior de la escalera de ILERNA Tarragona.",
+      "description": "Vista desde la parte superior de la escalera de ILERNA Tarragona, con tramos de peldaños grises, paredes blancas y pasamanos negros que dibujan el recorrido.",
+      "src": "ilerna-tarragona-escalera-vista-superior-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 215032,
+      "srcset": "ilerna-tarragona-escalera-vista-superior-480.webp 480w, ilerna-tarragona-escalera-vista-superior-960.webp 960w, ilerna-tarragona-escalera-vista-superior-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ilerna-tarragona-escalera-vista-superior-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 8198,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-escalera-vista-superior-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 26524,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-escalera-vista-superior-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 215032,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-tarragona-sala-ventanal-fregadero",
+      "original_filename": "ilerna tarragona_01.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Sala de ILERNA Tarragona con un gran ventanal, techo visto y muebles blancos con un fregadero.",
+      "caption": "Sala con ventanal de ILERNA Tarragona.",
+      "description": "Vista de una sala de ILERNA Tarragona con pavimento gris, paredes blancas, un gran ventanal al fondo y muebles con fregadero junto a la pared derecha.",
+      "src": "ilerna-tarragona-sala-ventanal-fregadero-1600.webp",
+      "width": 1600,
+      "height": 1206,
+      "bytes": 301732,
+      "srcset": "ilerna-tarragona-sala-ventanal-fregadero-480.webp 480w, ilerna-tarragona-sala-ventanal-fregadero-960.webp 960w, ilerna-tarragona-sala-ventanal-fregadero-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "ilerna-tarragona-sala-ventanal-fregadero-480.webp",
+          "width": 480,
+          "height": 362,
+          "bytes": 16754,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-sala-ventanal-fregadero-960.webp",
+          "width": 960,
+          "height": 724,
+          "bytes": 109850,
+          "quality": 79
+        },
+        {
+          "src": "ilerna-tarragona-sala-ventanal-fregadero-1600.webp",
+          "width": 1600,
+          "height": 1206,
+          "bytes": 301732,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ilerna-tarragona-aula-frontal",
+      "original_filename": "ilerna tarragona_06.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Aula de ILERNA Tarragona con filas de mesas y sillas blancas bajo un techo visto con conductos y luminarias.",
+      "caption": "Vista frontal del aula de ILERNA Tarragona.",
+      "description": "Vista frontal del aula de ILERNA Tarragona, con filas de mesas y sillas blancas ante una pared clara y un techo visto con conductos y luminarias lineales.",
+      "src": "ilerna-tarragona-aula-frontal-1920.webp",
+      "width": 1920,
+      "height": 1222,
+      "bytes": 106814,
+      "srcset": "ilerna-tarragona-aula-frontal-480.webp 480w, ilerna-tarragona-aula-frontal-960.webp 960w, ilerna-tarragona-aula-frontal-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ilerna-tarragona-aula-frontal-480.webp",
+          "width": 480,
+          "height": 306,
+          "bytes": 8176,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-aula-frontal-960.webp",
+          "width": 960,
+          "height": 611,
+          "bytes": 23174,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-aula-frontal-1920.webp",
+          "width": 1920,
+          "height": 1222,
+          "bytes": 106814,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-tarragona-techo-luminarias",
+      "original_filename": "ilerna tarragona_02.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Techo visto de ILERNA Tarragona con luminarias lineales suspendidas y paredes blancas.",
+      "caption": "Techo e iluminación de ILERNA Tarragona.",
+      "description": "Detalle del techo visto de ILERNA Tarragona, con zonas de distintas texturas y luminarias lineales suspendidas sobre paredes blancas.",
+      "src": "ilerna-tarragona-techo-luminarias-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 218796,
+      "srcset": "ilerna-tarragona-techo-luminarias-480.webp 480w, ilerna-tarragona-techo-luminarias-960.webp 960w, ilerna-tarragona-techo-luminarias-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ilerna-tarragona-techo-luminarias-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 17272,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-techo-luminarias-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 65210,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-techo-luminarias-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 218796,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-tarragona-conducto-ventanales",
+      "original_filename": "ilerna tarragona_04.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Interior de ILERNA Tarragona con un conducto circular bajo el techo visto y ventanales al fondo.",
+      "caption": "Conducto y ventanales de ILERNA Tarragona.",
+      "description": "Vista interior de ILERNA Tarragona centrada en un conducto circular que recorre el techo visto, con luminarias suspendidas y ventanales al fondo.",
+      "src": "ilerna-tarragona-conducto-ventanales-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 100228,
+      "srcset": "ilerna-tarragona-conducto-ventanales-480.webp 480w, ilerna-tarragona-conducto-ventanales-960.webp 960w, ilerna-tarragona-conducto-ventanales-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ilerna-tarragona-conducto-ventanales-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 18024,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-conducto-ventanales-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 38972,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-conducto-ventanales-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 100228,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ilerna-tarragona-detalle-luminaria",
+      "original_filename": "ilerna tarragona_05.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Luminaria lineal suspendida bajo el techo visto de ILERNA Tarragona.",
+      "caption": "Detalle de una luminaria de ILERNA Tarragona.",
+      "description": "Detalle de una luminaria lineal de ILERNA Tarragona suspendida por un cable bajo el techo visto, con una pared blanca desenfocada al fondo.",
+      "src": "ilerna-tarragona-detalle-luminaria-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 123874,
+      "srcset": "ilerna-tarragona-detalle-luminaria-480.webp 480w, ilerna-tarragona-detalle-luminaria-960.webp 960w, ilerna-tarragona-detalle-luminaria-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ilerna-tarragona-detalle-luminaria-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 7546,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-detalle-luminaria-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 23446,
+          "quality": 82
+        },
+        {
+          "src": "ilerna-tarragona-detalle-luminaria-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 123874,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
