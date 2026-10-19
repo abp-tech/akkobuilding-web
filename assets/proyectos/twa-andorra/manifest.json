@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "TWA Andorra",
+    "slug": "twa-andorra",
+    "location": "Andorra"
+  },
+  "asset_base_path": "assets/proyectos/twa-andorra/",
+  "cover_id": "twa-andorra-fachada-jardin",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "twa-andorra-fachada-jardin",
+      "twa-andorra-jardin-montanas",
+      "twa-andorra-jardin-vista-elevada",
+      "twa-andorra-fachada-calle",
+      "twa-andorra-detalle-balcones",
+      "twa-andorra-salon-comedor",
+      "twa-andorra-salon-cocina",
+      "twa-andorra-escalera-vista-superior",
+      "twa-andorra-escalera-vista-ascendente",
+      "twa-andorra-detalle-escalera"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "twa-andorra-fachada-jardin",
+      "original_filename": "twa_andorra_09.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Fachada de TWA Andorra con balcones, paneles de tono madera y jardín con césped y árboles.",
+      "caption": "Fachada y jardín de TWA Andorra.",
+      "description": "Vista de la fachada de TWA Andorra desde el jardín, con balcones, paneles de tono madera, césped, árboles y zonas de plantación curvas junto a un recorrido pavimentado.",
+      "src": "twa-andorra-fachada-jardin-1920.webp",
+      "width": 1920,
+      "height": 864,
+      "bytes": 319112,
+      "srcset": "twa-andorra-fachada-jardin-480.webp 480w, twa-andorra-fachada-jardin-960.webp 960w, twa-andorra-fachada-jardin-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "twa-andorra-fachada-jardin-480.webp",
+          "width": 480,
+          "height": 216,
+          "bytes": 32034,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-fachada-jardin-960.webp",
+          "width": 960,
+          "height": 432,
+          "bytes": 111336,
+          "quality": 79
+        },
+        {
+          "src": "twa-andorra-fachada-jardin-1920.webp",
+          "width": 1920,
+          "height": 864,
+          "bytes": 319112,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "twa-andorra-jardin-montanas",
+      "original_filename": "twa_andorra_06.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Jardín de TWA Andorra entre un edificio con balcones y un volumen bajo, con montañas al fondo.",
+      "caption": "Jardín y entorno de TWA Andorra.",
+      "description": "Vista general del jardín de TWA Andorra, con césped, árboles y zonas de plantación entre un edificio con balcones y un volumen bajo acristalado, con montañas al fondo.",
+      "src": "twa-andorra-jardin-montanas-1600.webp",
+      "width": 1600,
+      "height": 720,
+      "bytes": 211390,
+      "srcset": "twa-andorra-jardin-montanas-480.webp 480w, twa-andorra-jardin-montanas-960.webp 960w, twa-andorra-jardin-montanas-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "twa-andorra-jardin-montanas-480.webp",
+          "width": 480,
+          "height": 216,
+          "bytes": 32972,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-jardin-montanas-960.webp",
+          "width": 960,
+          "height": 432,
+          "bytes": 103960,
+          "quality": 79
+        },
+        {
+          "src": "twa-andorra-jardin-montanas-1600.webp",
+          "width": 1600,
+          "height": 720,
+          "bytes": 211390,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "twa-andorra-jardin-vista-elevada",
+      "original_filename": "twa_andorra_08.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Vista elevada del jardín de TWA Andorra con zonas de plantación ovaladas, árboles y un edificio de cubierta inclinada.",
+      "caption": "Vista elevada del jardín de TWA Andorra.",
+      "description": "Vista elevada del jardín de TWA Andorra, con césped, zonas de plantación ovaladas, árboles y un volumen bajo de cubierta inclinada junto a la calle.",
+      "src": "twa-andorra-jardin-vista-elevada-1600.webp",
+      "width": 1600,
+      "height": 720,
+      "bytes": 234380,
+      "srcset": "twa-andorra-jardin-vista-elevada-480.webp 480w, twa-andorra-jardin-vista-elevada-960.webp 960w, twa-andorra-jardin-vista-elevada-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "twa-andorra-jardin-vista-elevada-480.webp",
+          "width": 480,
+          "height": 216,
+          "bytes": 39778,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-jardin-vista-elevada-960.webp",
+          "width": 960,
+          "height": 432,
+          "bytes": 109188,
+          "quality": 73
+        },
+        {
+          "src": "twa-andorra-jardin-vista-elevada-1600.webp",
+          "width": 1600,
+          "height": 720,
+          "bytes": 234380,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "twa-andorra-fachada-calle",
+      "original_filename": "twa_andorra_10.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Vista de TWA Andorra desde la calle, con una fachada clara de esquina curva y montañas al fondo.",
+      "caption": "Fachada desde la calle de TWA Andorra.",
+      "description": "Vista desde la calle del edificio de TWA Andorra, con una fachada clara de esquina curva, ventanas verticales, tráfico en primer plano y montañas al fondo.",
+      "src": "twa-andorra-fachada-calle-1600.webp",
+      "width": 1600,
+      "height": 720,
+      "bytes": 201446,
+      "srcset": "twa-andorra-fachada-calle-480.webp 480w, twa-andorra-fachada-calle-960.webp 960w, twa-andorra-fachada-calle-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "twa-andorra-fachada-calle-480.webp",
+          "width": 480,
+          "height": 216,
+          "bytes": 28432,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-fachada-calle-960.webp",
+          "width": 960,
+          "height": 432,
+          "bytes": 92342,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-fachada-calle-1600.webp",
+          "width": 1600,
+          "height": 720,
+          "bytes": 201446,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-andorra-detalle-balcones",
+      "original_filename": "twa_andorra_03.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Balcones de TWA Andorra con barandillas de vidrio, paneles de tono madera y ventanas bajo la cubierta.",
+      "caption": "Detalle de los balcones de TWA Andorra.",
+      "description": "Vista ascendente de la fachada de TWA Andorra, con balcones de barandillas de vidrio, paneles de tono madera y ventanas en la planta superior bajo el cielo azul.",
+      "src": "twa-andorra-detalle-balcones-1600.webp",
+      "width": 1600,
+      "height": 720,
+      "bytes": 89070,
+      "srcset": "twa-andorra-detalle-balcones-480.webp 480w, twa-andorra-detalle-balcones-960.webp 960w, twa-andorra-detalle-balcones-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "twa-andorra-detalle-balcones-480.webp",
+          "width": 480,
+          "height": 216,
+          "bytes": 16180,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-detalle-balcones-960.webp",
+          "width": 960,
+          "height": 432,
+          "bytes": 43600,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-detalle-balcones-1600.webp",
+          "width": 1600,
+          "height": 720,
+          "bytes": 89070,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-andorra-salon-comedor",
+      "original_filename": "twa_andorra_00.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Salón de TWA Andorra con sofás claros, mesa baja, alfombra oscura y mesa de comedor al fondo.",
+      "caption": "Salón y comedor de TWA Andorra.",
+      "description": "Vista del salón y comedor de TWA Andorra, con sofás claros, mesa baja, alfombra oscura, una lámpara de pie y una mesa redonda al fondo junto a una pared blanca.",
+      "src": "twa-andorra-salon-comedor-1920.webp",
+      "width": 1920,
+      "height": 864,
+      "bytes": 181516,
+      "srcset": "twa-andorra-salon-comedor-480.webp 480w, twa-andorra-salon-comedor-960.webp 960w, twa-andorra-salon-comedor-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "twa-andorra-salon-comedor-480.webp",
+          "width": 480,
+          "height": 216,
+          "bytes": 12990,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-salon-comedor-960.webp",
+          "width": 960,
+          "height": 432,
+          "bytes": 43368,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-salon-comedor-1920.webp",
+          "width": 1920,
+          "height": 864,
+          "bytes": 181516,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-andorra-salon-cocina",
+      "original_filename": "twa_andorra_01.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Interior de TWA Andorra con sofás claros, alfombra oscura y una cocina integrada con muebles de tonos oscuros.",
+      "caption": "Salón y cocina de TWA Andorra.",
+      "description": "Vista del salón de TWA Andorra hacia la cocina integrada, con sofás claros sobre una alfombra oscura, muebles de cocina de tonos oscuros y hornos integrados en una columna.",
+      "src": "twa-andorra-salon-cocina-1920.webp",
+      "width": 1920,
+      "height": 1001,
+      "bytes": 207824,
+      "srcset": "twa-andorra-salon-cocina-480.webp 480w, twa-andorra-salon-cocina-960.webp 960w, twa-andorra-salon-cocina-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "twa-andorra-salon-cocina-480.webp",
+          "width": 480,
+          "height": 250,
+          "bytes": 20228,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-salon-cocina-960.webp",
+          "width": 960,
+          "height": 500,
+          "bytes": 75952,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-salon-cocina-1920.webp",
+          "width": 1920,
+          "height": 1001,
+          "bytes": 207824,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "twa-andorra-escalera-vista-superior",
+      "original_filename": "twa_andorra_05.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Escalera de TWA Andorra vista desde arriba, con peldaños grises, barandillas oscuras y pasamanos claros.",
+      "caption": "Vista superior de la escalera de TWA Andorra.",
+      "description": "Vista descendente del hueco de escalera de TWA Andorra, con peldaños grises, barandillas de superficies oscuras y pasamanos claros que enmarcan los tramos sucesivos.",
+      "src": "twa-andorra-escalera-vista-superior-1600.webp",
+      "width": 1600,
+      "height": 720,
+      "bytes": 83718,
+      "srcset": "twa-andorra-escalera-vista-superior-480.webp 480w, twa-andorra-escalera-vista-superior-960.webp 960w, twa-andorra-escalera-vista-superior-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "twa-andorra-escalera-vista-superior-480.webp",
+          "width": 480,
+          "height": 216,
+          "bytes": 13934,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-escalera-vista-superior-960.webp",
+          "width": 960,
+          "height": 432,
+          "bytes": 41148,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-escalera-vista-superior-1600.webp",
+          "width": 1600,
+          "height": 720,
+          "bytes": 83718,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-andorra-escalera-vista-ascendente",
+      "original_filename": "twa_andorra_04.webp",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Vista ascendente del hueco de escalera de TWA Andorra con superficies oscuras y un hueco iluminado al fondo.",
+      "caption": "Vista ascendente de la escalera de TWA Andorra.",
+      "description": "Vista ascendente del hueco de escalera de TWA Andorra, con superficies oscuras y pasamanos claros que forman marcos sucesivos alrededor de un hueco iluminado.",
+      "src": "twa-andorra-escalera-vista-ascendente-1600.webp",
+      "width": 1600,
+      "height": 720,
+      "bytes": 60546,
+      "srcset": "twa-andorra-escalera-vista-ascendente-480.webp 480w, twa-andorra-escalera-vista-ascendente-960.webp 960w, twa-andorra-escalera-vista-ascendente-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "twa-andorra-escalera-vista-ascendente-480.webp",
+          "width": 480,
+          "height": 216,
+          "bytes": 11806,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-escalera-vista-ascendente-960.webp",
+          "width": 960,
+          "height": 432,
+          "bytes": 30950,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-escalera-vista-ascendente-1600.webp",
+          "width": 1600,
+          "height": 720,
+          "bytes": 60546,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-andorra-detalle-escalera",
+      "original_filename": "twa_andorra_07.webp",
+      "order": 10,
+      "is_cover": false,
+      "alt": "Tramo de escalera de TWA Andorra con peldaños grises, barandilla oscura y pasamanos claro.",
+      "caption": "Detalle de la escalera de TWA Andorra.",
+      "description": "Detalle vertical de un tramo de escalera de TWA Andorra, con peldaños grises, una barandilla de superficie oscura y un pasamanos claro junto a la pared.",
+      "src": "twa-andorra-detalle-escalera-720.webp",
+      "width": 720,
+      "height": 1600,
+      "bytes": 44696,
+      "srcset": "twa-andorra-detalle-escalera-320.webp 320w, twa-andorra-detalle-escalera-480.webp 480w, twa-andorra-detalle-escalera-720.webp 720w",
+      "variants": [
+        {
+          "src": "twa-andorra-detalle-escalera-320.webp",
+          "width": 320,
+          "height": 711,
+          "bytes": 17694,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-detalle-escalera-480.webp",
+          "width": 480,
+          "height": 1067,
+          "bytes": 30504,
+          "quality": 82
+        },
+        {
+          "src": "twa-andorra-detalle-escalera-720.webp",
+          "width": 720,
+          "height": 1600,
+          "bytes": 44696,
+          "quality": 79
+        }
+      ]
+    }
+  ]
+}
