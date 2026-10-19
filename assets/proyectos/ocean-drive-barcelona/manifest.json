@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Ocean Drive Barcelona",
+    "slug": "ocean-drive-barcelona",
+    "location": "Barcelona"
+  },
+  "asset_base_path": "assets/proyectos/ocean-drive-barcelona/",
+  "cover_id": "ocean-drive-barcelona-edificio-terraza",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "ocean-drive-barcelona-edificio-terraza",
+      "ocean-drive-barcelona-piscina-tumbonas",
+      "ocean-drive-barcelona-piscina-vistas",
+      "ocean-drive-barcelona-terraza-sofas",
+      "ocean-drive-barcelona-barra-restaurante",
+      "ocean-drive-barcelona-habitacion-ventanales",
+      "ocean-drive-barcelona-bano-lavabo-ducha",
+      "ocean-drive-barcelona-bano-espejo-ventana"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "ocean-drive-barcelona-edificio-terraza",
+      "original_filename": "od barcelona_02.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Vista elevada de Ocean Drive Barcelona con fachada clara, un volumen acristalado y una terraza con vegetación y piscina.",
+      "caption": "Edificio y terraza de Ocean Drive Barcelona.",
+      "description": "Vista elevada del edificio de Ocean Drive Barcelona, con una fachada clara, un volumen superior acristalado y una terraza con vegetación y piscina entre los edificios de la ciudad.",
+      "src": "ocean-drive-barcelona-edificio-terraza-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 215282,
+      "srcset": "ocean-drive-barcelona-edificio-terraza-480.webp 480w, ocean-drive-barcelona-edificio-terraza-960.webp 960w, ocean-drive-barcelona-edificio-terraza-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ocean-drive-barcelona-edificio-terraza-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 28258,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-edificio-terraza-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 90072,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-edificio-terraza-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 215282,
+          "quality": 73
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-barcelona-piscina-tumbonas",
+      "original_filename": "od barcelona_03.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Piscina de Ocean Drive Barcelona junto a tumbonas, sombrillas y vegetación, con vistas a los edificios de la ciudad.",
+      "caption": "Piscina y tumbonas de Ocean Drive Barcelona.",
+      "description": "Vista de la piscina de Ocean Drive Barcelona, con tumbonas, sombrillas y vegetación sobre una terraza de tono madera, junto a una fachada acristalada y con la ciudad al fondo.",
+      "src": "ocean-drive-barcelona-piscina-tumbonas-1070.webp",
+      "width": 1070,
+      "height": 713,
+      "bytes": 157048,
+      "srcset": "ocean-drive-barcelona-piscina-tumbonas-480.webp 480w, ocean-drive-barcelona-piscina-tumbonas-768.webp 768w, ocean-drive-barcelona-piscina-tumbonas-1070.webp 1070w",
+      "variants": [
+        {
+          "src": "ocean-drive-barcelona-piscina-tumbonas-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 37714,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-piscina-tumbonas-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 66970,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-barcelona-piscina-tumbonas-1070.webp",
+          "width": 1070,
+          "height": 713,
+          "bytes": 157048,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-barcelona-piscina-vistas",
+      "original_filename": "od barcelona_00.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Piscina de Ocean Drive Barcelona con tumbonas en primer plano y edificios de la ciudad al fondo.",
+      "caption": "Piscina con vistas de Ocean Drive Barcelona.",
+      "description": "Vista desde la terraza de Ocean Drive Barcelona hacia la piscina, con tumbonas y mesas auxiliares en primer plano y fachadas urbanas al fondo.",
+      "src": "ocean-drive-barcelona-piscina-vistas-1440.webp",
+      "width": 1440,
+      "height": 1080,
+      "bytes": 331302,
+      "srcset": "ocean-drive-barcelona-piscina-vistas-480.webp 480w, ocean-drive-barcelona-piscina-vistas-960.webp 960w, ocean-drive-barcelona-piscina-vistas-1440.webp 1440w",
+      "variants": [
+        {
+          "src": "ocean-drive-barcelona-piscina-vistas-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 47154,
+          "quality": 79
+        },
+        {
+          "src": "ocean-drive-barcelona-piscina-vistas-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 153682,
+          "quality": 70
+        },
+        {
+          "src": "ocean-drive-barcelona-piscina-vistas-1440.webp",
+          "width": 1440,
+          "height": 1080,
+          "bytes": 331302,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-barcelona-terraza-sofas",
+      "original_filename": "od barcelona_01.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Terraza de Ocean Drive Barcelona con sofá, sillón, sombrilla y vegetación junto a la piscina.",
+      "caption": "Terraza amueblada de Ocean Drive Barcelona.",
+      "description": "Vista de la terraza de Ocean Drive Barcelona, con sofá, sillón, mesa baja y sombrilla junto a la piscina, rodeada de vegetación y con edificios al fondo.",
+      "src": "ocean-drive-barcelona-terraza-sofas-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 303416,
+      "srcset": "ocean-drive-barcelona-terraza-sofas-480.webp 480w, ocean-drive-barcelona-terraza-sofas-960.webp 960w, ocean-drive-barcelona-terraza-sofas-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ocean-drive-barcelona-terraza-sofas-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 34210,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-terraza-sofas-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 110370,
+          "quality": 79
+        },
+        {
+          "src": "ocean-drive-barcelona-terraza-sofas-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 303416,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-barcelona-barra-restaurante",
+      "original_filename": "od barcelona_04.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Barra de Ocean Drive Barcelona con sillas, iluminación cálida y un techo de lamas de tono madera.",
+      "caption": "Barra del restaurante de Ocean Drive Barcelona.",
+      "description": "Vista longitudinal de una barra de Ocean Drive Barcelona, con sillas, puestos preparados, un frente oscuro, iluminación cálida y un techo de lamas de tono madera.",
+      "src": "ocean-drive-barcelona-barra-restaurante-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 205118,
+      "srcset": "ocean-drive-barcelona-barra-restaurante-480.webp 480w, ocean-drive-barcelona-barra-restaurante-960.webp 960w, ocean-drive-barcelona-barra-restaurante-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ocean-drive-barcelona-barra-restaurante-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 28056,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-barra-restaurante-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 87650,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-barra-restaurante-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 205118,
+          "quality": 73
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-barcelona-habitacion-ventanales",
+      "original_filename": "od barcelona_06.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Habitación de Ocean Drive Barcelona con cama, televisión sobre un separador azul y sillón junto a grandes ventanales.",
+      "caption": "Habitación con ventanales de Ocean Drive Barcelona.",
+      "description": "Vista de una habitación de Ocean Drive Barcelona, con cama a un lado, televisión sobre un separador azul, un pilar circular y un sillón junto a grandes ventanales.",
+      "src": "ocean-drive-barcelona-habitacion-ventanales-1920.webp",
+      "width": 1920,
+      "height": 1013,
+      "bytes": 132666,
+      "srcset": "ocean-drive-barcelona-habitacion-ventanales-480.webp 480w, ocean-drive-barcelona-habitacion-ventanales-960.webp 960w, ocean-drive-barcelona-habitacion-ventanales-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ocean-drive-barcelona-habitacion-ventanales-480.webp",
+          "width": 480,
+          "height": 253,
+          "bytes": 13052,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-habitacion-ventanales-960.webp",
+          "width": 960,
+          "height": 506,
+          "bytes": 41710,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-habitacion-ventanales-1920.webp",
+          "width": 1920,
+          "height": 1013,
+          "bytes": 132666,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-barcelona-bano-lavabo-ducha",
+      "original_filename": "od barcelona_05.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Baño de Ocean Drive Barcelona con lavabo sobre encimera clara, espejo y ducha tras una mampara de vidrio.",
+      "caption": "Baño con lavabo y ducha de Ocean Drive Barcelona.",
+      "description": "Vista del baño de Ocean Drive Barcelona, con lavabo sobre una encimera clara, espejo, toallas y una planta con flores junto a una ducha con mampara de vidrio.",
+      "src": "ocean-drive-barcelona-bano-lavabo-ducha-1920.webp",
+      "width": 1920,
+      "height": 1291,
+      "bytes": 91160,
+      "srcset": "ocean-drive-barcelona-bano-lavabo-ducha-480.webp 480w, ocean-drive-barcelona-bano-lavabo-ducha-960.webp 960w, ocean-drive-barcelona-bano-lavabo-ducha-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ocean-drive-barcelona-bano-lavabo-ducha-480.webp",
+          "width": 480,
+          "height": 323,
+          "bytes": 13358,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-bano-lavabo-ducha-960.webp",
+          "width": 960,
+          "height": 646,
+          "bytes": 35138,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-bano-lavabo-ducha-1920.webp",
+          "width": 1920,
+          "height": 1291,
+          "bytes": 91160,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "ocean-drive-barcelona-bano-espejo-ventana",
+      "original_filename": "od barcelona_07.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Baño de Ocean Drive Barcelona con lavabo, espejo de marco dorado, ventana y ducha con mampara de vidrio.",
+      "caption": "Baño con espejo y ventana de Ocean Drive Barcelona.",
+      "description": "Vista del baño de Ocean Drive Barcelona, con lavabo sobre mueble oscuro, espejo de marco dorado, una ventana lateral y una ducha con mampara de vidrio en primer plano.",
+      "src": "ocean-drive-barcelona-bano-espejo-ventana-1920.webp",
+      "width": 1920,
+      "height": 1279,
+      "bytes": 71510,
+      "srcset": "ocean-drive-barcelona-bano-espejo-ventana-480.webp 480w, ocean-drive-barcelona-bano-espejo-ventana-960.webp 960w, ocean-drive-barcelona-bano-espejo-ventana-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "ocean-drive-barcelona-bano-espejo-ventana-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 9478,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-bano-espejo-ventana-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 25008,
+          "quality": 82
+        },
+        {
+          "src": "ocean-drive-barcelona-bano-espejo-ventana-1920.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 71510,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
