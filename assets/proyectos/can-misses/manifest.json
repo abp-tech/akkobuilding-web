@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Can Misses",
+    "slug": "can-misses",
+    "location": "Ibiza"
+  },
+  "asset_base_path": "assets/proyectos/can-misses/",
+  "cover_id": "can-misses-fachada",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "can-misses-fachada",
+      "can-misses-jardin",
+      "can-misses-patio-interior",
+      "can-misses-escalera",
+      "can-misses-patio-vista-superior",
+      "can-misses-acceso-13"
+    ]
+  },
+  "images": [
+    {
+      "id": "can-misses-fachada",
+      "original_filename": "can_misses_00.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Fachada de Can Misses con balcones, celosías y contraventanas oscuras.",
+      "caption": "Fachada de Can Misses.",
+      "description": "Vista exterior de Can Misses, en Ibiza, con fachada clara, balcones y celosías oscuras frente a un cielo despejado.",
+      "src": "can-misses-fachada-1920.webp",
+      "width": 1920,
+      "height": 1344,
+      "bytes": 293534,
+      "srcset": "can-misses-fachada-480.webp 480w, can-misses-fachada-960.webp 960w, can-misses-fachada-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "can-misses-fachada-480.webp",
+          "width": 480,
+          "height": 336,
+          "bytes": 35284,
+          "quality": 82
+        },
+        {
+          "src": "can-misses-fachada-960.webp",
+          "width": 960,
+          "height": 672,
+          "bytes": 110524,
+          "quality": 79
+        },
+        {
+          "src": "can-misses-fachada-1920.webp",
+          "width": 1920,
+          "height": 1344,
+          "bytes": 293534,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "can-misses-jardin",
+      "original_filename": "can_misses_01.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Jardín de Can Misses frente a la fachada del edificio y sus celosías.",
+      "caption": "Jardín y fachada de Can Misses.",
+      "description": "Vista de Can Misses desde el jardín, con una zona de césped, un árbol central y recorridos pavimentados junto al edificio.",
+      "src": "can-misses-jardin-1296.webp",
+      "width": 1296,
+      "height": 1600,
+      "bytes": 212256,
+      "srcset": "can-misses-jardin-480.webp 480w, can-misses-jardin-960.webp 960w, can-misses-jardin-1296.webp 1296w",
+      "variants": [
+        {
+          "src": "can-misses-jardin-480.webp",
+          "width": 480,
+          "height": 593,
+          "bytes": 50862,
+          "quality": 82
+        },
+        {
+          "src": "can-misses-jardin-960.webp",
+          "width": 960,
+          "height": 1185,
+          "bytes": 130048,
+          "quality": 70
+        },
+        {
+          "src": "can-misses-jardin-1296.webp",
+          "width": 1296,
+          "height": 1600,
+          "bytes": 212256,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "can-misses-patio-interior",
+      "original_filename": "can_misses_02.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Patio interior de Can Misses con jardinera central y pasarelas en las plantas superiores.",
+      "caption": "Patio interior de Can Misses.",
+      "description": "El patio interior de Can Misses reúne una jardinera central, puertas de acceso y pasarelas con barandillas oscuras e iluminación perimetral.",
+      "src": "can-misses-patio-interior-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 89798,
+      "srcset": "can-misses-patio-interior-480.webp 480w, can-misses-patio-interior-960.webp 960w, can-misses-patio-interior-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "can-misses-patio-interior-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 22650,
+          "quality": 82
+        },
+        {
+          "src": "can-misses-patio-interior-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 65686,
+          "quality": 82
+        },
+        {
+          "src": "can-misses-patio-interior-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 89798,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "can-misses-escalera",
+      "original_filename": "can_misses_04.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Escalera de Can Misses detrás de una jardinera, con pasarelas e iluminación perimetral.",
+      "caption": "Escalera y vegetación en Can Misses.",
+      "description": "Vista desde la planta inferior de Can Misses hacia la escalera y las pasarelas superiores, con vegetación en primer plano y luz cálida en los bordes del techo.",
+      "src": "can-misses-escalera-1140.webp",
+      "width": 1140,
+      "height": 1600,
+      "bytes": 153534,
+      "srcset": "can-misses-escalera-480.webp 480w, can-misses-escalera-960.webp 960w, can-misses-escalera-1140.webp 1140w",
+      "variants": [
+        {
+          "src": "can-misses-escalera-480.webp",
+          "width": 480,
+          "height": 674,
+          "bytes": 37342,
+          "quality": 82
+        },
+        {
+          "src": "can-misses-escalera-960.webp",
+          "width": 960,
+          "height": 1347,
+          "bytes": 105100,
+          "quality": 79
+        },
+        {
+          "src": "can-misses-escalera-1140.webp",
+          "width": 1140,
+          "height": 1600,
+          "bytes": 153534,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "can-misses-patio-vista-superior",
+      "original_filename": "can_misses_03.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Vista superior del patio de Can Misses con jardinera y elementos de colores.",
+      "caption": "El patio de Can Misses visto desde arriba.",
+      "description": "Vista cenital del patio de Can Misses, con una jardinera, vegetación y pequeños elementos rojos, azules y amarillos sobre el pavimento claro.",
+      "src": "can-misses-patio-vista-superior-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 64810,
+      "srcset": "can-misses-patio-vista-superior-480.webp 480w, can-misses-patio-vista-superior-960.webp 960w, can-misses-patio-vista-superior-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "can-misses-patio-vista-superior-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 15250,
+          "quality": 82
+        },
+        {
+          "src": "can-misses-patio-vista-superior-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 46712,
+          "quality": 82
+        },
+        {
+          "src": "can-misses-patio-vista-superior-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 64810,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "can-misses-acceso-13",
+      "original_filename": "can_misses_05.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Detalle del número 13 en el acceso de Can Misses, con la fachada al fondo.",
+      "caption": "Detalle del acceso a Can Misses.",
+      "description": "Primer plano del número 13 en el muro de acceso de Can Misses, con parte de la fachada y sus celosías visibles al fondo.",
+      "src": "can-misses-acceso-13-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 160556,
+      "srcset": "can-misses-acceso-13-480.webp 480w, can-misses-acceso-13-960.webp 960w, can-misses-acceso-13-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "can-misses-acceso-13-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 49050,
+          "quality": 82
+        },
+        {
+          "src": "can-misses-acceso-13-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 109122,
+          "quality": 70
+        },
+        {
+          "src": "can-misses-acceso-13-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 160556,
+          "quality": 73
+        }
+      ]
+    }
+  ],
+  "cover_object_position": "60% 55%"
+}
