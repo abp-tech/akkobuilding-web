@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "TWA Cala Comte",
+    "slug": "twa-cala-comte",
+    "location": "Ibiza"
+  },
+  "asset_base_path": "assets/proyectos/twa-cala-comte/",
+  "cover_id": "twa-cala-comte-fachada-piscina",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "twa-cala-comte-fachada-piscina",
+      "twa-cala-comte-piscina-jardin",
+      "twa-cala-comte-terraza-sofa",
+      "twa-cala-comte-terraza-atardecer",
+      "twa-cala-comte-cocina-isla",
+      "twa-cala-comte-habitacion-espejo",
+      "twa-cala-comte-habitacion-bano"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "twa-cala-comte-fachada-piscina",
+      "original_filename": "Cala_Compte_00.jpg.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Exterior de TWA Cala Comte en Ibiza con fachada blanca, grandes ventanales, terraza y piscina.",
+      "caption": "Fachada y piscina de TWA Cala Comte.",
+      "description": "Vista general del exterior de TWA Cala Comte, en Ibiza, con volúmenes blancos, grandes ventanales, escaleras, terraza amueblada y piscina junto al jardín.",
+      "src": "twa-cala-comte-fachada-piscina-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 209742,
+      "srcset": "twa-cala-comte-fachada-piscina-480.webp 480w, twa-cala-comte-fachada-piscina-960.webp 960w, twa-cala-comte-fachada-piscina-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "twa-cala-comte-fachada-piscina-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 20950,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-fachada-piscina-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 74000,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-fachada-piscina-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 209742,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-cala-comte-piscina-jardin",
+      "original_filename": "Cala_Comte_04.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Piscina de TWA Cala Comte con tumbonas, sombrilla blanca y vegetación junto a un muro de textura irregular.",
+      "caption": "Piscina y jardín de TWA Cala Comte.",
+      "description": "Vista de la piscina de TWA Cala Comte, con tumbonas y una sombrilla blanca al fondo, césped, vegetación y un muro de textura irregular junto al edificio.",
+      "src": "twa-cala-comte-piscina-jardin-1097.webp",
+      "width": 1097,
+      "height": 692,
+      "bytes": 74646,
+      "srcset": "twa-cala-comte-piscina-jardin-480.webp 480w, twa-cala-comte-piscina-jardin-768.webp 768w, twa-cala-comte-piscina-jardin-1097.webp 1097w",
+      "variants": [
+        {
+          "src": "twa-cala-comte-piscina-jardin-480.webp",
+          "width": 480,
+          "height": 303,
+          "bytes": 17346,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-piscina-jardin-768.webp",
+          "width": 768,
+          "height": 484,
+          "bytes": 38724,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-piscina-jardin-1097.webp",
+          "width": 1097,
+          "height": 692,
+          "bytes": 74646,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-cala-comte-terraza-sofa",
+      "original_filename": "Cala_Comte_02.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Terraza de TWA Cala Comte con sofá esquinero, mesas bajas y un muro de textura irregular junto al comedor interior.",
+      "caption": "Terraza con sofá de TWA Cala Comte.",
+      "description": "Vista de la terraza de TWA Cala Comte, con un sofá esquinero claro, mesas bajas y asientos auxiliares junto a un muro de textura irregular y grandes puertas acristaladas hacia el comedor.",
+      "src": "twa-cala-comte-terraza-sofa-1920.webp",
+      "width": 1920,
+      "height": 1263,
+      "bytes": 290368,
+      "srcset": "twa-cala-comte-terraza-sofa-480.webp 480w, twa-cala-comte-terraza-sofa-960.webp 960w, twa-cala-comte-terraza-sofa-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "twa-cala-comte-terraza-sofa-480.webp",
+          "width": 480,
+          "height": 316,
+          "bytes": 34680,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-terraza-sofa-960.webp",
+          "width": 960,
+          "height": 632,
+          "bytes": 107112,
+          "quality": 76
+        },
+        {
+          "src": "twa-cala-comte-terraza-sofa-1920.webp",
+          "width": 1920,
+          "height": 1263,
+          "bytes": 290368,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "twa-cala-comte-terraza-atardecer",
+      "original_filename": "Cala_Comte_03.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Terraza de TWA Cala Comte con sofá, tumbonas y plantas frente a una puesta de sol sobre el mar.",
+      "caption": "Terraza al atardecer de TWA Cala Comte.",
+      "description": "Vista desde la terraza de TWA Cala Comte al atardecer, con sofá, tumbonas y plantas en macetas tras una barandilla de vidrio, frente al mar y al sol junto al horizonte.",
+      "src": "twa-cala-comte-terraza-atardecer-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 152346,
+      "srcset": "twa-cala-comte-terraza-atardecer-480.webp 480w, twa-cala-comte-terraza-atardecer-960.webp 960w, twa-cala-comte-terraza-atardecer-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "twa-cala-comte-terraza-atardecer-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16086,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-terraza-atardecer-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 55382,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-terraza-atardecer-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 152346,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-cala-comte-cocina-isla",
+      "original_filename": "Cala_Comte_01.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Cocina de TWA Cala Comte con isla, muebles claros, fregadero y hornos integrados en una columna.",
+      "caption": "Cocina con isla de TWA Cala Comte.",
+      "description": "Vista de la cocina de TWA Cala Comte, con una isla en primer plano, muebles claros, encimera de tono cálido, fregadero con grifo oscuro y hornos integrados en una columna.",
+      "src": "twa-cala-comte-cocina-isla-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 52146,
+      "srcset": "twa-cala-comte-cocina-isla-480.webp 480w, twa-cala-comte-cocina-isla-960.webp 960w, twa-cala-comte-cocina-isla-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "twa-cala-comte-cocina-isla-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 7880,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-cocina-isla-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 21340,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-cocina-isla-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 52146,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-cala-comte-habitacion-espejo",
+      "original_filename": "Cala_Comte_09.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Reflejo de una habitación de TWA Cala Comte con cama, libro abierto, cortinas y una lámpara suspendida.",
+      "caption": "Habitación reflejada en un espejo de TWA Cala Comte.",
+      "description": "Vista de una habitación de TWA Cala Comte reflejada en un espejo, con cama clara, un libro abierto, mesita auxiliar, una lámpara suspendida y cortinas de tono neutro.",
+      "src": "twa-cala-comte-habitacion-espejo-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 61084,
+      "srcset": "twa-cala-comte-habitacion-espejo-480.webp 480w, twa-cala-comte-habitacion-espejo-768.webp 768w, twa-cala-comte-habitacion-espejo-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "twa-cala-comte-habitacion-espejo-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 13294,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-habitacion-espejo-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 28998,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-habitacion-espejo-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 61084,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "twa-cala-comte-habitacion-bano",
+      "original_filename": "Cala_Comte_10.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Interior de TWA Cala Comte con parte de una cama, paredes claras y una planta junto al acceso al baño.",
+      "caption": "Habitación y baño de TWA Cala Comte.",
+      "description": "Vista interior de TWA Cala Comte, con parte de una cama en primer plano, paredes claras, una planta y elementos del baño visibles a través de un hueco lateral.",
+      "src": "twa-cala-comte-habitacion-bano-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 55568,
+      "srcset": "twa-cala-comte-habitacion-bano-480.webp 480w, twa-cala-comte-habitacion-bano-768.webp 768w, twa-cala-comte-habitacion-bano-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "twa-cala-comte-habitacion-bano-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 12272,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-habitacion-bano-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 27420,
+          "quality": 82
+        },
+        {
+          "src": "twa-cala-comte-habitacion-bano-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 55568,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
