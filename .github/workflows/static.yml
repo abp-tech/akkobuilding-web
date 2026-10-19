@@ -27,6 +27,10 @@ jobs:
         run: |
           mkdir -p _site
           unzip -q akko-site.zip -d _site
+          if [ -d assets ]; then
+            mkdir -p _site/assets
+            rsync -a --exclude='.gitkeep' --exclude='README.md' --exclude='.DS_Store' assets/ _site/assets/
+          fi
           test -s _site/index.html
           test -f _site/.nojekyll
       - name: Configure Pages
