@@ -1,0 +1,378 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Colonia Sant Jordi",
+    "slug": "colonia-sant-jordi",
+    "location": "Mallorca"
+  },
+  "asset_base_path": "assets/proyectos/colonia-sant-jordi/",
+  "cover_id": "colonia-sant-jordi-fachada-escalera-exterior",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "colonia-sant-jordi-fachada-escalera-exterior",
+      "colonia-sant-jordi-fachada-acristalada",
+      "colonia-sant-jordi-terraza-piscina",
+      "colonia-sant-jordi-escalera-patio",
+      "colonia-sant-jordi-rellano-accesos",
+      "colonia-sant-jordi-hueco-escalera",
+      "colonia-sant-jordi-entrada-jardin",
+      "colonia-sant-jordi-fachada-lateral",
+      "colonia-sant-jordi-detalle-volumenes"
+    ]
+  },
+  "excluded_duplicates": [
+    {
+      "original_filename": "colonia st jordi_08.webp",
+      "duplicate_of": "colonia st jordi_01.webp",
+      "reason": "Identical decoded image pixels; metadata differs."
+    }
+  ],
+  "images": [
+    {
+      "id": "colonia-sant-jordi-fachada-escalera-exterior",
+      "original_filename": "colonia st jordi_01.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Fachada de Colonia Sant Jordi con volúmenes blancos, balcones y una escalera exterior.",
+      "caption": "Fachada y escalera exterior de Colonia Sant Jordi.",
+      "description": "Vista exterior de Colonia Sant Jordi, en Mallorca, con volúmenes blancos, balcones y una escalera que conecta los niveles del edificio.",
+      "src": "colonia-sant-jordi-fachada-escalera-exterior-1920.webp",
+      "width": 1920,
+      "height": 1101,
+      "bytes": 74976,
+      "srcset": "colonia-sant-jordi-fachada-escalera-exterior-480.webp 480w, colonia-sant-jordi-fachada-escalera-exterior-960.webp 960w, colonia-sant-jordi-fachada-escalera-exterior-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "colonia-sant-jordi-fachada-escalera-exterior-480.webp",
+          "width": 480,
+          "height": 275,
+          "bytes": 7390,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-fachada-escalera-exterior-960.webp",
+          "width": 960,
+          "height": 550,
+          "bytes": 21062,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-fachada-escalera-exterior-1920.webp",
+          "width": 1920,
+          "height": 1101,
+          "bytes": 74976,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "colonia-sant-jordi-fachada-acristalada",
+      "original_filename": "colonia st jordi_00.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Fachada de Colonia Sant Jordi con grandes ventanas, terraza y un porche en la planta inferior.",
+      "caption": "Fachada acristalada de Colonia Sant Jordi.",
+      "description": "Vista de Colonia Sant Jordi con grandes huecos acristalados, terraza y porche, junto a una zona exterior con piscina.",
+      "src": "colonia-sant-jordi-fachada-acristalada-1485.webp",
+      "width": 1485,
+      "height": 1600,
+      "bytes": 143700,
+      "srcset": "colonia-sant-jordi-fachada-acristalada-480.webp 480w, colonia-sant-jordi-fachada-acristalada-960.webp 960w, colonia-sant-jordi-fachada-acristalada-1485.webp 1485w",
+      "variants": [
+        {
+          "src": "colonia-sant-jordi-fachada-acristalada-480.webp",
+          "width": 480,
+          "height": 517,
+          "bytes": 21684,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-fachada-acristalada-960.webp",
+          "width": 960,
+          "height": 1034,
+          "bytes": 65932,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-fachada-acristalada-1485.webp",
+          "width": 1485,
+          "height": 1600,
+          "bytes": 143700,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "colonia-sant-jordi-terraza-piscina",
+      "original_filename": "colonia st jordi_09.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Terraza de Colonia Sant Jordi con piscina, barandilla blanca y vistas al mar.",
+      "caption": "Terraza con piscina de Colonia Sant Jordi.",
+      "description": "Vista de la terraza de Colonia Sant Jordi con piscina, pavimento de lamas, barandilla blanca y el mar al fondo.",
+      "src": "colonia-sant-jordi-terraza-piscina-1600.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 264236,
+      "srcset": "colonia-sant-jordi-terraza-piscina-480.webp 480w, colonia-sant-jordi-terraza-piscina-960.webp 960w, colonia-sant-jordi-terraza-piscina-1600.webp 1600w",
+      "variants": [
+        {
+          "src": "colonia-sant-jordi-terraza-piscina-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 31332,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-terraza-piscina-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 107658,
+          "quality": 76
+        },
+        {
+          "src": "colonia-sant-jordi-terraza-piscina-1600.webp",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 264236,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "colonia-sant-jordi-escalera-patio",
+      "original_filename": "colonia st jordi_02.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Escalera de Colonia Sant Jordi con estructura oscura y barandillas, junto a un patio ajardinado.",
+      "caption": "Escalera y patio de Colonia Sant Jordi.",
+      "description": "Vista desde el interior de los recorridos de Colonia Sant Jordi hacia una escalera de estructura oscura y un patio ajardinado.",
+      "src": "colonia-sant-jordi-escalera-patio-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 203112,
+      "srcset": "colonia-sant-jordi-escalera-patio-480.webp 480w, colonia-sant-jordi-escalera-patio-960.webp 960w, colonia-sant-jordi-escalera-patio-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "colonia-sant-jordi-escalera-patio-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 19924,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-escalera-patio-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 62898,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-escalera-patio-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 203112,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "colonia-sant-jordi-rellano-accesos",
+      "original_filename": "colonia st jordi_03.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Rellano de Colonia Sant Jordi con escaleras, barandillas oscuras y puertas de acceso.",
+      "caption": "Rellano y accesos de Colonia Sant Jordi.",
+      "description": "Vista frontal de una escalera y su rellano en Colonia Sant Jordi, con barandillas oscuras y puertas de acceso al fondo.",
+      "src": "colonia-sant-jordi-rellano-accesos-1919.webp",
+      "width": 1919,
+      "height": 1150,
+      "bytes": 201490,
+      "srcset": "colonia-sant-jordi-rellano-accesos-480.webp 480w, colonia-sant-jordi-rellano-accesos-960.webp 960w, colonia-sant-jordi-rellano-accesos-1919.webp 1919w",
+      "variants": [
+        {
+          "src": "colonia-sant-jordi-rellano-accesos-480.webp",
+          "width": 480,
+          "height": 288,
+          "bytes": 20294,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-rellano-accesos-960.webp",
+          "width": 960,
+          "height": 575,
+          "bytes": 59280,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-rellano-accesos-1919.webp",
+          "width": 1919,
+          "height": 1150,
+          "bytes": 201490,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "colonia-sant-jordi-hueco-escalera",
+      "original_filename": "colonia st jordi_07.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Hueco de escalera de Colonia Sant Jordi con tramos superiores, barandillas oscuras y paredes blancas.",
+      "caption": "Hueco de escalera de Colonia Sant Jordi.",
+      "description": "Vista ascendente del hueco de escalera de Colonia Sant Jordi, con tramos superpuestos, barandillas oscuras y paredes blancas.",
+      "src": "colonia-sant-jordi-hueco-escalera-1688.webp",
+      "width": 1688,
+      "height": 1600,
+      "bytes": 160414,
+      "srcset": "colonia-sant-jordi-hueco-escalera-480.webp 480w, colonia-sant-jordi-hueco-escalera-960.webp 960w, colonia-sant-jordi-hueco-escalera-1688.webp 1688w",
+      "variants": [
+        {
+          "src": "colonia-sant-jordi-hueco-escalera-480.webp",
+          "width": 480,
+          "height": 455,
+          "bytes": 14658,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-hueco-escalera-960.webp",
+          "width": 960,
+          "height": 910,
+          "bytes": 51324,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-hueco-escalera-1688.webp",
+          "width": 1688,
+          "height": 1600,
+          "bytes": 160414,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "colonia-sant-jordi-entrada-jardin",
+      "original_filename": "colonia st jordi_05.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Entrada de Colonia Sant Jordi con puerta rojiza, pilar blanco y una zona ajardinada con grava.",
+      "caption": "Entrada ajardinada de Colonia Sant Jordi.",
+      "description": "Vista de una entrada de Colonia Sant Jordi, con puerta rojiza, un pilar blanco y una zona de grava con vegetación junto al acceso.",
+      "src": "colonia-sant-jordi-entrada-jardin-1130.webp",
+      "width": 1130,
+      "height": 1600,
+      "bytes": 146816,
+      "srcset": "colonia-sant-jordi-entrada-jardin-480.webp 480w, colonia-sant-jordi-entrada-jardin-960.webp 960w, colonia-sant-jordi-entrada-jardin-1130.webp 1130w",
+      "variants": [
+        {
+          "src": "colonia-sant-jordi-entrada-jardin-480.webp",
+          "width": 480,
+          "height": 680,
+          "bytes": 38602,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-entrada-jardin-960.webp",
+          "width": 960,
+          "height": 1359,
+          "bytes": 110660,
+          "quality": 76
+        },
+        {
+          "src": "colonia-sant-jordi-entrada-jardin-1130.webp",
+          "width": 1130,
+          "height": 1600,
+          "bytes": 146816,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "colonia-sant-jordi-fachada-lateral",
+      "original_filename": "colonia st jordi_04.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Fachada lateral de Colonia Sant Jordi con huecos de acceso y un recorrido exterior junto al edificio.",
+      "caption": "Fachada lateral de Colonia Sant Jordi.",
+      "description": "Vista longitudinal de la fachada lateral de Colonia Sant Jordi, con paredes claras, huecos de acceso y un recorrido exterior junto al edificio.",
+      "src": "colonia-sant-jordi-fachada-lateral-794.webp",
+      "width": 794,
+      "height": 1600,
+      "bytes": 42500,
+      "srcset": "colonia-sant-jordi-fachada-lateral-480.webp 480w, colonia-sant-jordi-fachada-lateral-640.webp 640w, colonia-sant-jordi-fachada-lateral-794.webp 794w",
+      "variants": [
+        {
+          "src": "colonia-sant-jordi-fachada-lateral-480.webp",
+          "width": 480,
+          "height": 967,
+          "bytes": 18692,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-fachada-lateral-640.webp",
+          "width": 640,
+          "height": 1290,
+          "bytes": 29890,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-fachada-lateral-794.webp",
+          "width": 794,
+          "height": 1600,
+          "bytes": 42500,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "colonia-sant-jordi-detalle-volumenes",
+      "original_filename": "colonia st jordi_06.webp",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Detalle de los volúmenes blancos y balcones de Colonia Sant Jordi vistos desde abajo.",
+      "caption": "Detalle de los volúmenes de Colonia Sant Jordi.",
+      "description": "Vista ascendente de la fachada de Colonia Sant Jordi, con volúmenes blancos, balcones en distintos planos y cielo al fondo.",
+      "src": "colonia-sant-jordi-detalle-volumenes-936.webp",
+      "width": 936,
+      "height": 1600,
+      "bytes": 44536,
+      "srcset": "colonia-sant-jordi-detalle-volumenes-480.webp 480w, colonia-sant-jordi-detalle-volumenes-640.webp 640w, colonia-sant-jordi-detalle-volumenes-936.webp 936w",
+      "variants": [
+        {
+          "src": "colonia-sant-jordi-detalle-volumenes-480.webp",
+          "width": 480,
+          "height": 821,
+          "bytes": 14380,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-detalle-volumenes-640.webp",
+          "width": 640,
+          "height": 1094,
+          "bytes": 22722,
+          "quality": 82
+        },
+        {
+          "src": "colonia-sant-jordi-detalle-volumenes-936.webp",
+          "width": 936,
+          "height": 1600,
+          "bytes": 44536,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
