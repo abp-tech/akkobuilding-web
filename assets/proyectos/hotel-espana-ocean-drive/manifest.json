@@ -1,0 +1,938 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Hotel España Ocean Drive",
+    "slug": "hotel-espana-ocean-drive",
+    "location": "Barcelona"
+  },
+  "asset_base_path": "assets/proyectos/hotel-espana-ocean-drive/",
+  "cover_id": "hotel-espana-ocean-drive-sala-sirenas",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "hotel-espana-ocean-drive-sala-sirenas",
+      "hotel-espana-ocean-drive-fachada-principal",
+      "hotel-espana-ocean-drive-vestibulo-frontal",
+      "hotel-espana-ocean-drive-vestibulo-estar",
+      "hotel-espana-ocean-drive-atrio-arcos",
+      "hotel-espana-ocean-drive-restaurante-general",
+      "hotel-espana-ocean-drive-bar-salon",
+      "hotel-espana-ocean-drive-escalera-distribuidor",
+      "hotel-espana-ocean-drive-escalera-luz-cenital",
+      "hotel-espana-ocean-drive-escalera-vista-superior",
+      "hotel-espana-ocean-drive-patio-vista-elevada",
+      "hotel-espana-ocean-drive-patio-galerias",
+      "hotel-espana-ocean-drive-pasillo-habitaciones",
+      "hotel-espana-ocean-drive-banos-zona-comun",
+      "hotel-espana-ocean-drive-terraza-recorrido",
+      "hotel-espana-ocean-drive-terraza-pergola",
+      "hotel-espana-ocean-drive-piscina-terraza",
+      "hotel-espana-ocean-drive-barra-terraza-noche",
+      "hotel-espana-ocean-drive-habitacion-amarilla",
+      "hotel-espana-ocean-drive-habitacion-azul",
+      "hotel-espana-ocean-drive-bano-suite",
+      "hotel-espana-ocean-drive-terraza-privada"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "hotel-espana-ocean-drive-sala-sirenas",
+      "original_filename": "espana_31.webp",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Sala del Hotel España Ocean Drive con columnas, cubierta acristalada, murales y asientos distribuidos alrededor de mesas.",
+      "caption": "Vista general de la Sala Sirenas del Hotel España Ocean Drive.",
+      "description": "Vista general de la Sala Sirenas del Hotel España Ocean Drive, con columnas a ambos lados, cubierta acristalada, murales y una zona de mesas y asientos bajo luminarias suspendidas.",
+      "src": "hotel-espana-ocean-drive-sala-sirenas-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 274406,
+      "srcset": "hotel-espana-ocean-drive-sala-sirenas-480.webp 480w, hotel-espana-ocean-drive-sala-sirenas-960.webp 960w, hotel-espana-ocean-drive-sala-sirenas-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-sala-sirenas-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 41354,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-sala-sirenas-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 102632,
+          "quality": 76
+        },
+        {
+          "src": "hotel-espana-ocean-drive-sala-sirenas-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 274406,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_1333_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_1333_result.webp",
+      "source_alt": "OD_Hotel España_1333_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-fachada-principal",
+      "original_filename": "espana_58.webp",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Fachada del Hotel España Ocean Drive con arcos en planta baja, puertas acristaladas y balcones en la planta superior.",
+      "caption": "Fachada principal del Hotel España Ocean Drive.",
+      "description": "Vista frontal de la fachada del Hotel España Ocean Drive desde la calle, con arcos en planta baja, puertas acristaladas y balcones con barandillas oscuras en la planta superior.",
+      "src": "hotel-espana-ocean-drive-fachada-principal-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 270790,
+      "srcset": "hotel-espana-ocean-drive-fachada-principal-480.webp 480w, hotel-espana-ocean-drive-fachada-principal-960.webp 960w, hotel-espana-ocean-drive-fachada-principal-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-fachada-principal-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 37878,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-fachada-principal-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 100576,
+          "quality": 76
+        },
+        {
+          "src": "hotel-espana-ocean-drive-fachada-principal-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 270790,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_1201_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_1201_result.webp",
+      "source_alt": "OD_Hotel España_1201_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-vestibulo-frontal",
+      "original_filename": "espana_33.webp",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Vestíbulo del Hotel España Ocean Drive con columnas, vitrinas azules, techo de vigas y una chimenea al fondo.",
+      "caption": "Vista frontal del vestíbulo del Hotel España Ocean Drive.",
+      "description": "Vista frontal del vestíbulo del Hotel España Ocean Drive, con columnas, vitrinas azules a ambos lados, techo de vigas, luminarias suspendidas y una chimenea al fondo.",
+      "src": "hotel-espana-ocean-drive-vestibulo-frontal-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 258598,
+      "srcset": "hotel-espana-ocean-drive-vestibulo-frontal-480.webp 480w, hotel-espana-ocean-drive-vestibulo-frontal-960.webp 960w, hotel-espana-ocean-drive-vestibulo-frontal-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-vestibulo-frontal-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 39628,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-vestibulo-frontal-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 100580,
+          "quality": 76
+        },
+        {
+          "src": "hotel-espana-ocean-drive-vestibulo-frontal-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 258598,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_679_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_679_result.webp",
+      "source_alt": "OD_Hotel España_679_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-vestibulo-estar",
+      "original_filename": "espana_17.webp",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Vestíbulo del Hotel España Ocean Drive con sofás y sillones junto a vitrinas azules, columnas y puertas acristaladas.",
+      "caption": "Zona de estar del vestíbulo del Hotel España Ocean Drive.",
+      "description": "Vista de la zona de estar del vestíbulo del Hotel España Ocean Drive, con sofás, sillones y una mesa baja entre columnas, vitrinas azules y puertas acristaladas.",
+      "src": "hotel-espana-ocean-drive-vestibulo-estar-1800.webp",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 293088,
+      "srcset": "hotel-espana-ocean-drive-vestibulo-estar-480.webp 480w, hotel-espana-ocean-drive-vestibulo-estar-960.webp 960w, hotel-espana-ocean-drive-vestibulo-estar-1800.webp 1800w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-vestibulo-estar-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 43924,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-vestibulo-estar-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 111342,
+          "quality": 70
+        },
+        {
+          "src": "hotel-espana-ocean-drive-vestibulo-estar-1800.webp",
+          "width": 1800,
+          "height": 1200,
+          "bytes": 293088,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/12/OD-Barcelona_479_result.jpg",
+      "source_original_filename": "OD-Barcelona_479_result.jpg",
+      "source_alt": "Hotel España Ocean Drive Lobby"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-atrio-arcos",
+      "original_filename": "espana_29.webp",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Atrio del Hotel España Ocean Drive con arcos, columnas, pavimento geométrico y una planta en el centro de los asientos.",
+      "caption": "Atrio con arcos del Hotel España Ocean Drive.",
+      "description": "Vista del atrio del Hotel España Ocean Drive, con arcos sobre columnas, huecos acristalados, pavimento geométrico y una planta de gran altura en el centro de una zona de asientos.",
+      "src": "hotel-espana-ocean-drive-atrio-arcos-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 277550,
+      "srcset": "hotel-espana-ocean-drive-atrio-arcos-480.webp 480w, hotel-espana-ocean-drive-atrio-arcos-960.webp 960w, hotel-espana-ocean-drive-atrio-arcos-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-atrio-arcos-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 42048,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-atrio-arcos-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 106478,
+          "quality": 76
+        },
+        {
+          "src": "hotel-espana-ocean-drive-atrio-arcos-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 277550,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_807_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_807_result.webp",
+      "source_alt": "OD_Hotel España_807_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-restaurante-general",
+      "original_filename": "espana_43.webp",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Restaurante del Hotel España Ocean Drive con mesas en dos filas, bancos laterales y techo decorado.",
+      "caption": "Vista general del restaurante del Hotel España Ocean Drive.",
+      "description": "Vista longitudinal del restaurante del Hotel España Ocean Drive, con mesas distribuidas en dos filas, bancos junto a las paredes decoradas, luminarias y un techo con paneles ornamentados.",
+      "src": "hotel-espana-ocean-drive-restaurante-general-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 321644,
+      "srcset": "hotel-espana-ocean-drive-restaurante-general-480.webp 480w, hotel-espana-ocean-drive-restaurante-general-960.webp 960w, hotel-espana-ocean-drive-restaurante-general-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-restaurante-general-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 43088,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-restaurante-general-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 107152,
+          "quality": 73
+        },
+        {
+          "src": "hotel-espana-ocean-drive-restaurante-general-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 321644,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_937_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_937_result.webp",
+      "source_alt": "OD_Hotel España_937_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-bar-salon",
+      "original_filename": "espana_37.webp",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Salón del Hotel España Ocean Drive con mesas, sillones, columnas y una barra bajo estanterías iluminadas.",
+      "caption": "Salón y barra del Hotel España Ocean Drive.",
+      "description": "Vista general de un salón del Hotel España Ocean Drive, con mesas, sillones, columnas y una barra bajo estanterías iluminadas, junto a grandes huecos en arco.",
+      "src": "hotel-espana-ocean-drive-bar-salon-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 280126,
+      "srcset": "hotel-espana-ocean-drive-bar-salon-480.webp 480w, hotel-espana-ocean-drive-bar-salon-960.webp 960w, hotel-espana-ocean-drive-bar-salon-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-bar-salon-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 39840,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-bar-salon-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 107818,
+          "quality": 76
+        },
+        {
+          "src": "hotel-espana-ocean-drive-bar-salon-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 280126,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_729_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_729_result.webp",
+      "source_alt": "OD_Hotel España_729_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-escalera-distribuidor",
+      "original_filename": "espana_66.webp",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Escalera del Hotel España Ocean Drive con peldaños claros, barandillas ornamentadas y un distribuidor de pavimento geométrico.",
+      "caption": "Escalera y distribuidor del Hotel España Ocean Drive.",
+      "description": "Vista completa de un tramo de escalera del Hotel España Ocean Drive, con peldaños claros, barandillas oscuras ornamentadas y un distribuidor de pavimento geométrico en la planta inferior.",
+      "src": "hotel-espana-ocean-drive-escalera-distribuidor-1066.webp",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 159502,
+      "srcset": "hotel-espana-ocean-drive-escalera-distribuidor-480.webp 480w, hotel-espana-ocean-drive-escalera-distribuidor-768.webp 768w, hotel-espana-ocean-drive-escalera-distribuidor-1066.webp 1066w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-escalera-distribuidor-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 51012,
+          "quality": 76
+        },
+        {
+          "src": "hotel-espana-ocean-drive-escalera-distribuidor-768.webp",
+          "width": 768,
+          "height": 1153,
+          "bytes": 97268,
+          "quality": 70
+        },
+        {
+          "src": "hotel-espana-ocean-drive-escalera-distribuidor-1066.webp",
+          "width": 1066,
+          "height": 1600,
+          "bytes": 159502,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_1319_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_1319_result.webp",
+      "source_alt": "OD_Hotel España_1319_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-escalera-luz-cenital",
+      "original_filename": "espana_34.webp",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Vista ascendente de la escalera del Hotel España Ocean Drive con barandillas oscuras, paredes cálidas y luz cenital.",
+      "caption": "Escalera y luz cenital del Hotel España Ocean Drive.",
+      "description": "Vista ascendente del hueco de escalera del Hotel España Ocean Drive, con tramos superpuestos, barandillas oscuras ornamentadas, paredes de tonos cálidos y entrada de luz cenital.",
+      "src": "hotel-espana-ocean-drive-escalera-luz-cenital-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 201886,
+      "srcset": "hotel-espana-ocean-drive-escalera-luz-cenital-480.webp 480w, hotel-espana-ocean-drive-escalera-luz-cenital-960.webp 960w, hotel-espana-ocean-drive-escalera-luz-cenital-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-escalera-luz-cenital-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 31756,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-escalera-luz-cenital-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 95890,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-escalera-luz-cenital-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 201886,
+          "quality": 76
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_708_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_708_result.webp",
+      "source_alt": "OD_Hotel España_708_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-escalera-vista-superior",
+      "original_filename": "espana_39.webp",
+      "order": 10,
+      "is_cover": false,
+      "alt": "Hueco de escalera del Hotel España Ocean Drive visto desde arriba, con tramos sucesivos y barandillas oscuras.",
+      "caption": "Escalera desde arriba del Hotel España Ocean Drive.",
+      "description": "Vista descendente del hueco de escalera del Hotel España Ocean Drive, con tramos sucesivos, peldaños claros, paredes de tono cálido y barandillas oscuras ornamentadas.",
+      "src": "hotel-espana-ocean-drive-escalera-vista-superior-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 213900,
+      "srcset": "hotel-espana-ocean-drive-escalera-vista-superior-480.webp 480w, hotel-espana-ocean-drive-escalera-vista-superior-960.webp 960w, hotel-espana-ocean-drive-escalera-vista-superior-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-escalera-vista-superior-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 36580,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-escalera-vista-superior-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 104376,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-escalera-vista-superior-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 213900,
+          "quality": 76
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_753_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_753_result.webp",
+      "source_alt": "OD_Hotel España_753_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-patio-vista-elevada",
+      "original_filename": "espana_40.webp",
+      "order": 11,
+      "is_cover": false,
+      "alt": "Patio interior del Hotel España Ocean Drive con galerías de barandillas oscuras y una cubierta acristalada en la base.",
+      "caption": "Patio desde las plantas superiores del Hotel España Ocean Drive.",
+      "description": "Vista elevada del patio interior del Hotel España Ocean Drive, con galerías y balcones alrededor de varias plantas y una cubierta acristalada sobre el espacio de la planta inferior.",
+      "src": "hotel-espana-ocean-drive-patio-vista-elevada-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 307512,
+      "srcset": "hotel-espana-ocean-drive-patio-vista-elevada-480.webp 480w, hotel-espana-ocean-drive-patio-vista-elevada-960.webp 960w, hotel-espana-ocean-drive-patio-vista-elevada-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-patio-vista-elevada-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 45672,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-patio-vista-elevada-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 111352,
+          "quality": 73
+        },
+        {
+          "src": "hotel-espana-ocean-drive-patio-vista-elevada-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 307512,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_835_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_835_result.webp",
+      "source_alt": "OD_Hotel España_835_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-patio-galerias",
+      "original_filename": "espana_41.webp",
+      "order": 12,
+      "is_cover": false,
+      "alt": "Galerías del patio interior del Hotel España Ocean Drive con barandillas oscuras, puertas y ventanas en varias plantas.",
+      "caption": "Galerías del patio del Hotel España Ocean Drive.",
+      "description": "Vista de las galerías del patio interior del Hotel España Ocean Drive, con barandillas oscuras, puertas y ventanas en varias plantas sobre un espacio cubierto con vidrio.",
+      "src": "hotel-espana-ocean-drive-patio-galerias-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 231744,
+      "srcset": "hotel-espana-ocean-drive-patio-galerias-480.webp 480w, hotel-espana-ocean-drive-patio-galerias-960.webp 960w, hotel-espana-ocean-drive-patio-galerias-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-patio-galerias-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 32844,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-patio-galerias-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 103614,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-patio-galerias-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 231744,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_843_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_843_result.webp",
+      "source_alt": "OD_Hotel España_843_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-pasillo-habitaciones",
+      "original_filename": "espana_42.webp",
+      "order": 13,
+      "is_cover": false,
+      "alt": "Pasillo del Hotel España Ocean Drive con puertas oscuras, cuadros y una alfombra de motivos multicolores.",
+      "caption": "Pasillo de habitaciones del Hotel España Ocean Drive.",
+      "description": "Vista longitudinal de un pasillo del Hotel España Ocean Drive, con puertas oscuras, cuadros e iluminación mural sobre una alfombra de motivos multicolores.",
+      "src": "hotel-espana-ocean-drive-pasillo-habitaciones-1066.webp",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 176040,
+      "srcset": "hotel-espana-ocean-drive-pasillo-habitaciones-480.webp 480w, hotel-espana-ocean-drive-pasillo-habitaciones-768.webp 768w, hotel-espana-ocean-drive-pasillo-habitaciones-1066.webp 1066w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-pasillo-habitaciones-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 52656,
+          "quality": 70
+        },
+        {
+          "src": "hotel-espana-ocean-drive-pasillo-habitaciones-768.webp",
+          "width": 768,
+          "height": 1153,
+          "bytes": 110176,
+          "quality": 70
+        },
+        {
+          "src": "hotel-espana-ocean-drive-pasillo-habitaciones-1066.webp",
+          "width": 1066,
+          "height": 1600,
+          "bytes": 176040,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_890_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_890_result.webp",
+      "source_alt": "OD_Hotel España_890_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-banos-zona-comun",
+      "original_filename": "espana_46.webp",
+      "order": 14,
+      "is_cover": false,
+      "alt": "Baños del Hotel España Ocean Drive con lavabos oscuros, espejos, mamparas de tonos rojizos y pavimento geométrico.",
+      "caption": "Baños de las zonas comunes del Hotel España Ocean Drive.",
+      "description": "Vista general de una zona de baños del Hotel España Ocean Drive, con lavabos y encimeras oscuras, espejos, mamparas de tonos rojizos y pavimento geométrico.",
+      "src": "hotel-espana-ocean-drive-banos-zona-comun-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 267824,
+      "srcset": "hotel-espana-ocean-drive-banos-zona-comun-480.webp 480w, hotel-espana-ocean-drive-banos-zona-comun-960.webp 960w, hotel-espana-ocean-drive-banos-zona-comun-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-banos-zona-comun-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 38212,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-banos-zona-comun-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 110014,
+          "quality": 79
+        },
+        {
+          "src": "hotel-espana-ocean-drive-banos-zona-comun-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 267824,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_1029_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_1029_result.webp",
+      "source_alt": "OD_Hotel España_1029_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-terraza-recorrido",
+      "original_filename": "espana_49.webp",
+      "order": 15,
+      "is_cover": false,
+      "alt": "Terraza del Hotel España Ocean Drive con sofás, sombrillas estampadas y vegetación a lo largo del recorrido.",
+      "caption": "Recorrido de la terraza del Hotel España Ocean Drive.",
+      "description": "Vista longitudinal de la terraza del Hotel España Ocean Drive, con zonas de sofás, mesas, sombrillas estampadas y vegetación junto a un recorrido de pavimento de lamas.",
+      "src": "hotel-espana-ocean-drive-terraza-recorrido-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 281066,
+      "srcset": "hotel-espana-ocean-drive-terraza-recorrido-480.webp 480w, hotel-espana-ocean-drive-terraza-recorrido-960.webp 960w, hotel-espana-ocean-drive-terraza-recorrido-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-terraza-recorrido-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 46252,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-terraza-recorrido-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 110676,
+          "quality": 73
+        },
+        {
+          "src": "hotel-espana-ocean-drive-terraza-recorrido-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 281066,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_1067_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_1067_result.webp",
+      "source_alt": "OD_Hotel España_1067_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-terraza-pergola",
+      "original_filename": "espana_52.webp",
+      "order": 16,
+      "is_cover": false,
+      "alt": "Terraza del Hotel España Ocean Drive con sillones, sofá amarillo y una pérgola junto a paredes de paneles verticales.",
+      "caption": "Terraza y pérgola del Hotel España Ocean Drive.",
+      "description": "Vista general de la terraza del Hotel España Ocean Drive, con sillones, mesas bajas, un sofá amarillo y vegetación bajo una pérgola junto a paredes de paneles verticales.",
+      "src": "hotel-espana-ocean-drive-terraza-pergola-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 215238,
+      "srcset": "hotel-espana-ocean-drive-terraza-pergola-480.webp 480w, hotel-espana-ocean-drive-terraza-pergola-960.webp 960w, hotel-espana-ocean-drive-terraza-pergola-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-terraza-pergola-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 29722,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-terraza-pergola-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 91710,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-terraza-pergola-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 215238,
+          "quality": 79
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_1112_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_1112_result.webp",
+      "source_alt": "OD_Hotel España_1112_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-piscina-terraza",
+      "original_filename": "espana_62.webp",
+      "order": 17,
+      "is_cover": false,
+      "alt": "Piscina del Hotel España Ocean Drive con tumbonas, vegetación y un mural sobre las paredes que rodean el agua.",
+      "caption": "Piscina de la terraza del Hotel España Ocean Drive.",
+      "description": "Vista general de la piscina del Hotel España Ocean Drive, con tumbonas y vegetación en un lateral y un mural figurativo sobre las paredes que rodean el agua.",
+      "src": "hotel-espana-ocean-drive-piscina-terraza-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 243430,
+      "srcset": "hotel-espana-ocean-drive-piscina-terraza-480.webp 480w, hotel-espana-ocean-drive-piscina-terraza-960.webp 960w, hotel-espana-ocean-drive-piscina-terraza-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-piscina-terraza-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 36812,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-piscina-terraza-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 103586,
+          "quality": 79
+        },
+        {
+          "src": "hotel-espana-ocean-drive-piscina-terraza-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 243430,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_1275_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_1275_result.webp",
+      "source_alt": "OD_Hotel España_1275_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-barra-terraza-noche",
+      "original_filename": "espana_55.webp",
+      "order": 18,
+      "is_cover": false,
+      "alt": "Barra de la terraza del Hotel España Ocean Drive al anochecer, con mesas, asientos y cubierta de vigas.",
+      "caption": "Barra cubierta de la terraza del Hotel España Ocean Drive.",
+      "description": "Vista de la barra cubierta de la terraza del Hotel España Ocean Drive al anochecer, con mesas y asientos junto al frente verde de la barra, bajo una cubierta de vigas y paneles.",
+      "src": "hotel-espana-ocean-drive-barra-terraza-noche-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 354040,
+      "srcset": "hotel-espana-ocean-drive-barra-terraza-noche-480.webp 480w, hotel-espana-ocean-drive-barra-terraza-noche-960.webp 960w, hotel-espana-ocean-drive-barra-terraza-noche-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-barra-terraza-noche-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 44162,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-barra-terraza-noche-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 110920,
+          "quality": 70
+        },
+        {
+          "src": "hotel-espana-ocean-drive-barra-terraza-noche-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 354040,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/OD_Hotel-Espana_1148_result.webp",
+      "source_original_filename": "OD_Hotel-Espana_1148_result.webp",
+      "source_alt": "OD_Hotel España_1148_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-habitacion-amarilla",
+      "original_filename": "espana_20.webp",
+      "order": 19,
+      "is_cover": false,
+      "alt": "Habitación del Hotel España Ocean Drive con cama, paredes amarillas, televisión y armario abierto al fondo.",
+      "caption": "Habitación en tonos amarillos del Hotel España Ocean Drive.",
+      "description": "Vista general de una habitación del Hotel España Ocean Drive, con cama, paredes amarillas, televisión, armario abierto y una puerta al fondo que permite leer la distribución.",
+      "src": "hotel-espana-ocean-drive-habitacion-amarilla-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 182456,
+      "srcset": "hotel-espana-ocean-drive-habitacion-amarilla-480.webp 480w, hotel-espana-ocean-drive-habitacion-amarilla-960.webp 960w, hotel-espana-ocean-drive-habitacion-amarilla-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-habitacion-amarilla-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 21422,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-habitacion-amarilla-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 64450,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-habitacion-amarilla-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 182456,
+          "quality": 82
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/3Deluxe-Balcony-Amarillo-Hotel-Espan╠aa-Ocean-drive_result-scaled.webp",
+      "source_original_filename": "3Deluxe-Balcony-Amarillo-Hotel-Espan╠aa-Ocean-drive_result-scaled.webp",
+      "source_alt": "3Deluxe Balcony Amarillo - Hotel Espan╠âa Ocean drive_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-habitacion-azul",
+      "original_filename": "espana_23.webp",
+      "order": 20,
+      "is_cover": false,
+      "alt": "Habitación del Hotel España Ocean Drive con paredes azules, zona de estar, armario abierto y acceso al baño.",
+      "caption": "Habitación en tonos azules del Hotel España Ocean Drive.",
+      "description": "Vista de una habitación del Hotel España Ocean Drive, con paredes azules, parte de la cama en primer plano, una pequeña zona de estar, armario abierto y acceso al baño.",
+      "src": "hotel-espana-ocean-drive-habitacion-azul-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 177936,
+      "srcset": "hotel-espana-ocean-drive-habitacion-azul-480.webp 480w, hotel-espana-ocean-drive-habitacion-azul-960.webp 960w, hotel-espana-ocean-drive-habitacion-azul-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-habitacion-azul-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 18472,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-habitacion-azul-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 58482,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-habitacion-azul-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 177936,
+          "quality": 82
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/4Deluxe-azul-Hotel-Espan╠aa-Ocean-drive_result-scaled.webp",
+      "source_original_filename": "4Deluxe-azul-Hotel-Espan╠aa-Ocean-drive_result-scaled.webp",
+      "source_alt": "4Deluxe azul - Hotel Espan╠âa Ocean drive_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-bano-suite",
+      "original_filename": "espana_26.webp",
+      "order": 21,
+      "is_cover": false,
+      "alt": "Baño del Hotel España Ocean Drive con bañera, dos lavabos, espejo y ventana junto a paredes claras y rojizas.",
+      "caption": "Baño de la suite del Hotel España Ocean Drive.",
+      "description": "Vista general del baño de una suite del Hotel España Ocean Drive, con bañera independiente, dos lavabos, un espejo y una ventana, entre paredes claras y revestimientos de tonos rojizos.",
+      "src": "hotel-espana-ocean-drive-bano-suite-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 138404,
+      "srcset": "hotel-espana-ocean-drive-bano-suite-480.webp 480w, hotel-espana-ocean-drive-bano-suite-960.webp 960w, hotel-espana-ocean-drive-bano-suite-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-bano-suite-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 17004,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-bano-suite-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 49208,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-bano-suite-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 138404,
+          "quality": 82
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/11Suite-Hotel-Espan╠aa-Ocean-drive_result-scaled.webp",
+      "source_original_filename": "11Suite-Hotel-Espan╠aa-Ocean-drive_result-scaled.webp",
+      "source_alt": "11Suite- Hotel Espan╠âa Ocean drive_result"
+    },
+    {
+      "id": "hotel-espana-ocean-drive-terraza-privada",
+      "original_filename": "espana_12.webp",
+      "order": 22,
+      "is_cover": false,
+      "alt": "Terraza del Hotel España Ocean Drive con sofá, mesa baja y barandilla de vidrio frente a los tejados de Barcelona.",
+      "caption": "Terraza privada del Hotel España Ocean Drive.",
+      "description": "Vista de una terraza privada del Hotel España Ocean Drive, con sofá, mesa baja y pavimento de lamas, junto a una barandilla de vidrio frente a los tejados de Barcelona.",
+      "src": "hotel-espana-ocean-drive-terraza-privada-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 233110,
+      "srcset": "hotel-espana-ocean-drive-terraza-privada-480.webp 480w, hotel-espana-ocean-drive-terraza-privada-960.webp 960w, hotel-espana-ocean-drive-terraza-privada-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "hotel-espana-ocean-drive-terraza-privada-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 34236,
+          "quality": 82
+        },
+        {
+          "src": "hotel-espana-ocean-drive-terraza-privada-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 100230,
+          "quality": 79
+        },
+        {
+          "src": "hotel-espana-ocean-drive-terraza-privada-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 233110,
+          "quality": 70
+        }
+      ],
+      "source_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_orig,to_webp,s_webp/www.od-hotels.com/content/uploads/2025/02/1Suite-Hotel-Espan╠aa-Ocean-drive_result-1-scaled.webp",
+      "source_original_filename": "1Suite-Hotel-Espan╠aa-Ocean-drive_result-1-scaled.webp",
+      "source_alt": "1Suite - Hotel Espan╠âa Ocean drive_result"
+    }
+  ],
+  "source": {
+    "page_url": "https://www.od-hotels.com/hotel-espana-ocean-drive/",
+    "provider": "OD Hotels",
+    "acquired_on": "2026-10-19",
+    "selection_criteria": "Vistas generales de arquitectura y distribución espacial. Excluidos primeros planos de objetos, comida y detalles decorativos aislados."
+  }
+}
