@@ -1,0 +1,790 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Carrer Sol",
+    "slug": "carrer-sol-palma",
+    "location": "Palma"
+  },
+  "asset_base_path": "assets/proyectos/carrer-sol-palma/",
+  "cover_id": "carrer-sol-palma-arco-patio",
+  "cover_object_position": "50% 50%",
+  "credits": {
+    "photographer": null,
+    "copyright_holder": null,
+    "display_text": null,
+    "status": "pending"
+  },
+  "authorization": {
+    "status": "pending",
+    "reference": null
+  },
+  "gallery": {
+    "preserve_aspect_ratio": true,
+    "display_height": "uniform",
+    "order": [
+      "carrer-sol-palma-arco-patio",
+      "carrer-sol-palma-patio-fachada",
+      "carrer-sol-palma-patio-piscina",
+      "carrer-sol-palma-patio-vista-elevada",
+      "carrer-sol-palma-galeria-arcos",
+      "carrer-sol-palma-patio-dos-niveles",
+      "carrer-sol-palma-pasillo-galeria",
+      "carrer-sol-palma-escalera-patio",
+      "carrer-sol-palma-acceso-arco",
+      "carrer-sol-palma-sala-vigas",
+      "carrer-sol-palma-sala-escalera-caracol",
+      "carrer-sol-palma-escalera-curva",
+      "carrer-sol-palma-escalera-vista-superior",
+      "carrer-sol-palma-distribuidor-suelo-vidrio",
+      "carrer-sol-palma-sala-boveda",
+      "carrer-sol-palma-terraza-cubierta",
+      "carrer-sol-palma-terraza-galeria",
+      "carrer-sol-palma-cocina-ventanales",
+      "carrer-sol-palma-bano-banera",
+      "carrer-sol-palma-sala-arco-vigas"
+    ]
+  },
+  "excluded_duplicates": [],
+  "images": [
+    {
+      "id": "carrer-sol-palma-arco-patio",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_13.jpg",
+      "order": 1,
+      "is_cover": true,
+      "alt": "Vista del patio de Carrer Sol en Palma a través de un arco, con vigas de techo y pavimento claro.",
+      "caption": "Patio enmarcado por un arco de Carrer Sol, Palma.",
+      "description": "Vista desde el interior de Carrer Sol, en Palma, hacia el patio a través de un arco, con vigas en el techo, pavimento claro y una fachada de textura irregular al fondo.",
+      "src": "carrer-sol-palma-arco-patio-1920.webp",
+      "width": 1920,
+      "height": 1463,
+      "bytes": 154608,
+      "srcset": "carrer-sol-palma-arco-patio-480.webp 480w, carrer-sol-palma-arco-patio-960.webp 960w, carrer-sol-palma-arco-patio-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-arco-patio-480.webp",
+          "width": 480,
+          "height": 366,
+          "bytes": 16160,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-arco-patio-960.webp",
+          "width": 960,
+          "height": 732,
+          "bytes": 49496,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-arco-patio-1920.webp",
+          "width": 1920,
+          "height": 1463,
+          "bytes": 154608,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-patio-fachada",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_43.jpg",
+      "order": 2,
+      "is_cover": false,
+      "alt": "Patio de Carrer Sol en Palma con fachada de textura irregular, ventanas, puertas y una piscina en primer plano.",
+      "caption": "Fachada del patio de Carrer Sol, Palma.",
+      "description": "Vista del patio de Carrer Sol, en Palma, con pavimento claro, una piscina en primer plano, vegetación y una fachada de textura irregular con ventanas y puertas.",
+      "src": "carrer-sol-palma-patio-fachada-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 154040,
+      "srcset": "carrer-sol-palma-patio-fachada-480.webp 480w, carrer-sol-palma-patio-fachada-768.webp 768w, carrer-sol-palma-patio-fachada-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-patio-fachada-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 42094,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-patio-fachada-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 66634,
+          "quality": 70
+        },
+        {
+          "src": "carrer-sol-palma-patio-fachada-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 154040,
+          "quality": 73
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-patio-piscina",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_20.jpg",
+      "order": 3,
+      "is_cover": false,
+      "alt": "Patio de Carrer Sol en Palma con piscina, escalones, palmeras y muros claros alrededor del espacio exterior.",
+      "caption": "Patio y piscina de Carrer Sol, Palma.",
+      "description": "Vista general del patio de Carrer Sol, en Palma, con piscina, escalones, palmeras y jardineras junto a muros claros y superficies de textura irregular.",
+      "src": "carrer-sol-palma-patio-piscina-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 217228,
+      "srcset": "carrer-sol-palma-patio-piscina-480.webp 480w, carrer-sol-palma-patio-piscina-960.webp 960w, carrer-sol-palma-patio-piscina-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-patio-piscina-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 24762,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-patio-piscina-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 87112,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-patio-piscina-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 217228,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-patio-vista-elevada",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_8.jpg",
+      "order": 4,
+      "is_cover": false,
+      "alt": "Vista elevada del patio de Carrer Sol en Palma con piscina, palmera, escalones y vegetación junto a los muros.",
+      "caption": "Patio desde una planta superior de Carrer Sol, Palma.",
+      "description": "Vista elevada del patio de Carrer Sol, en Palma, con piscina, palmera y escalones que conectan las zonas pavimentadas, rodeadas por muros claros y vegetación.",
+      "src": "carrer-sol-palma-patio-vista-elevada-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 188838,
+      "srcset": "carrer-sol-palma-patio-vista-elevada-480.webp 480w, carrer-sol-palma-patio-vista-elevada-768.webp 768w, carrer-sol-palma-patio-vista-elevada-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-patio-vista-elevada-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 46796,
+          "quality": 79
+        },
+        {
+          "src": "carrer-sol-palma-patio-vista-elevada-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 87468,
+          "quality": 70
+        },
+        {
+          "src": "carrer-sol-palma-patio-vista-elevada-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 188838,
+          "quality": 70
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-galeria-arcos",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_4.jpg",
+      "order": 5,
+      "is_cover": false,
+      "alt": "Galería de Carrer Sol en Palma con arcos sobre columnas y barandillas ornamentadas frente al patio interior.",
+      "caption": "Galería con arcos de Carrer Sol, Palma.",
+      "description": "Vista desde la galería de Carrer Sol, en Palma, con arcos sobre columnas, barandillas oscuras ornamentadas y una escalera junto a las fachadas que rodean el patio interior.",
+      "src": "carrer-sol-palma-galeria-arcos-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 106908,
+      "srcset": "carrer-sol-palma-galeria-arcos-480.webp 480w, carrer-sol-palma-galeria-arcos-768.webp 768w, carrer-sol-palma-galeria-arcos-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-galeria-arcos-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 27352,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-galeria-arcos-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 48364,
+          "quality": 79
+        },
+        {
+          "src": "carrer-sol-palma-galeria-arcos-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 106908,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-patio-dos-niveles",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_11.jpg",
+      "order": 6,
+      "is_cover": false,
+      "alt": "Patio interior de Carrer Sol en Palma con arcos, columnas y barandillas ornamentadas en dos niveles.",
+      "caption": "Patio y galerías en dos niveles de Carrer Sol, Palma.",
+      "description": "Vista de las galerías del patio interior de Carrer Sol, en Palma, con arcos sobre columnas, puertas y barandillas oscuras ornamentadas en dos niveles.",
+      "src": "carrer-sol-palma-patio-dos-niveles-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 128974,
+      "srcset": "carrer-sol-palma-patio-dos-niveles-480.webp 480w, carrer-sol-palma-patio-dos-niveles-768.webp 768w, carrer-sol-palma-patio-dos-niveles-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-patio-dos-niveles-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 38308,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-patio-dos-niveles-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 53572,
+          "quality": 70
+        },
+        {
+          "src": "carrer-sol-palma-patio-dos-niveles-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 128974,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-pasillo-galeria",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_6.jpg",
+      "order": 7,
+      "is_cover": false,
+      "alt": "Galería de Carrer Sol en Palma con columnas, barandillas oscuras, techo de vigas y pavimento claro.",
+      "caption": "Recorrido de la galería de Carrer Sol, Palma.",
+      "description": "Vista longitudinal de la galería de Carrer Sol, en Palma, con columnas y barandillas oscuras junto al patio, techo de vigas y una puerta al fondo.",
+      "src": "carrer-sol-palma-pasillo-galeria-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 86094,
+      "srcset": "carrer-sol-palma-pasillo-galeria-480.webp 480w, carrer-sol-palma-pasillo-galeria-768.webp 768w, carrer-sol-palma-pasillo-galeria-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-pasillo-galeria-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 22140,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-pasillo-galeria-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 45060,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-pasillo-galeria-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 86094,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-escalera-patio",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_26.jpg",
+      "order": 8,
+      "is_cover": false,
+      "alt": "Escalera de Carrer Sol en Palma con barandillas ornamentadas junto a la galería de arcos y columnas.",
+      "caption": "Escalera del patio de Carrer Sol, Palma.",
+      "description": "Vista ascendente de la escalera del patio de Carrer Sol, en Palma, con barandillas oscuras ornamentadas, una galería de arcos y columnas y vigas en el techo.",
+      "src": "carrer-sol-palma-escalera-patio-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 153444,
+      "srcset": "carrer-sol-palma-escalera-patio-480.webp 480w, carrer-sol-palma-escalera-patio-768.webp 768w, carrer-sol-palma-escalera-patio-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-escalera-patio-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 45774,
+          "quality": 79
+        },
+        {
+          "src": "carrer-sol-palma-escalera-patio-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 75446,
+          "quality": 70
+        },
+        {
+          "src": "carrer-sol-palma-escalera-patio-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 153444,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-acceso-arco",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_45.jpg",
+      "order": 9,
+      "is_cover": false,
+      "alt": "Acceso de Carrer Sol en Palma bajo un arco, con cerramiento de vidrio y barandillas ornamentadas en la planta superior.",
+      "caption": "Acceso acristalado bajo un arco de Carrer Sol, Palma.",
+      "description": "Vista del acceso de Carrer Sol, en Palma, con un cerramiento acristalado bajo un arco, una ventana en la planta superior y barandillas oscuras junto a los recorridos del patio.",
+      "src": "carrer-sol-palma-acceso-arco-1066.webp",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 160790,
+      "srcset": "carrer-sol-palma-acceso-arco-480.webp 480w, carrer-sol-palma-acceso-arco-768.webp 768w, carrer-sol-palma-acceso-arco-1066.webp 1066w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-acceso-arco-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 41250,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-acceso-arco-768.webp",
+          "width": 768,
+          "height": 1153,
+          "bytes": 62542,
+          "quality": 70
+        },
+        {
+          "src": "carrer-sol-palma-acceso-arco-1066.webp",
+          "width": 1066,
+          "height": 1600,
+          "bytes": 160790,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-sala-vigas",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_1.jpg",
+      "order": 10,
+      "is_cover": false,
+      "alt": "Sala de Carrer Sol en Palma con pavimento de tono madera, puertas acristaladas y un techo de vigas iluminado.",
+      "caption": "Sala longitudinal con vigas de Carrer Sol, Palma.",
+      "description": "Vista longitudinal de una sala de Carrer Sol, en Palma, con pavimento de tono madera, paredes blancas, puertas acristaladas a ambos lados y un techo de vigas con iluminación perimetral.",
+      "src": "carrer-sol-palma-sala-vigas-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 87286,
+      "srcset": "carrer-sol-palma-sala-vigas-480.webp 480w, carrer-sol-palma-sala-vigas-960.webp 960w, carrer-sol-palma-sala-vigas-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-sala-vigas-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 11804,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-sala-vigas-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 32526,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-sala-vigas-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 87286,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-sala-escalera-caracol",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_12.jpg",
+      "order": 11,
+      "is_cover": false,
+      "alt": "Sala de Carrer Sol en Palma con escalera de caracol negra, techo de vigas y un hueco bajo un arco.",
+      "caption": "Sala con escalera de caracol de Carrer Sol, Palma.",
+      "description": "Vista de una sala de Carrer Sol, en Palma, con escalera de caracol negra bajo un techo de vigas, pavimento de tono madera y un hueco en arco abierto hacia otro espacio.",
+      "src": "carrer-sol-palma-sala-escalera-caracol-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 113338,
+      "srcset": "carrer-sol-palma-sala-escalera-caracol-480.webp 480w, carrer-sol-palma-sala-escalera-caracol-960.webp 960w, carrer-sol-palma-sala-escalera-caracol-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-sala-escalera-caracol-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 17904,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-sala-escalera-caracol-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 45454,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-sala-escalera-caracol-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 113338,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-escalera-curva",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_22.jpg",
+      "order": 12,
+      "is_cover": false,
+      "alt": "Escalera curva de Carrer Sol en Palma con laterales blancos, peldaños de tono madera y plantas junto al distribuidor.",
+      "caption": "Escalera curva y distribuidor de Carrer Sol, Palma.",
+      "description": "Vista del distribuidor de Carrer Sol, en Palma, con una escalera curva de laterales blancos, peldaños de tono madera, vegetación y entrada de luz desde las plantas superiores.",
+      "src": "carrer-sol-palma-escalera-curva-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 110028,
+      "srcset": "carrer-sol-palma-escalera-curva-480.webp 480w, carrer-sol-palma-escalera-curva-768.webp 768w, carrer-sol-palma-escalera-curva-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-escalera-curva-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 29284,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-escalera-curva-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 45944,
+          "quality": 76
+        },
+        {
+          "src": "carrer-sol-palma-escalera-curva-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 110028,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-escalera-vista-superior",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_38.jpg",
+      "order": 13,
+      "is_cover": false,
+      "alt": "Vista superior de la escalera curva de Carrer Sol en Palma con laterales blancos y peldaños de tono madera.",
+      "caption": "Escalera desde arriba de Carrer Sol, Palma.",
+      "description": "Vista descendente del hueco de escalera de Carrer Sol, en Palma, con laterales blancos curvos y peldaños de tono madera que recorren varios niveles.",
+      "src": "carrer-sol-palma-escalera-vista-superior-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 49932,
+      "srcset": "carrer-sol-palma-escalera-vista-superior-480.webp 480w, carrer-sol-palma-escalera-vista-superior-768.webp 768w, carrer-sol-palma-escalera-vista-superior-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-escalera-vista-superior-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 16088,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-escalera-vista-superior-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 28976,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-escalera-vista-superior-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 49932,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-distribuidor-suelo-vidrio",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_23.jpg",
+      "order": 14,
+      "is_cover": false,
+      "alt": "Distribuidor de Carrer Sol en Palma con un hueco acristalado en el suelo y puertas alineadas hacia otro espacio.",
+      "caption": "Distribuidor con suelo acristalado de Carrer Sol, Palma.",
+      "description": "Vista del distribuidor de Carrer Sol, en Palma, con paredes claras, pavimento de tono madera, un hueco acristalado en el suelo y puertas alineadas hacia otro espacio interior.",
+      "src": "carrer-sol-palma-distribuidor-suelo-vidrio-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 49486,
+      "srcset": "carrer-sol-palma-distribuidor-suelo-vidrio-480.webp 480w, carrer-sol-palma-distribuidor-suelo-vidrio-960.webp 960w, carrer-sol-palma-distribuidor-suelo-vidrio-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-distribuidor-suelo-vidrio-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 6850,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-distribuidor-suelo-vidrio-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 18016,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-distribuidor-suelo-vidrio-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 49486,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-sala-boveda",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_28.jpg",
+      "order": 15,
+      "is_cover": false,
+      "alt": "Sala de Carrer Sol en Palma con bóveda de textura irregular, bancos laterales y pequeños huecos iluminados al fondo.",
+      "caption": "Sala con bóveda de Carrer Sol, Palma.",
+      "description": "Vista frontal de una sala de Carrer Sol, en Palma, con bóveda de textura irregular, bancos laterales, iluminación lineal y pequeños huecos iluminados en la pared del fondo.",
+      "src": "carrer-sol-palma-sala-boveda-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 179244,
+      "srcset": "carrer-sol-palma-sala-boveda-480.webp 480w, carrer-sol-palma-sala-boveda-960.webp 960w, carrer-sol-palma-sala-boveda-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-sala-boveda-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 15796,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-sala-boveda-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 53584,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-sala-boveda-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 179244,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-terraza-cubierta",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_35.jpg",
+      "order": 16,
+      "is_cover": false,
+      "alt": "Terraza de Carrer Sol en Palma con pavimento claro, barandillas oscuras y vistas a los tejados de la ciudad.",
+      "caption": "Terraza sobre cubierta de Carrer Sol, Palma.",
+      "description": "Vista de la terraza sobre cubierta de Carrer Sol, en Palma, con pavimento claro, barandillas oscuras, jardineras y volúmenes blancos entre los tejados de la ciudad.",
+      "src": "carrer-sol-palma-terraza-cubierta-1920.webp",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 200648,
+      "srcset": "carrer-sol-palma-terraza-cubierta-480.webp 480w, carrer-sol-palma-terraza-cubierta-960.webp 960w, carrer-sol-palma-terraza-cubierta-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-terraza-cubierta-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 27722,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-terraza-cubierta-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 89028,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-terraza-cubierta-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 200648,
+          "quality": 76
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-terraza-galeria",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_47.jpg",
+      "order": 17,
+      "is_cover": false,
+      "alt": "Terraza de Carrer Sol en Palma con barandillas oscuras y una galería acristalada bajo una cubierta de tejas.",
+      "caption": "Terraza frente a la galería acristalada de Carrer Sol, Palma.",
+      "description": "Vista desde la terraza de Carrer Sol, en Palma, hacia una galería acristalada bajo una cubierta de tejas, con árboles en jardineras y barandillas oscuras a ambos lados.",
+      "src": "carrer-sol-palma-terraza-galeria-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 208016,
+      "srcset": "carrer-sol-palma-terraza-galeria-480.webp 480w, carrer-sol-palma-terraza-galeria-960.webp 960w, carrer-sol-palma-terraza-galeria-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-terraza-galeria-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 24490,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-terraza-galeria-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 80550,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-terraza-galeria-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 208016,
+          "quality": 79
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-cocina-ventanales",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_48.jpg",
+      "order": 18,
+      "is_cover": false,
+      "alt": "Cocina de Carrer Sol en Palma con isla central, techo de vigas y una hilera de ventanas de marcos de tono madera.",
+      "caption": "Cocina con isla y ventanales de Carrer Sol, Palma.",
+      "description": "Vista general de la cocina de Carrer Sol, en Palma, con isla central, pavimento de tono madera, techo de vigas y una hilera de ventanas junto a la zona de trabajo.",
+      "src": "carrer-sol-palma-cocina-ventanales-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 128244,
+      "srcset": "carrer-sol-palma-cocina-ventanales-480.webp 480w, carrer-sol-palma-cocina-ventanales-960.webp 960w, carrer-sol-palma-cocina-ventanales-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-cocina-ventanales-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 16660,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-cocina-ventanales-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 45704,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-cocina-ventanales-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 128244,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-bano-banera",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_46.jpg",
+      "order": 19,
+      "is_cover": false,
+      "alt": "Baño de Carrer Sol en Palma con bañera, dos lavabos y una ducha bajo la luz de un hueco superior.",
+      "caption": "Baño con bañera y ducha de Carrer Sol, Palma.",
+      "description": "Vista general del baño de Carrer Sol, en Palma, con bañera, dos lavabos sobre un mueble de tono madera, griferías doradas y una ducha al fondo, con luz natural desde un hueco superior.",
+      "src": "carrer-sol-palma-bano-banera-1920.webp",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 41800,
+      "srcset": "carrer-sol-palma-bano-banera-480.webp 480w, carrer-sol-palma-bano-banera-960.webp 960w, carrer-sol-palma-bano-banera-1920.webp 1920w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-bano-banera-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 5034,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-bano-banera-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 13296,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-bano-banera-1920.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 41800,
+          "quality": 82
+        }
+      ]
+    },
+    {
+      "id": "carrer-sol-palma-sala-arco-vigas",
+      "original_filename": "AKKO_CARRER_SOL_WEB_RES_15.jpg",
+      "order": 20,
+      "is_cover": false,
+      "alt": "Interior de Carrer Sol en Palma con techo de vigas vistas y un gran hueco acristalado en arco.",
+      "caption": "Sala con arco acristalado de Carrer Sol, Palma.",
+      "description": "Vista interior de Carrer Sol, en Palma, con vigas vistas en el techo, superficies de textura irregular junto al muro y un gran hueco acristalado en arco que aporta luz al espacio.",
+      "src": "carrer-sol-palma-sala-arco-vigas-1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 161418,
+      "srcset": "carrer-sol-palma-sala-arco-vigas-480.webp 480w, carrer-sol-palma-sala-arco-vigas-768.webp 768w, carrer-sol-palma-sala-arco-vigas-1200.webp 1200w",
+      "variants": [
+        {
+          "src": "carrer-sol-palma-sala-arco-vigas-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 37754,
+          "quality": 82
+        },
+        {
+          "src": "carrer-sol-palma-sala-arco-vigas-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 55378,
+          "quality": 70
+        },
+        {
+          "src": "carrer-sol-palma-sala-arco-vigas-1200.webp",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 161418,
+          "quality": 82
+        }
+      ]
+    }
+  ]
+}
