@@ -65,3 +65,34 @@ La matriz procede de navegación y capturas reales del navegador. El validador n
 - Bloques de Empleo, Servicios, Inicio, Empresa y los tres sectores, más cuerpo de los 10 artículos, con capturas adicionales por breakpoint.
 
 Resultado de los controles de la matriz: 53 rutas, 318 combinaciones, 954 capturas base y 0 incidencias detectadas en los controles implementados. Se conservan las limitaciones de alcance descritas arriba.
+
+## Rectificación de fidelidad al original · 21 de octubre de 2026
+
+La auditoría del 20 de octubre verificó un contrato interno que contenía decisiones visuales incorrectas. Sus comprobaciones de consistencia no acreditaban fidelidad a Structure. Esta revisión sustituye esa conclusión: contrasta el HTML/CSS original retenido y diez plantillas originales cargadas en navegador, con las dimensiones CSS reales verificadas, no solo las solicitadas.
+
+Se mantiene la adaptación editorial y fotográfica de AKKO, Inter e IBM Plex Mono como sustituciones exigidas, y el diseño aprobado de Servicios. La identidad y el pie aprobado de AKKO se conservan. No se declara identidad píxel a píxel entre contenidos y familias tipográficas diferentes.
+
+| Página / Componente | Breakpoint (Dispositivo) | Tipo de Fallo | Descripción del Problema | Estado | Cambio Aplicado en Código |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Home / H1 | Desktop 1440 / 1920 | Escala tipográfica | El H1 con variante visual H2 se forzaba a 116px; el original usa 81,6px. | Corregido | Rol `home-display`: 81,6px desde 1200px, 59,2px debajo; Inter 500 estable. |
+| Todas / texto monoespaciado | 375 / 430 / 768 / 1024 / 1440 / 1920 | Familia | Los párrafos `body` anulaban la familia de `.font-ibm-mono`; ocurría también en párrafos con la utilidad en el propio nodo. | Corregido | Rol `mono-body`, familia IBM Plex Mono 400, 16px/1.3; precedencia explícita y normalizador idempotente. |
+| Todas / jerarquía visual | Todos | Escala / interlineado | El contrato sustituía las variantes originales por una escala nueva, confundiendo H5 con metadatos mono. | Corregido | Recuperadas escalas H1 98,4/73,6; H2 81,6/59,2; H3 44,8/33,6; H4 20; H5 16. Títulos en pastilla 66,4/36,8 y H2 móvil 27,2. |
+| Todas / retícula | Todos | Márgenes | Márgenes asimétricos 176/94,4px alteraban anchos, proporciones y saltos. | Corregido | Márgenes originales simétricos 8/40/94,4px y contenido centrado por encima de 2044,8px. Servicios conserva su propia retícula. |
+| Cabecera / idioma | Tablet / Desktop | Alineación | Selector de idioma fuera del margen derecho del contenido; marca ocupaba el inicio de la retícula. | Corregido | Límite derecho compartido; reserva de marca 64px y navegación desde 94,4px; cabecera móvil hasta 768px. |
+| Home / últimos proyectos | Desktop | Proporciones | Ancho y tipo de las tarjetas no correspondían a la referencia. | Corregido | Slider 70% y enlaces 30%-1em entre 1200–1599; 50/50 desde 1600; imagen 50%, proporción original. |
+| Home / Nuestro trabajo | Desktop | Alturas / imágenes | Tres filas fijas y reparto porcentual comprimían imágenes. | Corregido | Alturas naturales, títulos 17rem e imagen calc(100%-18rem); proporción y columnas originales; Swiper `slidesPerView:auto`. |
+| Home / contacto | Todos | Contenido añadido | Subtítulo y bloque largo bajo la pastilla señalados por el usuario. | Corregido | Retirados únicamente esos dos bloques; archivados en `content/removed-home-cta.json`. |
+| CTA de otras páginas | Tablet / Desktop | Jerarquía / composición | Título metido dentro de la columna izquierda en lugar de preceder las dos columnas. | Corregido | Título H2 común como hermano anterior; reparto original 49/51 y márgenes; contenido adaptado conservado. |
+| Empresa / noticias | Todos | Layout inventado | Carrusel y filas fijas podían comprimir o ocultar imágenes y extractos. | Corregido | Lista natural, imágenes con padding 65%, división 47/53 desde 1200; eliminado comportamiento del carrusel. |
+| Empresa / origen | Tablet / Desktop | Breakpoint | Composición a sangre desde 768 y fotos forzadas cuadradas. | Corregido | Composición original desde 990, tres columnas 30%, fotos con proporción propia. |
+| Noticias / categorías | Todos | Componente ausente | Se había eliminado la navegación de categorías. | Corregido | Restituida con categorías editoriales actuales; botones accesibles, filtros reales y anuncio de resultados; generador actualizado. |
+| Proyectos / lista | Desktop 1440 / 1920 | Composición | Grid de previsualización del 27% ajeno a la referencia. | Corregido | Previsualización sticky de 17/31rem y desplazamientos originales; controles de orden conservados. |
+| Fichas / galería | Todos | Comportamiento inventado | Galería horizontal fijada al scroll en lugar de galería vertical. | Corregido | Restituida galería envolvente de imágenes completas y parejas desde 1200; sin interceptar scroll. 230 imágenes, orden y pies conservados en 26 fichas. |
+| Contacto / formulario | Tablet / Desktop | Flexbox | Columnas 33,3/66,7% más gap de 32px empujaban el formulario debajo. | Corregido | Eliminado gap en escritorio; 32px solo en móvil; párrafo inicial 20px/1.25. |
+| Empleo / candidatura y multimedia | Todos | Espaciado / proporción | Separaciones de 4rem/2rem y foto móvil al 70% eran añadidas. | Corregido | Separación de título 1em y bloque multimedia a sangre con padding 45%. |
+| Sectores / slider | Todos | Anidación | Retícula común aplicaba márgenes al contenedor exterior y al interior. | Corregido | Contenedor exterior sin padding; retícula solo en la sección interior. |
+| Recursos CSS/JS | Todos | Caché | Un JS antiguo podía seguir cargado aunque el HTML ya tuviera el componente nuevo. | Corregido | Versión `reference-4` en CSS, fuentes y JS; orden de capas declarado antes de cualquier hoja de componentes. |
+
+Validación: 53 documentos con un H1 y jerarquía sin saltos; 318 capturas a 1000px de alto y anchos reales 375/430/768/1024/1440/1920; ninguna diferencia entre ancho solicitado y `innerWidth`; sin overflow lateral, títulos desbordados o utilidades mono computadas como Inter. 60 comparaciones de plantilla y 114 capturas adicionales de secciones en escritorio/móvil. Comprobados filtros de Noticias, vistas de Proyectos y conservación del contenido (solo las dos retiradas solicitadas en Home).
+
+Evidencias locales: `outputs/reference-fidelity/galeria.html`, `routes-audit.json`, `comparison.json`, `sections.json` y `summary.json`. Motor: Brave/Chromium. No se ha realizado validación física de dispositivos ni Safari/Firefox. Las capturas no sustituyen una comparación visual; se han inspeccionado las composiciones de las diez plantillas y los detalles señalados por el usuario.
